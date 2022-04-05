@@ -1,274 +1,347 @@
-Marion Alberty (Student); Jennifer MacKinnon (Advisor); University of California, San Diego
+﻿Marion Alberty (Student); Jennifer MacKinnon (Advisor)
+University of California, San Diego
 The Crucial Role of Sub-Mesoscale Upper Arctic Ocean Mixing on Air-Sea-Ice Heat
 Fluxes: Analysis of a Novel Dataset
 16-EARTH16F-0020
-Austin Alford (Student); Michael Biggerstaff (Advisor); University of Oklahoma, Norman
+Austin Alford (Student); Michael Biggerstaff (Advisor)
+University of Oklahoma, Norman
 Dynamics and Microphysics of Tropical Cyclones
 16-EARTH16F-0101
-Samer Alnussirat (Student); James Miller (Advisor); University of Alabama, Huntsville
+Samer Alnussirat (Student); James Miller (Advisor)
+University of Alabama, Huntsville
 Production of Energetic Emission and Acceleration of Particles in Thunderstorms:
 Terrestrial Gamma-Ray Flashes (jointly funded with Heliophysics Division)
 16-EARTH16F-0181
-Bernadette Arakwiye (Student); Ron Eastman (Advisor); Clark University
+Bernadette Arakwiye (Student); Ron Eastman (Advisor)
+Clark University
 Monitoring Forest Degradation and Restoration in a Post Conflict Landscape: a
 Multidisciplinary and Multiscale Assessment in Western Rwanda
 16-EARTH16F-0296
-Malarvizhi Arulraj (Student); Ana Barros (Advisor); Duke University
+Malarvizhi Arulraj (Student); Ana Barros (Advisor)
+Duke University
 Quantifying and Elucidating the Physical Basis of Uncertainty in GPM Precipitation in
 Mountain Regions Using Multifrequency Radar Observations and Models
 16-EARTH16F-0404
-Hannah Attard (Student); Andrea Lang (Advisor); State University of New York, Albany
+Hannah Attard (Student); Andrea Lang (Advisor)
+State University of New York, Albany
 Exploring the Relationship Between Tropospheric Synoptic Events, Vertical Wave Activity
 Flux, and Sudden Stratospheric Warmings Using the NASA MERRA-2 Dataset
 16-EARTH16F-0105
-Hannah Baranes (Student); Jon Woodruff (Advisor); University of Massachusetts, Amherst
+Hannah Baranes (Student); Jon Woodruff (Advisor)
+University of Massachusetts, Amherst
 Modeling the Relative Impacts of Changing Storm Climatology, Sea Level Rise, and
 Shoreline Evolution on Extreme Flooding: a Boston Case Study
 16-EARTH16F-0145
-Cesar Barbedo Rocha (Student); William Young (Advisor); University of California, San Diego
+Cesar Barbedo Rocha (Student); William Young (Advisor)
+University of California, San Diego
 Upper Ocean Mesoscale to Submesoscale Wavenumber Spectra: Underlying Dynamics and
 Consequences
 16-EARTH16F-0011
-Rory Barton-Grimley (Student); Jeffrey Thayer (Advisor); University of Colorado, Boulder
+Rory Barton-Grimley (Student); Jeffrey Thayer (Advisor)
+University of Colorado, Boulder
 Novel Polarization Techniques and Instrumentation for Glacial Melt Water Laser
 Bathymetry
 16-EARTH16F-0219
-El Hachemi Bouali (Student); Thomas Oommen (Advisor); Michigan Technological University
+El Hachemi Bouali (Student); Thomas Oommen (Advisor)
+Michigan Technological University
 Landslide Life-Cycle Monitoring and Failure Prediction Using Satellite Remote Sensing
 16-EARTH16F-0086
-Tyler Brandt (Student); Jeff Dozier (Advisor); University of California, Santa Barbara
+Tyler Brandt (Student); Jeff Dozier (Advisor)
+University of California, Santa Barbara
 Using the Spatial Variability of Snow Accumulation to Evaluate the Orographic Effect in
 California's Sierra Nevada
 16-EARTH16F-0381
-Camrin Braun (Student); Simon Thorrold (Advisor); Woods Hole Oceanographic Institution
+Camrin Braun (Student); Simon Thorrold (Advisor)
+Woods Hole Oceanographic Institution
 Investigating the Influence of Mesoscale Physical/Biological Interactions on Large Pelagic
 Predators: a Synergistic Analysis of Shark Behavior and Satellite Observations
 16-EARTH16F-0344
-Eric Bullock (Student); Curtis Woodcock (Advisor); Boston University
+Eric Bullock (Student); Curtis Woodcock (Advisor)
+Boston University
 Improved Activity Data for Carbon Emissions from Forest Degradation Through Multi-
 Sensor Time Series Analysis in Southeast Asia
 16-EARTH16F-0295
-Leonardo Calle (Student); Benjamin Poulter (Advisor); Montana State University
+Leonardo Calle (Student); Benjamin Poulter (Advisor)
+Montana State University
 Disentangling the Role of Phenology and Ecosystem Demographics in the Global Land
 Carbon Sink with Integrated OCO-2, MODIS and Carbon Cycle Modeling
 16-EARTH16F-0375
-Dylan Catlett (Student); David Siegel (Advisor); University of California, Santa Barbara
+Dylan Catlett (Student); David Siegel (Advisor)
+University of California, Santa Barbara
 Linking Ocean Optical Properties with Marine Microbial Diversity Assessed by Next-
 Generation Sequencing
 16-EARTH16F-0298
-John Clare (Student); Philip Townsend (Advisor); University of Wisconsin, Madison
+John Clare (Student); Philip Townsend (Advisor)
+University of Wisconsin, Madison
 Leaves, Landscapes, and Lambda: Using Remote Sensing to Improve Predictions and
 Mechanistic Understanding of Spatiotemporal Wildlife Population Dynamics
 16-EARTH16F-0348
-Angie Crews (Student); Kerri Cahoy (Advisor); Massachusetts Institute of Technology
+Angie Crews (Student); Kerri Cahoy (Advisor)
+Massachusetts Institute of Technology
 Sustained Land Imaging- CubeSats
 16-EARTH16F-0234
-Michael Croteau (Student); Robert Nerem (Advisor); University of Colorado, Boulder
+Michael Croteau (Student); Robert Nerem (Advisor)
+University of Colorado, Boulder
 A Daily-Updated GRACE Water Storage Estimate for Improving Hydrology Models and
 Forecasting
 16-EARTH16F-0326
-William Currier (Student); Jessica Lundquist (Advisor); University of Washington, Seattle
+William Currier (Student); Jessica Lundquist (Advisor)
+University of Washington, Seattle
 Improving Snow Water Equivalent Modeling in Forests Using Remote Sensing at Multiple
 Spatial Scales
 16-EARTH16F-0018
-Kimberly DeGrandpre (Student); Zhong Lu (Advisor); Southern Methodist University, Inc
+Kimberly DeGrandpre (Student); Zhong Lu (Advisor)
+Southern Methodist University, Inc
 Physics-Based Models of Aleutian Volcanism: A Study of the Effect of Subduction Zone
 Dynamics on Deformation Source Parameters Using InSAR, GPS, and Seismicity
 16-EARTH16F-0038
-Francisco Delgado (Student); Matthew Pritchard (Advisor); Cornell University
+Francisco Delgado (Student); Matthew Pritchard (Advisor)
+Cornell University
 Understanding the Driving Conditions of a Silicic Eruption and Intrusion Using InSAR
 Geodesy and Numerical Modeling: The Example of Cordon Caulle (Southern Andes)
 16-EARTH16F-0211
-Yannis Dialynas (Student); Rafael Bras (Advisor); Georgia Tech Research Corporation
+Yannis Dialynas (Student); Rafael Bras (Advisor)
+Georgia Tech Research Corporation
 Assessing the Influence of Soil Erosion on Atmospheric CO2 Using Remote Sensing and a
 Coupled Spatially-Explicit Model
 16-EARTH16F-0033
-William Durkin (Student); Matthew Pritchard (Advisor); Cornell University
+William Durkin (Student); Matthew Pritchard (Advisor)
+Cornell University
 Coupled Changes in the Cryosphere and Solid Earth Measured by Space Geodesy
 16-EARTH16F-0223
-Kenneth Earl (Student); Shu-Hua Chen (Advisor); University of California, Davis
+Kenneth Earl (Student); Shu-Hua Chen (Advisor)
+University of California, Davis
 Hybrid Assimilation of Satellite Aerosol Observations and Its Impact on Simulations of
 Atlantic Tropical Cyclones
 16-EARTH16F-0422
-Mary Engels (Student); Robert Heinse (Advisor); University of Idaho, Moscow
+Mary Engels (Student); Robert Heinse (Advisor)
+University of Idaho, Moscow
 Mapping Soils Through the Trees: a Small Low Island Case Study
 16-EARTH16F-0235
-Alexis Eugene (Student); Marcelo Guzman (Advisor); University of Kentucky, Lexington
+Alexis Eugene (Student); Marcelo Guzman (Advisor)
+University of Kentucky, Lexington
 Contribution of Model Aqueous Aerosol Formation from 2-Oxocarboxylic Acids to Earth’s
 Radiation Balance
 16-EARTH16F-0309
-Henning Finkenzeller (Student); Rainer Volkamer (Advisor); University of Colorado, Boulder
+Henning Finkenzeller (Student); Rainer Volkamer (Advisor)
+University of Colorado, Boulder
 Extended O2-O2 Absorption Cross-Sections: Laboratory Measurements and Application
 to Atmospheric Remote Sensing
 16-EARTH16F-0134
-Julia Green (Student); Pierre Gentine (Advisor); Columbia University
+Julia Green (Student); Pierre Gentine (Advisor)
+Columbia University
 Observations of Biosphere-Atmosphere Interactions Using Satellite Data
 16-EARTH16F-0121
-Siddhant Gupta (Student); Greg McFarquhar (Advisor); University of Illinois, Urbana-
+Siddhant Gupta (Student); Greg McFarquhar (Advisor)
+University of Illinois, Urbana-
 Champaign
 Effects of Spatio-Temporal Variability in Aerosol Concentrations/Composition on Cloud
 and Radiative Properties in the South East Atlantic
 16-EARTH16F-0136
-Elias Heimisson (Student); Paul Segall (Advisor); Stanford University
+Elias Heimisson (Student); Paul Segall (Advisor)
+Stanford University
 Towards Understanding Where and When Dikes Erupt
 16-EARTH16F-0284
-Keith Jennings (Student); Noah Molotch (Advisor); University of Colorado, Boulder
+Keith Jennings (Student); Noah Molotch (Advisor)
+University of Colorado, Boulder
 Assessing the Climate Sensitivity of Mountain Snowpacks Using the Airborne Snow
 Observatory and a Distributed Snowpack Model
 16-EARTH16F-0378
-Daniel Jensen (Student); Kyle Cavanaugh (Advisor); University of California, Los Angeles
+Daniel Jensen (Student); Kyle Cavanaugh (Advisor)
+University of California, Los Angeles
 Integrating Remote Sensing Datasets for Species Discrimination, Biomass Estimation, and
 Monitoring Environmental Change in Louisiana’s Coastal Wetlands
 16-EARTH16F-0012
-Miriam Johnston (Student); Paul Moorcroft (Advisor); Harvard College
+Miriam Johnston (Student); Paul Moorcroft (Advisor)
+Harvard College
 Improving Terrestrial Biosphere Model Predictions of Coupled Carbon, Water, and
 Energy Fluxes Using Remotely Sensed Surface and Vegetation Temperatures
 16-EARTH16F-0244
-Jannes Koelling (Student); Uwe Send (Advisor); University of California, San Diego
+Jannes Koelling (Student); Uwe Send (Advisor)
+University of California, San Diego
 Using GRACE Satellite Data to Investigate Variability in Deep Ocean Transports
 16-EARTH16F-0022
-Ryan Kramer (Student); Brian Soden (Advisor); University of Miami, Key Biscayne
+Ryan Kramer (Student); Brian Soden (Advisor)
+University of Miami, Key Biscayne
 Understanding Radiative Feedbacks and Radiative Forcings of the Hydrological Cycle
 16-EARTH16F-0185
-Meredith Kraner (Student); Cornelis Kreemer (Advisor); University of Nevada, Reno
+Meredith Kraner (Student); Cornelis Kreemer (Advisor)
+University of Nevada, Reno
 Earthquake Weather: Using GPS and Satellite Data to Understand Seasonal Variation in
 Crustal Deformation and Seismicity
 16-EARTH16F-0345
-Zachary Lawrence (Student); Kenneth Minschwaner (Advisor); New Mexico Institute of Mining
+Zachary Lawrence (Student); Kenneth Minschwaner (Advisor)
+New Mexico Institute of Mining
 and Technology
 A New Perspective on Polar Vortex and Jet Interactions and Their Impacts on Past,
 Present, and Future Upper Tropospheric/Lower Stratospheric Ozone
 16-EARTH16F-0142
-Paul Levine (Student); James Randerson (Advisor); University of California, Irvine
+Paul Levine (Student); James Randerson (Advisor)
+University of California, Irvine
 Global Remote Sensing Analysis for Model Benchmarking of the Coupled Carbon and
 Hydrologic Cycles
 16-EARTH16F-0196
-Kate Lewis (Student); Kevin Arrigo (Advisor); Stanford University
+Kate Lewis (Student); Kevin Arrigo (Advisor)
+Stanford University
 Improved Algorithms for Measuring Phytoplankton Biomass and Productivity in the
 Changing Arctic Ocean
 16-EARTH16F-0064
-Paige Logan (Student); LuAnne Thompson (Advisor); University of Washington, Seattle
+Paige Logan (Student); LuAnne Thompson (Advisor)
+University of Washington, Seattle
 Resolving Deep Ocean Changes with Deep Argo and Satellite Data
 16-EARTH16F-0005
-Sandra Marcela Loria-Salazar (Student); Heather Holmes (Advisor); University of Nevada, Reno
+Sandra Marcela Loria-Salazar (Student); Heather Holmes (Advisor)
+University of Nevada, Reno
 Spatiotemporal Estimates of Surface PM2.5 Concentrations in the Western U.S. Using
 NASA MODIS-MISR Retrievals and Data Assimilation Techniques
 16-EARTH16F-0135
-Qianwen Luo (Student); Wen-wen Tung (Advisor); Purdue University
+Qianwen Luo (Student); Wen-wen Tung (Advisor)
+Purdue University
 Impacts on the Surface Energy Balance by the US landfalling Atmospheric Rivers
 16-EARTH16F-0269
-Kyle Mattingly (Student); Thomas Mote (Advisor); University of Georgia, Athens
+Kyle Mattingly (Student); Thomas Mote (Advisor)
+University of Georgia, Athens
 Connecting Changes in Poleward Energy Flux to Greenland Ice Sheet Energy Budget and
 Mass Balance: the Role of Moisture Transport by Atmospheric Rivers
 16-EARTH16F-0084
-Joshua Maurer (Student); Joerg Schaefer (Advisor); Columbia University
+Joshua Maurer (Student); Joerg Schaefer (Advisor)
+Columbia University
 Glacier Changes in High Mountain Asia Since 1970 - Combining Declassified Spy Satellite
 Imagery with Energy and Mass Balance Models
 16-EARTH16F-0347
-Brent McBride (Student); J. Vanderlei Martins (Advisor); University of Maryland Baltimore
+Brent McBride (Student); J. Vanderlei Martins (Advisor)
+University of Maryland Baltimore
 County
 Retrievals of Aerosol and Cloud Droplet Microphysical Properties with the Hyper-Angular
 Rainbow Polarimeter (HARP)
 16-EARTH16F-0243
-Elin McIlhattan (Student); Tristan L'Ecuyer (Advisor); University of Wisconsin, Madison
+Elin McIlhattan (Student); Tristan L'Ecuyer (Advisor)
+University of Wisconsin, Madison
 Utilizing NASA Active Satellite Observations to Better Understand and Model Polar Cloud
 Behavior
 16-EARTH16F-0160
-Karl Meingast (Student); Evan Kane (Advisor); Michigan Technological University
+Karl Meingast (Student); Evan Kane (Advisor)
+Michigan Technological University
 Dissolved Organic Matter Movement Across a Terrestrial-River-Coastal Interface
 16-EARTH16F-0106
-Andrea Melchiorre (Student); Luigi Boschetti (Advisor); University of Idaho, Moscow
+Andrea Melchiorre (Student); Luigi Boschetti (Advisor)
+University of Idaho, Moscow
 Satellite Constellation Requirements for 30 m Global Burned Area Mapping
 16-EARTH16F-0396
-Megan Miller (Student); Manoochehr Shirzaei (Advisor); Arizona State University
+Megan Miller (Student); Manoochehr Shirzaei (Advisor)
+Arizona State University
 Remote Sensing of Land Subsidence and Hydrological Properties Across Arizona
 16-EARTH16F-0093
-Bowen Pan (Student); Renyi Zhang (Advisor); Texas A & M, College Station
+Bowen Pan (Student); Renyi Zhang (Advisor)
+Texas A & M, College Station
 Quantification of the Impacts of Saharan Dust on Atlantic Tropical Cyclones Using
 Satellite and Aircraft Observations and Coupled Atmosphere-Ocean Models
 16-EARTH16F-0290
-Taejin Park (Student); Ranga Myneni (Advisor); Boston University
+Taejin Park (Student); Ranga Myneni (Advisor)
+Boston University
 Investigation on Changing Photosynthetically Active Growing Season and Gross
 Productivity of Northern Boreal/Arctic Vegetation Using EOS MODIS and Suomi VIIRS
 Data in Conjunction with Ground Observations
 16-EARTH16F-0265
-Briana Phillips (Student); Larry O'Neill (Advisor); Oregon State University
+Briana Phillips (Student); Larry O'Neill (Advisor)
+Oregon State University
 Observational Analysis of the Effects of Extratropical Cyclones Within the North Pacific
 Gyre Warm Pool
 16-EARTH16F-0403
-Patrick Poon (Student); Alicia Kinoshita (Advisor); San Diego State University
+Patrick Poon (Student); Alicia Kinoshita (Advisor)
+San Diego State University
 Estimating Satellite-Based Evapotranspiration After Wildfire
 16-EARTH16F-0233
-Predrag Popovic (Student); Dorian Abbot (Advisor); University of Chicago
+Predrag Popovic (Student); Dorian Abbot (Advisor)
+University of Chicago
 Exploiting Melt Pond Patterns to Understand, Forecast, and Measure Arctic Sea Ice
 16-EARTH16F-0083
-Adam Purdy (Student); Gudrun Magnusdottir (Advisor); University of California, Irvine
+Adam Purdy (Student); Gudrun Magnusdottir (Advisor)
+University of California, Irvine
 SMAP Soil Moisture & OCO-2 Solar Induced Fluorescence to Characterize ET Stress and
 Improve PTJPL-ET
 16-EARTH16F-0143
-Bryan Rainwater (Student); Darin Toohey (Advisor); University of Colorado, Boulder
+Bryan Rainwater (Student); Darin Toohey (Advisor)
+University of Colorado, Boulder
 A New Laser Hygrometer for Measurements of Stable Isotopes in Cloud Water
 16-EARTH16F-0227
-Danielle Rappaport (Student); Ralph Dubayah (Advisor); University of Maryland, College Park
+Danielle Rappaport (Student); Ralph Dubayah (Advisor)
+University of Maryland, College Park
 Combining Lidar and Acoustic Remote Sensing to Characterize the Carbon, Habitat and
 Biodiversity Consequences of Amazon Forest Degradation
 16-EARTH16F-0236
-Travis Roth (Student); Anne Nolin (Advisor); Oregon State University
+Travis Roth (Student); Anne Nolin (Advisor)
+Oregon State University
 Understanding Forest Structure Effects on Snow Accumulation and Ablation for Improved
 Satellite-Based Snow Mapping and Model Characterization
 16-EARTH16F-0426
-Jessie Saunders (Student); Jennifer Haase (Advisor); University of California, San Diego
+Jessie Saunders (Student); Jennifer Haase (Advisor)
+University of California, San Diego
 Detecting Large Shallow Slip in Tsunami Earthquakes Using High-Rate GNSS
 16-EARTH16F-0411
-Anna Savage (Student); Brian Arbic (Advisor); University of Michigan, Ann Arbor
+Anna Savage (Student); Brian Arbic (Advisor)
+University of Michigan, Ann Arbor
 Internal Gravity Wave Continuum Signatures in Sea-Surface Height
 16-EARTH16F-0003
-Alexey Shiklomanov (Student); Michael Dietze (Advisor); Boston University
+Alexey Shiklomanov (Student); Michael Dietze (Advisor)
+Boston University
 Tracking Successional Dynamics of Foliar Traits Using Remote Sensing
 16-EARTH16F-0126
-Md Sikder (Student); Faisal Hossain (Advisor); University of Washington, Seattle
+Md Sikder (Student); Faisal Hossain (Advisor)
+University of Washington, Seattle
 Operational Flood Forecasting in Flood-Prone River Deltas of the Developing World:
 Setting the Path forward for Current and Future Satellite Water Missions
 16-EARTH16F-0017
-Sam Silva (Student); Colette Heald (Advisor); Massachusetts Institute of Technology
+Sam Silva (Student); Colette Heald (Advisor)
+Massachusetts Institute of Technology
 Investigating VOC Speciation Measured from Space
 16-EARTH16F-0035
-Matthew Smarte (Student); Mitchio Okumura (Advisor); California Institute of Technology
+Matthew Smarte (Student); Mitchio Okumura (Advisor)
+California Institute of Technology
 Constraining Polar Ozone Depletion with Measurements and Modeling of Chlorine
 Peroxide Photochemistry
 16-EARTH16F-0410
-Tasha Snow (Student); Waleed Abdalati (Advisor); University of Colorado, Boulder
+Tasha Snow (Student); Waleed Abdalati (Advisor)
+University of Colorado, Boulder
 Evaluating Fjord and Coastal Sea Surface Temperature Influences on Greenland Outlet
 Glacier Variability
 16-EARTH16F-0151
-Shaojie Sun (Student); Chuanmin Hu (Advisor); University of South Florida, Tampa
+Shaojie Sun (Student); Chuanmin Hu (Advisor)
+University of South Florida, Tampa
 Ocean Surface Oil Detection and Quantification with Hyperspectral and Multispectral
 Optical Remote Sensing
 16-EARTH16F-0360
-Molly Tedesche (Student); David Barnes (Advisor); University of Alaska, Fairbanks
+Molly Tedesche (Student); David Barnes (Advisor)
+University of Alaska, Fairbanks
 Climate-Driven Extent Changes in Perennial Snowfields in the Central Brooks Range,
 Alaska: Utilizing Satellite Data to Investigate Impacts on Caribou and Inform Native
 Alaskan Subsistence Users
 16-EARTH16F-0177
-Travis Toth (Student); Jianglong Zhang (Advisor); University of North Dakota, Grand Forks
+Travis Toth (Student); Jianglong Zhang (Advisor)
+University of North Dakota, Grand Forks
 Investigating Seasonal and Annual Variability in Particulate Matter Pollution over China
 16-EARTH16F-0188
-Victoria Walker (Student); Brian Hornbuckle (Advisor); Iowa State University, Ames
+Victoria Walker (Student); Brian Hornbuckle (Advisor)
+Iowa State University, Ames
 A New Approach for Retrieving Soil Moisture from SMAP over the Corn Belt
 16-EARTH16F-0357
-Daniel Watkins (Student); Jennifer Hutchings (Advisor); Oregon State University
+Daniel Watkins (Student); Jennifer Hutchings (Advisor)
+Oregon State University
 Atmospheric Feedbacks Associated with Recent Changes in Arctic Sea Ice Dynamics
 16-EARTH16F-0419
-Erin Wetherley (Student); Dar Roberts (Advisor); University of California, Santa Barbara
+Erin Wetherley (Student); Dar Roberts (Advisor)
+University of California, Santa Barbara
 Using HyspIRI-like Data to Quantify the Effects of Urban Vegetation and Materials on
 Microclimate at Sub-Pixel Scales
 16-EARTH16F-0150
-Casey Youngflesh (Student); Heather Lynch (Advisor); State University of New York, Stony
+Casey Youngflesh (Student); Heather Lynch (Advisor)
+State University of New York, Stony
 Brook
 Environmental Forcing of Antarctic Food Web Dynamics - a Multi-Tiered Approach
 Employing Multispectral Imagery, Field Spectroscopy, and Stable Isotope Analysis
 16-EARTH16F-0004
-Meng Zhao (Student); Isabella Velicogna (Advisor); University of California, Irvine
+Meng Zhao (Student); Isabella Velicogna (Advisor)
+University of California, Irvine
 Characterizing Ecosystem Response to Hydro-Climatic Constraints Using Satellite and in
 Situ Observations
 16-EARTH16F-0414
