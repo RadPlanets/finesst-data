@@ -13,6 +13,15 @@ yr	ty	pi	fi	in
 21	earth	T. Caughlin	Andrii Zaiats	20-EARTH20-0326, Integrating UAS, Landsat, and ECOSTRESS to Fit Landscape-Level Demographic Models for Climate-Resilient Ecological Restoration
 21	earth	Dar Roberts	Christopher Kibler	20-EARTH20-0327, Drought Sensitivity of Evapotranspiration and Carbon Uptake in Riparian Woodlands
 21	earth	Daniel Dawson	Qin Jiang	20-EARTH20-0344, Investigating How Changing Environmental Conditions Favor Tornadoes Shifting Eastward over North America
+15	earth	Enrique Vivoni	Tiantian Xiang	Arizona State University
+16	astro	Philip Mauskopf	Gordon, Samuel	Arizona State University
+16	earth	Manoochehr Shirzaei	Megan Miller	Arizona State University
+16	planet	Meenakshi (Mini) Wadhwa	Dunham, Emilie	Arizona State University
+16	planet	Steven Desch	Mai, Chuhong	Arizona State University
+17	earth	Manoochehr Shirzaei	Mostafa Khoshmanesh	Arizona State University
+17	planet	Meenakshi (Mini) Wadhwa	Dunlap, Daniel	Arizona State University
+17	planet	Erik Asphaug	Gabriel, Travis	Arizona State University
+17	planet	Ariel Anbar	Johnson, Aleisha	Arizona State University
 18	planet	Meenakshi (Mini) Wadhwa	Ray, Soumya	Arizona State University
 20	astro	Evgenya Shkolnik	Tyler Richey-Yowell	Arizona State University
 20	planet	Ariel Anbar	Dan Sullivan	Arizona State University
@@ -27,9 +36,16 @@ yr	ty	pi	fi	in
 19	planet	Meenakshi (Mini) Wadhwa	Zachary Torrano	Arizona State University
 20	earth	Manoochehr Shirzaei	Grace Anne Carlson	Arizona State University
 21	planet	Masatoshi Hirabayashi	Ryota Nakano	Auburn University
+16	planet	Michael Callahan	Hammer, Phillip	Boise State University
+17	earth	Nancy Glenn	Ginikanda Ilangakoon	Boise State University
 18	earth	Hans-Peter Marshall	Joel Gongora	Boise State University
 21	earth	Jodi Brandt	Nicholas Kolarik	Boise State University
 21	earth	Ellyn Enderlin	Julia Liu	Boise State University
+16	earth	Curtis Woodcock	Eric Bullock	Boston University
+16	earth	Ranga Myneni	Taejin Park	Boston University
+16	earth	Michael Dietze	Alexey Shiklomanov	Boston University
+17	earth	Mark Friedl	Radost Stanimirova	Boston University
+17	helio	Joshua Semeter	Sivadas, Nithin	Boston University
 18	helio	Merav Opher	Kornbleuth, Marc	Boston University
 20	helio	Wen Li	Longzhi Gan	Boston University
 20	helio	Merav Opher	Warren Shelley	Boston University
@@ -37,11 +53,24 @@ yr	ty	pi	fi	in
 21	helio	Merav Opher	Xiaohan Ma	Boston University
 19	planet	Paul Withers	Kerrin Hensley	Boston University
 19	earth	David Long	Michael Walton	Brigham Young University
+17	astro	Gregory Tucker	Kilpatrick, Brian	Brown University
+17	planet	James Head	Palumbo, Ashley	Brown University
 18	planet	Stephen Parman	Anzures, Brendan	Brown University
 20	planet	Ralph Milliken	Melissa Meyer	Brown University
 20	planet	Understanding the processes occurring at Mars and the history of its climate were identified as high-priority science goals in the 2013-2022 Planetary Science Decadal Survey. An understanding of the factors controlling ion escape, which this study aims to provide, is critical in order to achieve those goals. The proposed study of ion escape processes occurring today at Mars would improve extrapolations back in time, allowing for more accurate characterization of the planet’s early atmosphere. In Section 4.3 of the 2014 Science Plan, the Planetary Science Division expressed the goals to ‘understand how [the objects in the solar system] formed and evolve’ as well as to ‘advance the understanding of how the chemical and physical processes in our solar system operate, interact and evolve.’ The accomplishment of those objectives is impossible without comprehensive study of ion escape processes at Mars.  John Mustard	Christopher Kremer	Brown University
 19	earth	Laurence Smith	Ethan Kyzivat	Brown University
 19	planet	John Mustard	Alyssa Pascuzzo	Brown University
+15	earth	Nadia Lapusta	John Rollins	California Institute of Technology
+15	planet	Bethany Ehlmann	Buz, Jennifer	California Institute of Technology
+15	planet	Michael Brown	Fischer, Patrick	California Institute of Technology
+15	planet	Andrew Ingersoll	Li, Cheng	California Institute of Technology
+15	planet	Heather Knutson	Ngo, Henry	California Institute of Technology
+15	planet	Konstantin Batygin	Spalding, Christopher	California Institute of Technology
+16	earth	Mitchio Okumura	Matthew Smarte	California Institute of Technology
+16	planet	Andrew Ingersoll	Buhler, Peter	California Institute of Technology
+16	planet	Woodward Fischer	Ward, Lewis	California Institute of Technology
+17	planet	Michael Lamb	Hayden, Alistair	California Institute of Technology
+17	planet	Michael Brown	Trumbo, Samantha	California Institute of Technology
 18	planet	Bethany Ehlmann	Scheller, Eva	California Institute of Technology
 20	planet	Francois Tissot	Haoyu Li	California Institute of Technology
 21	planet	Francois Tissot	Ren Thomas Marquez	California Institute of Technology
@@ -51,15 +80,32 @@ yr	ty	pi	fi	in
 19	planet	Yuk Yung	Danica Adams	California Institute of Technology
 20	earth	Michael Lamb	Justin A Nghiem	California Institute of Technology
 21	earth	Andrew Thompson	Yue Bai	California Institute of Technology
+15	earth	Albert Presto	Xiang Li	Carnegie Mellon University
+15	earth	Ryan Sullivan	Michael Polen	Carnegie Mellon University
+17	earth	Barry Gross	Nathaniel Levitan	City College of New York
 19	earth	Zhengzhao Luo	Sofia Chelpon	City College of New York
+17	earth	Maria Tzortziou	Brian Lamb	City College of New York
+17	earth	Kyle McDonald	Kat Jensen	City College of New York
+16	earth	Ron Eastman	Bernadette Arakwiye	Clark University
+17	earth	Christopher Williams	Tong Jiao	Clark University
 20	earth	Lyndon Estes	Lei Song	Clark University
 20	planet	John Spear	Emily A. Kraus	Colorado School of Mines
+17	earth	Tim Covino	Allison Rhea	Colorado State University
 18	earth	Tim Covino	Alexander Brooks	Colorado State University
 18	earth	David Thompson	Casey Patrizio	Colorado State University
 18	earth	Michael Bell	Naufal Razin	Colorado State University
 19	earth	Christian Kummerow	Richard Schulte	Colorado State University
 20	earth	Daniel McGrath	Randall Ray Bonnell	Colorado State University
 21	earth	Kristen Rasmussen	Marquette Rocque	Colorado State University
+15	astro	Bradley Johnson	McCarrick, Heather	Columbia University
+15	earth	Robin Bell	Winnie Chu	Columbia University
+15	earth	Mingfang Ting	Xiaoqiong Li	Columbia University
+15	earth	Lorenzo Polvani	Bernard Lipat	Columbia University
+15	earth	Joaquim Goes	Jan-Erik Tesdal	Columbia University
+16	earth	Pierre Gentine	Julia Green	Columbia University
+16	earth	Joerg Schaefer	Joshua Maurer	Columbia University
+17	earth	Park Williams	Daniel Bishop	Columbia University
+17	earth	Konstantinos Tsigaridis	Chloe Gao	Columbia University
 21	helio	Lorenzo Sironi	Aaron Tran	Columbia University
 18	earth	Arlene Fiore	Xiaomeng Jin	Columbia University
 18	earth	Adam Sobel	Zane Martin	Columbia University
@@ -70,6 +116,15 @@ yr	ty	pi	fi	in
 20	earth	Lorenzo Polvani	Ivan Mitevski	Columbia University
 20	earth	Mingfang Ting	Yujia You	Columbia University
 20	earth	Park Williams	Caroline S Juang	Columbia University
+15	planet	Alexander Hayes	Birch, Samuel	Cornell University
+15	planet	Donald Campbell	Marshall, Sean	Cornell University
+15	planet	Robin Garrod	Pauly, Tyler	Cornell University
+16	astro	Dong Lai	Vick, Michelle	Cornell University
+16	earth	Matthew Pritchard	Francisco Delgado	Cornell University
+16	earth	Matthew Pritchard	William Durkin	Cornell University
+16	planet	Alexander Hayes	Hadnott, Bryne	Cornell University
+17	earth	Rowena Lohman	Paula Burgi	Cornell University
+17	planet	Dong Lai	Pu, Bonan	Cornell University
 18	planet	Dong Lai	Anderson, Kassandra	Cornell University
 20	planet	Nikole Lewis	Ishram Mishra	Cornell University
 21	planet	Don Banfield	Carly Snell	Cornell University
@@ -79,27 +134,50 @@ yr	ty	pi	fi	in
 20	earth	Ying Sun	Jiaming Wen	Cornell University
 21	earth	Kaitlin Gold	Fernando Romero Galvan	Cornell University
 20	earth	Colin Meyer	Brita I Horlings	Dartmouth College
-18	earth	Jennifer Griswold	Dillon Dodson	Droplet Clustering and Turbulence in Marine Stratocumulus Clouds 18-EARTH18F-0310
+16	earth	Ana Barros	Malarvizhi Arulraj	Duke University
+17	earth	Mukesh Kumar	Christopher Krapu	Duke University
+17	earth	M. Susan Lozier	Ryan Peabody	Duke University
+17	earth	Drew Shindell	Karl Seltzer	Duke University
+17	earth	Justin Wright	Emily Ury	Duke University
+17	earth	Marco Marani	Enrico Zorzetto	Duke University
 18	earth	Ana Barros	Mochi Liao	Duke University
 19	earth	David Johnston	Patrick Gray	Duke University
 19	planet	Csaba Palotai	Ramanakumar Sankar	Florida Institute of Technology
+15	earth	Tiruvalam Krishnamurti	Jonathan Bielli	Florida State University
+15	earth	Vasubandhu Misra	Danielle Groenen	Florida State University
+16	planet	Jeremy Owens	Ostrander, Chadlin	Florida State University
+17	earth	Christopher Holmes	Kelly Graham	Florida State University
 19	earth	Christopher Holmes	Charles Fite	Florida State University
 20	earth	Eric Chassignet	Morgan B Shaner	Florida State University
+16	helio	Erdal Yigit	Panka, Peter	George Mason University
 19	astro	Sylvain Guiriec	Alyson Barker	George Washington University
+15	earth	Athanasios Nenes	James Hite	Georgia Institute of Technology
+15	earth	Nga Lee Ng	Javier Sanchez	Georgia Institute of Technology
 21	helio	Petrus Martens	Sumanth Rotti	Georgia State University Research Foundation, Inc.
+16	earth	Rafael Bras	Yannis Dialynas	Georgia Tech Research Corporation
+17	earth	Brian Gunter	Byron Davis	Georgia Tech Research Corporation
+17	earth	Aris Georgakakos	Courtney Di Vittorio	Georgia Tech Research Corporation
+17	earth	Athanasios Nenes	Arnaldo Negron Marty	Georgia Tech Research Corporation
 20	astro	John Wise	Danielle Skinner	Georgia Tech Research Corporation
 20	planet	Amanda Stockton	Chinmayee Govinda Raj	Georgia Tech Research Corporation
 20	planet	James Wray	Angela Dapremont	Georgia Tech Research Corporation
 19	planet	Britney Schmidt	Justin Lawrence	Georgia Tech Research Corporation
 19	planet	Amanda Stockton	Kenneth Seaton	Georgia Tech Research Corporation
+15	planet	Kunio Sayanagi	Blalock, John	Hampton University
 21	planet	Kunio Sayanagi	Justin Garland	Hampton University
+15	astro	Lars Hernquist	Mocz, Philip	Harvard College
+15	astro	Charlie Conroy	Ting, Yuan-Sen	Harvard College
+16	earth	Paul Moorcroft	Miriam Johnston	Harvard College
 20	astro	Jonathan Grindlay	Daniel Violette	Harvard College
 20	astro	Lars Hernquist	Angus Beane	Harvard College
 18	earth	Daniel Jacob	Jiawei Zhuang	Harvard College
 19	earth	Peter Huybers	Ted Amdur	Harvard College
+15	helio	Seebany Datta-Barua	Miladinovich, Daniel	Illinois Institute of Technology
+15	planet	David Bish	Achilles, Cherie	Indiana University
 21	earth	Douglas Edmonds	Harrison Martin	Indiana University
 21	earth	Kim Novick	Qing Chang	Indiana University
 21	earth	Paul Staten	Samuel Smith	Indiana University
+16	earth	Brian Hornbuckle	Victoria Walker	Iowa State University, Ames
 19	earth	Yuyu Zhou	Lin Meng	Iowa State University, Ames
 18	astro	Sarah Horst	Moran, Sarah	Johns Hopkins University
 18	planet	Sarah Horst	Hadnott, Bryne	Johns Hopkins University
@@ -108,28 +186,46 @@ yr	ty	pi	fi	in
 21	planet	Sarah Horst	Michael Radke	Johns Hopkins University
 21	planet	Darryn Waugh	Lavender Hanson	Johns Hopkins University
 19	planet	Sabine Stanley	Regupathi Angappan	Johns Hopkins University
+16	earth	Kerri Cahoy	Angie Crews	Massachusetts Institute of Technology
+16	earth	Colette Heald	Sam Silva	Massachusetts Institute of Technology
 20	planet	Glenn Flierl	Santiago J. Benavides	Massachusetts Institute of Technology
 20	planet	Benjamin Weiss	Elias Mansbach	Massachusetts Institute of Technology
 20	helio	Nuno Loureiro	Muni Zhou	Massachusetts Institute of Technology
 21	astro	Michael McDonald	Michael Calzadilla	Massachusetts Institute of Technology
 18	earth	Taylor Perron	Samuel Goldberg	Massachusetts Institute of Technology
 21	earth	Brent Minchew	Faye Hendley Elgart	Massachusetts Institute of Technology
+17	earth	Phoebe Zarnetske	Laura Twardochleb	Michigan State University
 19	earth	Phoebe Zarnetske	Beth Gerstner	Michigan State University
+15	earth	Lynn Mazzoleni	Matthew Brege	Michigan Technological University
+15	earth	Colleen Mouw	Brice Grunert	Michigan Technological University
+16	earth	Thomas Oommen	El Hachemi Bouali	Michigan Technological University
+16	earth	Evan Kane	Karl Meingast	Michigan Technological University
+17	earth	Raymond Shaw	Kamal Chandrakar	Michigan Technological University
 18	earth	Mehmet Kurum	Orhan Eroglu	Mississippi State University
 21	earth	Mehmet Kurum	Dylan Boyd	Mississippi State University
+15	earth	Jean Dixon	Sarah Benjaram	Montana State University
+16	earth	Benjamin Poulter	Leonardo Calle	Montana State University
 20	earth	Eric Sproles	Ross Palomaki	Montana State University
-20	earth	Jennifer Watts	Mary Farina	Montana State University
+20	earth	Jennifer Watts	Mary Farina	Montana State University, Bozeman
+16	planet	Eric Boyd	Lindsay, Melody	Montana State University, Bozeman
+17	helio	Charles Kankelborg	Smart, Roy	Montana State University, Bozeman
 18	planet	Mark Skidmore	Steigmeyer, August	Montana State University, Bozeman
 18	helio	John Sample	Shumko, Mykhaylo	Montana State University, Bozeman
 20	astro	Anne Lohfink	Sulov Chalise	Montana State University, Bozeman
 20	planet	Roland Hatzenpichler	George Schaible	Montana State University, Bozeman
 21	planet	Christine Foreman	Madeline Garner	Montana State University, Bozeman
 21	helio	Charles Kankelborg	Catharine Bunn	Montana State University, Bozeman
+16	helio	Alexander Kosovichev	Sadykov, Viacheslav	New Jersey Institute of Technology
 19	helio	Alexander Kosovichev	Andrey Stejko	New Jersey Institute of Technology
 21	planet	Daniel Jones	Zoe Havlena	New Mexico Institute of Mining And Technology
+16	earth	Kenneth Minschwaner	Zachary Lawrence	New Mexico Institute of Mining And Technology
+16	planet	James Murphy	Emmett, Jeremy	New Mexico State University
+17	earth	Niall Hanan	Brianna Lind	New Mexico State University
 20	planet	Nancy Chanover	David DeColibus	New Mexico State University
 20	astro	David Hogg	Kate Storey-Fisher	New York University
 21	astro	Maryam Modjaz	Marc Williamson	New York University
+15	earth	Viney Aneja	William Battye	North Carolina State University
+17	planet	Paul Byrne	Kling, Corbin	North Carolina State University
 18	earth	Nicholas Meskhidze	Xinyi Ling	North Carolina State University
 19	planet	Paul Byrne	Rachel Atkins	North Carolina State University
 21	earth	Josh Gray	Xiaojie Gao	North Carolina State University
@@ -141,25 +237,44 @@ yr	ty	pi	fi	in
 21	planet	Christopher Edwards	Christian Tai Udovicic	Northern Arizona University
 19	earth	Scott Goetz	Kathleen Orndahl	Northern Arizona University
 21	earth	Christopher Doughty	Jenna Keany	Northern Arizona University
+15	astro	Yoram Lithwick	Hadden, Sam	Northwestern University, Evanston
 18	astro	Claude-Andre Faucher-Giguere	Gurvich, Alexander	Northwestern University, Evanston
 18	planet	Magdalena Osburn	Casar, Caitlin	Northwestern University, Evanston
 21	astro	Alexander Tchekhovskoy	Danat Issa	Northwestern University, Evanston
 19	astro	Raffaella Margutti	Aprajita Hajela	Northwestern University, Evanston
 19	planet	Daniel Horton	Howard Chen	Northwestern University, Evanston
-18	earth	Christian Frankenberg	Siraput Jongaramrungruang	OPTIMEEM -OPTImize MEthane Emission Monitoring 18-EARTH18F-0174
+15	earth	Michael Durand	Stephen Tuozzolo	Ohio State University
+17	earth	Michael Durand	Apoorva Shastry	Ohio State University
 21	planet	Heather Allen	Nicole North	Ohio State University
 19	earth	Michael Durand	Stephen Coss	Ohio State University
 20	earth	Ian Howat	Allison Chartrand	Ohio State University
+15	earth	Michael Behrenfeld	Matthew Brown	Oregon State University
+15	earth	Emily Shroyer	Kerstin Cullen	Oregon State University
+16	earth	Larry O'Neill	Briana Phillips	Oregon State University
+16	earth	Anne Nolin	Travis Roth	Oregon State University
+16	earth	Jennifer Hutchings	Daniel Watkins	Oregon State University
 19	astro	Davide Lazzati	Tyler Parsotan	Oregon State University
 19	earth	Larry O'Neill	Robert Jacobs	Oregon State University
 20	earth	Rebecca Hutchinson	Laurel  Hopkins	Oregon State University
 21	earth	Jennifer Hutchings	MacKenzie Jewell	Oregon State University
+16	astro	David Burrows	Bray, Evan	Pennsylvania State University
+17	earth	Fuqing Zhang	Robert Nystrom	Pennsylvania State University
+17	planet	Christopher House	Wong, Gregory	Pennsylvania State University
 18	astro	Suvrath Mahadevan	Canas, Caleb	Pennsylvania State University
 19	planet	Christine Keating	Saehyun Choi	Pennsylvania State University
 20	earth	David Stensrud	Keenan Eure	Pennsylvania State University
 20	earth	Christelle Wauthier	Judit Gonzalez Santana	Pennsylvania State University
-19	helio	Petrus Martens	Aparna Venkataramanasastry	Prediction of Space Weather Effects using Filaments and Sound Waves as Precursors 19-HELIO19-0050
+15	astro	Anatoly Spitkovsky	Philippov, Alexander	Princeton University
+15	astro	N. Kasdin	Subedi, Hari	Princeton University
+17	earth	Mark Zondlo	Xuehui Guo	Princeton University
 19	earth	Stephan Fueglistaler	Shiv Priyam Raghuraman	Princeton University
+15	earth	Dev Niyogi	Saiprasanth Bhalachandran	Purdue University
+15	planet	David Minton	Graves, Kevin	Purdue University
+15	planet	David Minton	Huang, Ya	Purdue University
+16	earth	Wen-wen Tung	Qianwen Luo	Purdue University
+16	planet	David Minton	Hesselbrock, Andrew	Purdue University
+17	earth	Qianlai Zhuang	Youmi Oh	Purdue University
+17	earth	Dev Niyogi	Anamika Shreevastava	Purdue University
 18	planet	Briony Horgan	Scudder, Noel	Purdue University
 18	planet	Andrew Freed	Trowbridge, Alexander	Purdue University
 20	planet	Brandon Johnson	Camille Denton	Purdue University
@@ -168,30 +283,53 @@ yr	ty	pi	fi	in
 19	earth	Venkatesh Merwade	Alka Tiwari	Purdue University
 19	planet	Briony Horgan	Prakhar Sinha	Purdue University
 21	earth	James Garrison	Seho Kim	Purdue University
+16	planet	Karyn Rogers	Eskew, Bryan	Rensselaer Polytechnic Institute
+17	astro	Michael Zemcov	Nguyen, Chi	Rochester Institute of Technology
 19	earth	Kay Bidle	Ben Diaz	Rutgers University, New Brunswick
 19	planet	Debashish Bhattacharya	Julia Van Etten	Rutgers University, New Brunswick
+17	planet	Paul Bracher	Campbell, Thomas	Saint Louis University
 21	planet	Paul Bracher	Steven Skaggs	Saint Louis University
-18	earth	Yvette Spitz	Zach Wallace	Significance of Calcifiers to the Iron and Carbon Cycles in the Patagonia Shelf Region: A
+16	earth	Alicia Kinoshita	Patrick Poon	San Diego State University
+17	earth	Li An	Jie Dai	San Diego State University
+17	earth	Douglas Stow	Emanuel Storey	San Diego State University
 18	earth	David Roy	Pedro Valle de Carvalho e Oliveira	South Dakota State University
-20	planet	Tomce Runcevski	Christina McConville	Southern Methodist University, Inc
+15	earth	Zhong Lu	Xie Hu	Southern Methodist University
+16	earth	Zhong Lu	Kimberly DeGrandpre	Southern Methodist University
+20	planet	Tomce Runcevski	Christina McConville	Southern Methodist University
+15	earth	Christopher Field	Grayson Badgley	Stanford University
+15	helio	Philip Scherrer	Chen, Ruizhu	Stanford University
+16	earth	Paul Segall	Elias Heimisson	Stanford University
+16	earth	Kevin Arrigo	Kate Lewis	Stanford University
 18	earth	Alexandra Konings	Nathan Dadap	Stanford University
 21	planet	Sonia Tikoo	Ji-In Jung	Stanford University
 18	earth	Alexandra Konings	Krishna Rao	Stanford University
 19	astro	Roger Romani	Abel Peirson V	Stanford University
 20	earth	Alexandra Konings	Nataniel M Holtzman	Stanford University
 21	earth	Alexandra Konings	Caroline Famiglietti	Stanford University
+15	earth	Kristen Corbosiero	Stephanie Stevenson	State University of New York, Albany
+16	earth	Andrea Lang	Hannah Attard	State University of New York, Albany
 21	earth	Sara Lance	Christopher Lawrence	State University of New York, Albany
 18	earth	Adam Wilson	Chenyang Wei	State University of New York, Buffalo
+15	planet	Joel Hurowitz	Thorpe, Michael	State University of New York, Stony Brook
+16	planet	Timothy Glotch	Rucks, Melinda	State University of New York, Stony Brook
 21	planet	Joel Hurowitz	Victoria Rivera Banuchi	State University of New York, Stony Brook
+16	earth	Heather Lynch	Casey Youngflesh	State University of New York, Stony Brook
 19	earth	William Holt	Jeonghyeop Kim	State University of New York, Stony Brook
 20	earth	Heather Lynch	Rachael Whitney Herman	State University of New York, Stony Brook
-18	earth	Courtney Schumacher	Lidia Huaman Chuquihuaccha	Texas A&M University
-19	astro	Casey Papovich	Vicente Estrada-Carpenter	Texas A&M University
-19	earth	Ping Yang	Jeffrey Mast	Texas A&M University
-20	earth	Andrew Dessler	Li-Wei Chao	Texas A&M University
-20	earth	Ping Yang	Nancy Nanna Okeudo	Texas A&M University
+17	earth	Huilin Gao	Gang Zhao	Texas A&M Engineering Experiment Station
+16	earth	Renyi Zhang	Bowen Pan	Texas A&M University, College Station
+18	earth	Courtney Schumacher	Lidia Huaman Chuquihuaccha	Texas A&M University, College Station
+19	astro	Casey Papovich	Vicente Estrada-Carpenter	Texas A&M University, College Station
+19	earth	Ping Yang	Jeffrey Mast	Texas A&M University, College Station
+15	earth	Ping Yang	Souichiro Hioki	Texas A&M University, College Station
+20	earth	Andrew Dessler	Li-Wei Chao	Texas A&M University, College Station
+20	earth	Ping Yang	Nancy Nanna Okeudo	Texas A&M University, College Station
+17	earth	Ping Yang	Adam Bell	Texas A&M University, College Station
+16	planet	William Jackson	Brundrett, Maeghan	Texas Tech University, Lubbock
 20	earth	Helen Amanda Fricker	Philipp Sebastian Arndt	UCSD, Scripps Institution of Oceanography
-20	earth	John Mecikalski	Sebastian S Harkema	University of Alabama in Huntsville
+15	helio	Jacob Heerikhuisen	DeStefano, Anthony	University of Alabama, Huntsville
+16	helio	Gary Zank	Mostafavi, Parisa	University of Alabama, Huntsville
+17	helio	Gary Zank	Tang, Bofeng	University of Alabama, Huntsville
 18	planet	Richard Miller	Phillips, Deanna	University of Alabama, Huntsville
 18	helio	Nikolai Pogorelov	Singh, Talwinder	University of Alabama, Huntsville
 20	helio	Gang Li	Michael Terres	University of Alabama, Huntsville
@@ -199,10 +337,23 @@ yr	ty	pi	fi	in
 21	helio	Ying Zou	Katherine Davidson	University of Alabama, Huntsville
 19	astro	Michael Briggs	Jared Fuchs	University of Alabama, Huntsville
 19	earth	Phillip Bitzer	Christopher Gerlach	University of Alabama, Huntsville
+20	earth	John Mecikalski	Sebastian S Harkema	University of Alabama, Huntsville
+15	earth	Sundar Christopher	Yi-Yin Chang	University of Alabama, Huntsville
+15	earth	John Mecikalski	Vikalp Mishra	University of Alabama, Huntsville
+16	earth	James Miller	Samer Alnussirat	University of Alabama, Huntsville
+17	earth	John Mecikalski	Nicholas Elmer	University of Alabama, Huntsville
 20	helio	Hui Zhang	Xi Lu	University of Alaska, Fairbanks
+16	earth	David Barnes	Molly Tedesche	University of Alaska, Fairbanks
 21	earth	Katey Anthony	Natalie Tyler	University of Alaska, Fairbanks
 21	earth	Tarsilo Girona	Claire Puleio	University of Alaska, Fairbanks
 20	earth	Meredith Kupinski	Kira A Hart	University of Arizona
+15	planet	Isamu Matsuyama	Hay, Hamish	University of Arizona
+15	planet	Travis Barman	Peacock, Sarah	University of Arizona
+16	planet	Shane Byrne	Bramson, Ali	University of Arizona
+16	planet	Andrew Youdin	Li, Rixin	University of Arizona
+16	planet	Roger Yelle	Vriesema, Jess	University of Arizona
+16	planet	Daniel Apai	Zhou, Yifan	University of Arizona
+17	planet	Daniel Apai	Bixel, Alex	University of Arizona
 18	planet	Walter Harris	Lejoly, Cassandra	University of Arizona
 18	planet	Vishnu Reddy Kanupuru	Sharkey, Benjamin	University of Arizona
 18	planet	Adam Showman	Steinrueck, Maria	University of Arizona
@@ -218,12 +369,17 @@ yr	ty	pi	fi	in
 19	earth	John Holt	Brandon Tober	University of Arizona
 19	earth	Scott Saleska	Shuli Chen	University of Arizona
 19	earth	William Smith	Xian Wang	University of Arizona
+17	planet	Vincent Chevrier	Czaplinski, Ellen	University of Arkansas, Fayetteville
 20	planet	Julia Kennefick	Paul Bonney	University of Arkansas, Fayetteville
 21	planet	Vincent Chevrier	Jill Sandtorf-McDonald	University of Arkansas, Fayetteville
 19	astro	Bret Lehmer	Lacey West	University of Arkansas, Fayetteville
-20	earth	James Randerson	Nicole M Hemming-Schroeder	University of California, Irvine
-20	earth	Eric Rignot	Shivani Ehrenfeucht	University of California, Irvine
 20	earth	Lara Kueppers	Adam  Hanbury-Brown	University of California, Berkeley
+15	astro	Eliot Quataert	Ressler, Sean	University of California, Berkeley
+15	earth	Laurel Larsen	Mollie Van Gordon	University of California, Berkeley
+15	helio	Stuart Bale	Hanson, Elizabeth	University of California, Berkeley
+16	planet	Imke de Pater	Tollefson, Joshua	University of California, Berkeley
+16	helio	Stuart Bale	Bowen, Trevor	University of California, Berkeley
+17	astro	Steven Boggs	Sleator, Clio	University of California, Berkeley
 18	helio	Stuart Bale	Badman, Samuel	University of California, Berkeley
 20	astro	Courtney Dressing	Steven Giacalone	University of California, Berkeley
 20	planet	David Mitchell	Kathleen Hanley	University of California, Berkeley
@@ -236,16 +392,32 @@ yr	ty	pi	fi	in
 21	earth	Dennis Baldocchi	Tianxin Wang	University of California, Berkeley
 21	earth	Roland Burgmann	Danielle Lindsay	University of California, Berkeley
 21	earth	Trevor Keenan	Xinchen Lu	University of California, Berkeley
+16	planet	Sarah Stewart-Mukhopadhyay	Davies, Erik	University of California, Davis
 18	astro	Kyle Crabtree	Johansen, Sommer	University of California, Davis
 20	planet	Qing-zhu Yin	Supratrim Dey	University of California, Davis
 21	astro	Andrew Wetzel	Isaiah Santistevan	University of California, Davis
+16	earth	Shu-Hua Chen	Kenneth Earl	University of California, Davis
 19	earth	Eric Post	Christian John	University of California, Davis
 21	earth	Michael Oskin	Alba Mar Rodriguez Padilla	University of California, Davis
 21	astro	Aomawa Shields	Vidya Venkatesan	University of California, Irvine
 20	earth	Kuo-Lin Hsu	Vesta Afzali Gorooh	University of California, Irvine
+20	earth	James Randerson	Nicole M Hemming-Schroeder	University of California, Irvine
+20	earth	Eric Rignot	Shivani Ehrenfeucht	University of California, Irvine
+15	earth	Adam Martiny	Catherine Garcia	University of California, Irvine
+15	earth	Soroosh Sorooshian	Yumeng Tao	University of California, Irvine
+16	earth	James Randerson	Paul Levine	University of California, Irvine
+16	earth	Gudrun Magnusdottir	Adam Purdy	University of California, Irvine
+16	earth	Isabella Velicogna	Meng Zhao	University of California, Irvine
+17	earth	Mathieu Morlighem	Youngmin Choi	University of California, Irvine
+17	earth	Gudrun Magnusdottir	Ana Thome Sena	University of California, Irvine
 18	earth	Efi Foufoula-Georgiou	Lawrence Vulis	University of California, Irvine
 19	earth	Katherine Mackey	Joana Tavares-Reager	University of California, Irvine
 21	earth	Eric Rignot	Jae Hun Kim	University of California, Irvine
+16	astro	Tommaso Treu	Mason, Charlotte	University of California, Los Angeles
+16	earth	Kyle Cavanaugh	Daniel Jensen	University of California, Los Angeles
+17	earth	Yongwei Sheng	Karen An	University of California, Los Angeles
+17	earth	Laurence Smith	Matthew Cooper	University of California, Los Angeles
+17	planet	An Yin	Leonard, Erin	University of California, Los Angeles
 18	planet	David Jewitt	Graykowski, Ariel	University of California, Los Angeles
 18	planet	Kevin McKeegan	McCain, Kaitlyn	University of California, Los Angeles
 18	planet	An Yin	Schoenfeld, Ashley	University of California, Los Angeles
@@ -266,10 +438,22 @@ yr	ty	pi	fi	in
 21	earth	Steven Margulis	Manon von Kaenel	University of California, Los Angeles
 21	earth	Gregory Okin	Francisco Ochoa	University of California, Los Angeles
 21	earth	Erin Hestir	Brittany Lopez Barreto	University of California, Merced
+16	astro	Bahram Mobasher	Khostovan, Ali	University of California, Riverside
+17	planet	Mary Droser	Evans, Scott	University of California, Riverside
 21	astro	Simeon Bird	Ming-Feng Ho	University of California, Riverside
 21	planet	Mary Droser	Rachel Surprenant	University of California, Riverside
 21	planet	Stephen Kane	Michelle Hill	University of California, Riverside
+15	earth	Bob Allen	Rainer Luptowitz	University of California, Riverside
+15	earth	Gareth Funning	Nader Shakibay Senobari	University of California, Riverside
+15	planet	Gordon Love	Pehr, Kelden	University of California, Riverside
 19	planet	Douglas Bartlett	Kelli Mullane	University of California, San Diego
+15	earth	Dan Lubin	Ryan Scott	University of California, San Diego
+16	earth	Jennifer MacKinnon	Marion Alberty	University of California, San Diego
+16	earth	William Young	Cesar Barbedo Rocha	University of California, San Diego
+16	earth	Uwe Send	Jannes Koelling	University of California, San Diego
+16	earth	Jennifer Haase	Jessie Saunders	University of California, San Diego
+17	earth	Janet Sprintall	Arachaporn Anutaliya	University of California, San Diego
+17	earth	Sarah Gille	Ana de Figueiredo Melo Villas Boas	University of California, San Diego
 18	earth	Helen Amanda Fricker	Susheel Adusumilli	University of California, San Diego
 18	earth	Adrian Borsa	Wesley Neely	University of California, San Diego
 19	earth	Sarah Gille	Luke Kachelein	University of California, San Diego
@@ -277,26 +461,51 @@ yr	ty	pi	fi	in
 20	earth	Sarah Purkey	Ratnaksha Lele	University of California, San Diego
 20	earth	David Sandwell	Hugh Harper	University of California, San Diego
 21	earth	Adrian Borsa	Ho-man Lau	University of California, San Diego
+15	earth	David Siegel	James Allen	University of California, Santa Barbara
+15	earth	Dar Roberts	Susan Meerdink	University of California, Santa Barbara
+16	earth	Jeff Dozier	Tyler Brandt	University of California, Santa Barbara
+16	earth	David Siegel	Dylan Catlett	University of California, Santa Barbara
+16	earth	Dar Roberts	Erin Wetherley	University of California, Santa Barbara
 18	earth	Joseph McFadden	David Miller	University of California, Santa Barbara
 18	earth	Leila Carvalho	Deanna Nash	University of California, Santa Barbara
 18	earth	Tim DeVries	Michael Nowicki	University of California, Santa Barbara
 21	earth	Tim DeVries	Kana Yamamoto	University of California, Santa Barbara
 21	earth	Charles Jones	Kevin Varga	University of California, Santa Barbara
 21	earth	David Siegel	Nathalie Eegholm	University of California, Santa Barbara
+15	planet	Jonathan Fortney	Mankovich, Christopher	University of California, Santa Cruz
+17	planet	Francis Nimmo	Zube, Nicholas	University of California, Santa Cruz
 18	planet	Xi Zhang	Ge, Huazhi	University of California, Santa Cruz
 19	earth	Emily Brodsky	Kelian Dascher-Cousineau	University of California, Santa Cruz
+16	planet	Yanga Fernandez	Schambeau, Charles	University of Central Florida
 20	planet	Christopher Bennett	Katerina Slavicinska	University of Central Florida
 19	planet	Josh Colwell	Stephanie Eckert	University of Central Florida
 19	planet	Adrienne Dove	Keanna Jardine	University of Central Florida
 20	earth	Katherine Mansfield	Alexander Edward Sacco	University of Central Florida
+15	astro	Hsiao-Wen Chen	Liang, Jia	University of Chicago
+15	planet	Nicolas Dauphas	Nie, Nicole	University of Chicago
+17	planet	Andrew Davis	Villalon, Krysten	University of Chicago
 20	astro	Daniel Fabrycky	Gregory Gilbert	University of Chicago
 20	planet	Edwin Kite	Alexandra Warren	University of Chicago
 21	planet	Dorian Abbot	Huanzhou Yang	University of Chicago
 19	astro	Jacob Bean	Megan Mansfield	University of Chicago
 19	astro	Nickolay Gnedin	Huanqing Chen	University of Chicago
+15	earth	Douglas MacAyeal	Grant Macdonald	University of Chicago
+16	earth	Dorian Abbot	Predrag Popovic	University of Chicago
+15	earth	Robert Nerem	Ryan Hardy	University of Colorado, Boulder
 19	earth	Jeffrey Thayer	Benjamin Wise	University of Colorado, Boulder
 20	earth	Robert Nerem	Evan S Tucker	University of Colorado, Boulder
 20	earth	Mike Willis	Jasmine Hansen	University of Colorado, Boulder
+15	planet	Keith Julien	Plumley, Meredith	University of Colorado, Boulder
+15	planet	Margaret Tolbert	Primm, Katie	University of Colorado, Boulder
+15	helio	Xinlin Li	Califf, Sam	University of Colorado, Boulder
+16	planet	Stephen Mojzsis	Oulton, Jonathan	University of Colorado, Boulder
+17	astro	Kevin France	Arulanantham, Nicole	University of Colorado, Boulder
+17	planet	Mihaly Horanyi	Bernardoni, Edwin	University of Colorado, Boulder
+17	planet	Greg Rieker	Cole, Ryan	University of Colorado, Boulder
+17	planet	Robert Marshall	Gasdia, Forrest	University of Colorado, Boulder
+17	planet	Alexis Templeton	Rempfert, Kaitlin	University of Colorado, Boulder
+17	planet	Margaret Tolbert	Ushijima, Shuichi	University of Colorado, Boulder
+17	helio	Xinlin Li	Zhang, Kun	University of Colorado, Boulder
 18	astro	James Green	Erickson, Nicholas	University of Colorado, Boulder
 18	planet	Dave Brain	Weber, Tristan	University of Colorado, Boulder
 18	planet	Ann-Marie Madigan	Zderic, Alexander	University of Colorado, Boulder
@@ -322,6 +531,22 @@ yr	ty	pi	fi	in
 19	astro	Benjamin Oppenheimer	Ryan Horton	University of Colorado, Boulder
 19	helio	Tomoko Matsuo	Clayton Cantrall	University of Colorado, Boulder
 19	helio	Juri Toomre	Loren Matilsky	University of Colorado, Boulder
+15	earth	Albin Gasiewski	Lavanya Periasamy	University of Colorado, Boulder
+15	earth	Robert Nerem	Matthieu Talpe	University of Colorado, Boulder
+16	earth	Jeffrey Thayer	Rory Barton-Grimley	University of Colorado, Boulder
+16	earth	Robert Nerem	Michael Croteau	University of Colorado, Boulder
+16	earth	Rainer Volkamer	Henning Finkenzeller	University of Colorado, Boulder
+16	earth	Noah Molotch	Keith Jennings	University of Colorado, Boulder
+16	earth	Darin Toohey	Bryan Rainwater	University of Colorado, Boulder
+16	earth	Waleed Abdalati	Tasha Snow	University of Colorado, Boulder
+17	earth	Robert Marshall	Andre Antunes de Sa	University of Colorado, Boulder
+17	earth	Rainer Volkamer	Randall Chiu	University of Colorado, Boulder
+17	earth	Kristy Tiampo	Mylene Jacquemart	University of Colorado, Boulder
+17	earth	Robert Nerem	Katie McMenamin	University of Colorado, Boulder
+17	earth	Lora Koenig	Lynn Montgomery	University of Colorado, Boulder
+17	earth	Robert Nerem	Alexa Putnam	University of Colorado, Boulder
+17	earth	Anne Sheehan	Neesha Schnepf	University of Colorado, Boulder
+17	earth	Albin Gasiewski	Aravind Venkitasubramony	University of Colorado, Boulder
 18	earth	Robert Nerem	Carlos Deccia	University of Colorado, Boulder
 18	earth	Margaret Tolbert	Kevin Jansen	University of Colorado, Boulder
 19	earth	Alexandra Jahn	Abigail Smith	University of Colorado, Boulder
@@ -333,11 +558,17 @@ yr	ty	pi	fi	in
 21	earth	Jeffrey Thayer	Kevin Sacca	University of Colorado, Boulder
 20	earth	John Silander	Henry Aaron Frye	University of Connecticut
 19	astro	Katherine Whitaker	Mohammad Akhshik	University of Connecticut
+15	earth	Brian Hanson	Patricia Lawston	University of Delaware
+17	planet	Jamie Foster	Babilonia, Joany	University of Florida, Gainsville
 21	astro	Sarah Ballard	Quadry Chance	University of Florida, Gainsville
 19	earth	Stephanie Bohlman	Christine Swanson	University of Florida, Gainsville
 19	earth	Jeremy Lichstein	Elizabeth Webb	University of Florida, Gainsville
+16	earth	Thomas Mote	Kyle Mattingly	University of Georgia, Athens
 18	earth	Geoffrey Smith	Michael Pogash	University of Georgia, Athens
 18	earth	Renato Castelao	Caitlin Amos	University of Georgia, Athens
+15	earth	Megan Donahue	Jamie Sziklay	University of Hawaii, Honolulu
+15	helio	Veronica Bindi	Whitman, Kathryn	University of Hawaii, Honolulu
+16	astro	Peter Gorham	Russell, John	University of Hawaii, Honolulu
 18	astro	Istvan Szapudi	Repp, Andrew	University of Hawaii, Honolulu
 21	planet	Paul Lucey	Abigail Flom	University of Hawaii, Honolulu
 21	helio	Veronica Bindi	Siqi Wang	University of Hawaii, Honolulu
@@ -345,28 +576,56 @@ yr	ty	pi	fi	in
 19	astro	Philip von Doetinchem	Cory Gerrity	University of Hawaii, Honolulu
 19	earth	Christina Karamperidou	Madeline McKenna	University of Hawaii, Honolulu
 21	earth	Seth Bushinsky	Shannon McClish	University of Hawaii, Honolulu
+15	planet	Thomas Lapen	Kerekgyarto, Andrew	University of Houston
+15	earth	Hyongki Lee	Ting Yuan	University of Houston
 21	earth	Yuxuan Wang	Tabitha Lee	University of Houston
+15	earth	Lee Vierling	Heather Greaves	University of Idaho, Moscow
+16	earth	Robert Heinse	Mary Engels	University of Idaho, Moscow
+16	earth	Luigi Boschetti	Andrea Melchiorre	University of Idaho, Moscow
 18	earth	Jan Eitel	Micah Russell	University of Idaho, Moscow
 19	earth	Jan Eitel	Andrew Maguire	University of Idaho, Moscow
+17	earth	Stephen Nesbitt	Randy Chase	University of Illinois, Urbana-Champaign
 20	earth	Larry Di Girolamo	Jesse Ray Loveridge	University of Illinois, Urbana-Champaign
+16	planet	Fabien Kenig	Chou, Luoth	University of Illinois, Chicago
+16	earth	Greg McFarquhar	Siddhant Gupta	University of Illinois, Urbana-Champaign
+16	astro	Benjamin McCall	Markus, Charles	University of Illinois, Urbana-Champaign
 20	helio	Brian Fields	Jesse Miller	University of Illinois, Urbana-Champaign
 21	helio	Raluca Ilie	Mei-Yun Lin	University of Illinois, Urbana-Champaign
 21	helio	Lara Waldrop	Pratik Joshi	University of Illinois, Urbana-Champaign
 19	helio	Lara Waldrop	Pratik Joshi	University of Illinois, Urbana-Champaign
 20	earth	Kaiyu Guan	Genghong  Wu	University of Illinois, Urbana-Champaign
+15	earth	Praveen Kumar	Allison Goodwell	University of Illinois, Urbana-Champaign
+15	earth	Jonathan Greenberg	Bailey Morrison	University of Illinois, Urbana-Champaign
 18	earth	Patricia Gregg	Yan Zhan	University of Illinois, Urbana-Champaign
 19	earth	Larry Di Girolamo	Rose Miller	University of Illinois, Urbana-Champaign
 19	earth	Francina Dominguez	Divyansh Chug	University of Illinois, Urbana-Champaign
 19	earth	Deanna Hence	Jeffrey Thayer	University of Illinois, Urbana-Champaign
+16	helio	Craig Kletzing	De Pascuale, Sebastian	University of Iowa, Iowa City
 20	helio	Gregory Howes	Sarah Horvath	University of Iowa, Iowa City
 20	helio	Allison Jaynes	Riley Troyer	University of Iowa, Iowa City
 21	astro	Casey DeRoo	Cecilia Fasano	University of Iowa, Iowa City
 18	earth	William Barnhart	Clayton Brengman	University of Iowa, Iowa City
 21	earth	Jun Wang	Meng Zhou	University of Iowa, Iowa City
 20	astro	Allison Kirkpatrick	Cassandra Hatcher	University of Kansas
-20	earth	Fernando Miralles-Wilhelm	Marissa Dattler	University of Maryland, College Park
-19	earth	Zhibo Zhang	Qianqian Song	University of Maryland Baltimore County
-21	earth	J. Vanderlei Martins	Noah Sienkiewicz	University of Maryland Baltimore County
+16	earth	Marcelo Guzman	Alexis Eugene	University of Kentucky, Lexington
+15	earth	Gordon Hamilton	Jessica Scheick	University of Maine
+17	earth	Ralph Dubayah	Suzanne Marselis	University of Maryland
+20	earth	Fernando Miralles-Wilhelm	Marissa Dattler	University of Maryland
+16	earth	J. Vanderlei Martins	Brent McBride	University of Maryland, Baltimore County
+19	earth	Zhibo Zhang	Qianqian Song	University of Maryland, Baltimore County
+21	earth	J. Vanderlei Martins	Noah Sienkiewicz	University of Maryland, Baltimore County
+17	earth	Pengwang Zhai	Lipi Mukherjee	University of Maryland, Baltimore County
+15	earth	Ross Salawitch	Margaret Marvin	University of Maryland, College Park
+15	earth	Xin-Zhong Liang	David New	University of Maryland, College Park
+15	earth	Barton Forman	Yuan Xue	University of Maryland, College Park
+15	planet	Jessica Sunshine	McAdam, Margaret	University of Maryland, College Park
+16	astro	Christopher Reynolds	Hogg, James	University of Maryland, College Park
+16	earth	Ralph Dubayah	Danielle Rappaport	University of Maryland, College Park
+16	planet	L. Deming	Louie, Dana	University of Maryland, College Park
+16	planet	Douglas Hamilton	Rogoszinski, Zeeve	University of Maryland, College Park
+17	planet	Douglas Hamilton	Rimlinger, Thomas	University of Maryland, College Park
+17	planet	Laurent Montesi	Schools, Joseph	University of Maryland, College Park
+17	helio	Jason TenBarge	Juno, James	University of Maryland, College Park
 18	astro	Sylvain Veilleux	Gatkine, Pradip	University of Maryland, College Park
 18	planet	Nicholas Schmerr	Marusiak, Angela	University of Maryland, College Park
 20	astro	Eliza Kempton	Benjamin Hord	University of Maryland, College Park
@@ -380,11 +639,26 @@ yr	ty	pi	fi	in
 21	earth	Laura Duncanson	Mengyu Liang	University of Maryland, College Park
 21	earth	Sergii Skakun	Mohammad Khan	University of Maryland, College Park
 18	planet	James Holden	Kashyap, Srishti	University of Massachusetts, Amherst
+15	earth	Bethany Bradley	Caroline Curtis	University of Massachusetts, Amherst
+16	earth	Jon Woodruff	Hannah Baranes	University of Massachusetts, Amherst
 19	earth	Colin Gleason	Merritt Harlan	University of Massachusetts, Amherst
 21	earth	Colin Gleason	Craig Brinkerhoff	University of Massachusetts, Amherst
+15	earth	Jianhua Qian	David Coe	University of Massachusetts, Lowell
+15	earth	Falk Amelung	Yunjun Zhang	University of Miami, Key Biscayne
+16	earth	Brian Soden	Ryan Kramer	University of Miami, Key Biscayne
+17	earth	Shuyi Chen	Ajda Savarin	University of Miami, Key Biscayne
 19	earth	Peter Minnett	Bingkun Luo	University of Miami, Key Biscayne
 21	earth	Brian Soden	Sisam Shrestha	University of Miami, Key Biscayne
 20	earth	Roger De Roo	Puneeth Yogananda	University of Michigan, Ann Arbor
+17	earth	Valeriy Ivanov	Elizabeth Agee	University of Michigan, Ann Arbor
+15	planet	Michael Liemohn	Azari, Abigail	University of Michigan, Ann Arbor
+16	planet	David Gerdes	Hamilton, Stephanie	University of Michigan, Ann Arbor
+16	helio	Susan Lepri	Kocher, Manan	University of Michigan, Ann Arbor
+16	helio	SHASHA ZOU	Trung, Sinh	University of Michigan, Ann Arbor
+17	astro	Jon Miller	Ludlam, Renee	University of Michigan, Ann Arbor
+17	planet	Jim Raines	Dewey, Ryan	University of Michigan, Ann Arbor
+17	planet	Xianzhe Jia	Sarkango, Yash	University of Michigan, Ann Arbor
+17	helio	Ward Manchester	Shi, Tong	University of Michigan, Ann Arbor
 18	planet	Stephen Bougher	Roeten, Kali	University of Michigan, Ann Arbor
 18	helio	Justin Kasper	Bert, Christopher	University of Michigan, Ann Arbor
 18	helio	Daniel Welling	Mukhopadhyay, Agnit	University of Michigan, Ann Arbor
@@ -396,10 +670,15 @@ yr	ty	pi	fi	in
 19	planet	Jim Raines	Austin Glass	University of Michigan, Ann Arbor
 19	helio	Justin Kasper	Daniel Vech	University of Michigan, Ann Arbor
 19	helio	Shasha Zou	Zihan Wang	University of Michigan, Ann Arbor
+16	earth	Brian Arbic	Anna Savage	University of Michigan, Ann Arbor
+17	earth	Xianglei Huang	Zachary Fair	University of Michigan, Ann Arbor
+17	earth	Gretchen Keppel-Aleks	Anthony Torres	University of Michigan, Ann Arbor
+17	earth	Mark Flanner	Jamie Ward	University of Michigan, Ann Arbor
 18	earth	Chris Ruf	Rachel Norris	University of Michigan, Ann Arbor
 19	earth	Neil Carter	Alexander Killion	University of Michigan, Ann Arbor
 19	earth	Xianglei Huang	Colten Peterson	University of Michigan, Ann Arbor
 21	earth	Gretchen Keppel-Aleks	Daniel Muccio	University of Michigan, Ann Arbor
+17	helio	Lindsay Glesener	Vievering, Juliana	University of Minnesota
 18	helio	Lindsay Glesener	Knuth, Trevor	University of Minnesota
 21	helio	Lindsay Glesener	Yixian Zhang	University of Minnesota
 19	helio	Lindsay Glesener	Jessie Duncan	University of Minnesota
@@ -407,27 +686,52 @@ yr	ty	pi	fi	in
 18	earth	Dylan Millet	Xueying Yu	University of Minnesota
 19	earth	Ardeshir Ebtehaj	Lun Gao	University of Minnesota
 21	earth	Peter Neff	Julia Andreasen	University of Minnesota
+16	planet	Erika Gibb	Roth, Nathan	University of Missouri, St Lous
+15	earth	Ashley Ballantyne	Leila Cooper	University of Montana
+17	earth	Mark Hebblewhite	Eric Palm	University of Montana
 20	planet	Zhaohuan Zhu	Shangjia Zhang	University of Nevada, Las Vegas
+16	earth	Cornelis Kreemer	Meredith Kraner	University of Nevada, Reno
+16	earth	Heather Holmes	Sandra Marcela Loria-Salazar	University of Nevada, Reno
+15	helio	Roy Torbert	Shuster, Jason	University of New Hampshire, Durham
 21	helio	Marc Lessard	Niharika Godbole	University of New Hampshire, Durham
+15	planet	Carl Agee	Vander Kaaden, Kathleen	University of New Mexico
 18	earth	Tamlin Pavelsky	Simon Topp	University of North Carolina, Chapel Hill
 19	earth	Tamlin Pavelsky	Wayana Dolan	University of North Carolina, Chapel Hill
+16	earth	Jianglong Zhang	Travis Toth	University of North Dakota, Grand Forks
+17	planet	Clive Neal	Torcivia, Mike	University of Notre Dame
 19	astro	Jay Howk	Michelle Berg	University of Notre Dame
+15	earth	Adrian Rocha	Kelsey Kremers	University of Notre Dame
+15	earth	Yang Hong	Nick Carr	University of Oklahoma, Norman
+16	earth	Michael Biggerstaff	Austin Alford	University of Oklahoma, Norman
 19	earth	Jeffrey Basara	Ryann Wakefield	University of Oklahoma, Norman
 21	earth	Pierre-Emmanuel Kirstetter	Noah Brauer	University of Oklahoma, Norman
 18	earth	Amanda Thomas	Jiun-Ting Lin	University of Oregon
 21	earth	David Sutherland	Nicole Abib	University of Oregon
+16	astro	Cullen Blake	Baker, Ashley	University of Pennsylvania
+17	planet	Michael Ramsey	Simurda, Christine	University of Pittsburgh
+15	earth	Michael Ramsey	Daniel Williams	University of Pittsburgh
+17	earth	Nadine McQuarrie	Victoria Buford	University of Pittsburgh
+17	earth	Michael Ramsey	James Thompson	University of Pittsburgh
 18	earth	Melissa Omand	Melanie Feen	University of Rhode Island
 20	earth	Colleen Mouw	Virginie Sonnet	University of Rhode Island
 21	astro	Jannick Rolland	Jessica Steidle	University of Rochester
 19	astro	Steven Rodney	Justin Roberts-Pierel	University of South Carolina
+15	earth	Frank Muller-Karger	Abdiel Laureano-Rosario	University of South Florida, Tampa
 20	earth	Don Chambers	Jessica Caggiano	University of South Florida, Tampa
+16	earth	Chuanmin Hu	Shaojie Sun	University of South Florida, Tampa
+17	earth	Timothy Dixon	Fanghui Deng	University of South Florida, Tampa
+17	earth	Sylvain Charbonnier	Elodie Macorps	University of South Florida, Tampa
 18	earth	Xinfeng Liang	Chao Liu	University of South Florida, Tampa
 19	earth	Chuanmin Hu	Yingjun Zhang	University of South Florida, Tampa
 18	earth	Alireza Tabatabaeenejad	Kazem Bakian Dogaheh	University of Southern California
 18	earth	Mahta Moghaddam	Samuel Prager	University of Southern California
 20	earth	Jingyi Chen	Ke Wang	University of Texas, Austin
 20	earth	Jingyi Chen	Yue Wu	University of Texas, Austin
+17	earth	Michael Young	Charles Abolt	University of Texas, Austin
 20	earth	Zong-Liang Yang	Kwun Yip Fung	University of Texas, Austin
+15	planet	John Holt	Petersen, Eric	University of Texas, Austin
+17	astro	Steven Finkelstein	Jung, Intae	University of Texas, Austin
+17	planet	Adam Kraus	Martinez, Raquel	University of Texas, Austin
 20	astro	Brendan Bowler	Quang Tran	University of Texas, Austin
 20	astro	Caroline Morley	Melanie Rowland	University of Texas, Austin
 21	planet	Timothy Goudge	Emily Bamber	University of Texas, Austin
@@ -435,17 +739,33 @@ yr	ty	pi	fi	in
 18	planet	Benjamin Brunner	Labrado, Amanda	University of Texas, El Paso
 21	helio	Maher Dayeh	Samuel Hart	University of Texas, San Antonio
 19	planet	Kurt Retherford	Lizeth Magana	University of Texas, San Antonio
-19	earth	Steven Krueger	Xia Li	University of Utah, Salt Lake City
+15	earth	Edward Zipser	Sarah Bang	University of Utah
+19	earth	Steven Krueger	Xia Li	University of Utah
 18	earth	Jason Stockwell	Allison Hrycik	University of Vermont, Burlington
 19	earth	Venkat Lakshmi	Hyunglok Kim	University of Virginia, Charlottesville
-20	earth	Knut Christianson	Andrew Osten Hoffman	University of Washington
-20	earth	Dennis Hartmann	Adam B Sokol	University of Washington
-20	earth	Georgy Manucharyan	Yang Wang	University of Washington
+15	earth	Alexander Horner-Devine	Ruth Branch	University of Washington, Seattle
+15	earth	Robert Houze	Jennifer DeHart	University of Washington, Seattle
+15	earth	Benjamin Smith	Alex Huth	University of Washington, Seattle
+15	earth	Ian Joughin	David Lilien	University of Washington, Seattle
+17	earth	Faisal Hossain	Matthew Bonnema	University of Washington, Seattle
+20	earth	Knut Christianson	Andrew Osten Hoffman	University of Washington, Seattle
+20	earth	Dennis Hartmann	Adam B Sokol	University of Washington, Seattle
+20	earth	Georgy Manucharyan	Yang Wang	University of Washington, Seattle
+15	astro	Eric Agol	Windemuth, Diana	University of Washington, Seattle
+15	planet	David Catling	Krissansen-Totton, Joshua	University of Washington, Seattle
+15	planet	Gabrielle Rocap	Saunders, Jaclyn	University of Washington, Seattle
+17	planet	Rory Barnes	Fleming, David	University of Washington, Seattle
+17	planet	Victoria Meadows	Lincowski, Andrew	University of Washington, Seattle
 18	planet	Erika Harnett	Styczinski, Marshall	University of Washington, Seattle
 20	planet	Becky Alexander	Yuk Chun Chan	University of Washington, Seattle
 21	planet	David Catling	Lucas Fifer	University of Washington, Seattle
 21	planet	Andrew Connolly	Hayden Smotherman	University of Washington, Seattle
 19	astro	Jessica Werk	Natalie Sanchez	University of Washington, Seattle
+16	earth	Jessica Lundquist	William Currier	University of Washington, Seattle
+16	earth	LuAnne Thompson	Paige Logan	University of Washington, Seattle
+16	earth	Faisal Hossain	Md Sikder	University of Washington, Seattle
+17	earth	Robert Wood	Michael Diamond	University of Washington, Seattle
+17	earth	LuAnne Thompson	Shirley Leung	University of Washington, Seattle
 18	earth	David Butman	Catherine Kuhn	University of Washington, Seattle
 18	earth	Jessica Lundquist	Justin Pflug	University of Washington, Seattle
 18	earth	Van Kane	Liz van Wagtendonk	University of Washington, Seattle
@@ -455,26 +775,52 @@ yr	ty	pi	fi	in
 20	earth	Joel Thornton	Carley Fredrickson	University of Washington, Seattle
 21	earth	Shuyi Chen	Lucero Yakelyn Ramos Jauregui	University of Washington, Seattle
 21	earth	Lynn McMurdie	Andrew DeLaFrance	University of Washington, Seattle
+16	astro	Ellen Zweibel	Bustard, Chad	University of Wisconsin, Madison
+17	astro	Peter Timbie	Phan, Anh	University of Wisconsin, Madison
 18	helio	Jan Egedal	Lichko, Emily	University of Wisconsin, Madison
 20	planet	David Baum	Lena Vincent	University of Wisconsin, Madison
+15	earth	Philip Townsend	Tedward Erker	University of Wisconsin, Madison
+16	earth	Philip Townsend	John Clare	University of Wisconsin, Madison
+16	earth	Tristan L'Ecuyer	Elin McIlhattan	University of Wisconsin, Madison
 18	earth	Daniel Wright	Samantha Hartke	University of Wisconsin, Madison
 21	earth	Tristan L'Ecuyer	Julia Shates	University of Wisconsin, Madison
 21	earth	Volker Radeloff	Natalia Rogova	University of Wisconsin, Madison
 21	astro	Philip Chang	Alexandra Spaulding	University of Wisconsin, Milwaukee
+17	earth	Tristan L'Ecuyer	Kai-Wei Chang	University of Wisconsin, Madison
 20	earth	Tristan L'Ecuyer	Juliet Ann Pilewskie	University of Wisconsin, Madison
 18	astro	Daniel Dale	Sutter, Jessica	University of Wyoming
 21	astro	Chip Kobulnicky	Ashley Piccone	University of Wyoming
-18	earth	Owen Toon	Parker Case	Using GEOS-5/CARMA to Improve Interpretations of  NASA Satellite Observations of
+18	earth	Owen Toon	Parker Case	_Using GEOS-5/CARMA to Improve Interpretations of  NASA Satellite Observations of
+17	helio	Ludger Scherliess	Molina, Ivana	Utah State University
+15	astro	Keivan Stassun	Conroy, Kyle	Vanderbilt University
+17	earth	Craig Woolsey	Hunter McClelland	Virginia Polytechnic Institute & State University
+17	helio	John Ruohoniemi	Shi, Xueling	Virginia Polytechnic Institute & State University
 21	earth	Deepti Singh	Dmitri Kalashnikov	Washington State University, Pullman
+16	planet	Christine Floss	Haas, Brendan	Washington University
+17	planet	Bradley Jolliff	Bouchard, Michael	Washington University
+17	planet	Michael Krawczynski	Prissel, Kelsey	Washington University
 18	earth	Rajan Chakrabarty	Benjamin Sumlin	Washington University
 19	planet	Jeffrey Catalano	Kaushik Mitra	Washington University
+16	planet	William Liou	Brueshaber, Shawn	Western Michigan University, Kalamazoo
 19	earth	Atri Dutta	Pardhasai Chadalavada	Wichita State University
 20	helio	Stanislav Sazykin	Anastasia Newheart	William Marsh Rice University
 19	planet	Rajdeep Dasgupta	Damanveer Grewal	William Marsh Rice University
 19	planet	Laurence Yeung	Asmita Banerjee	William Marsh Rice University
+15	planet	Colleen Hansel	Sutherland, Kevin	Woods Hole Oceanographic Institution
+16	earth	Simon Thorrold	Camrin Braun	Woods Hole Oceanographic Institution
+17	earth	W. Owens	Julie Jakoboski	Woods Hole Oceanographic Institution
+17	earth	Raymond Schmitt	Sam Levang	Woods Hole Oceanographic Institution
 19	earth	Amala Mahadevan	Jing He	Woods Hole Oceanographic Institution
+15	earth	John Wettlaufer	Srikanth Toppaladoddi	Yale University
+15	earth	Nadine Unger	Yiqi Zheng	Yale University
+17	astro	Priya Natarajan	Ricarte, Angelo	Yale University
+17	earth	Karen Seto	Kangning Huang	Yale University
 20	astro	Nikhil Padmanabhan	Jovana Zagorac	Yale University
 21	astro	Nikhil Padmanabhan	Xinyi Chen	Yale University
 18	earth	Walter Jetz	Ben Carlson	Yale University
 18	earth	Alexey Fedorov	Bowen Zhao	Yale University
 20	earth	Alexey Fedorov	Ulla Klint Heede	Yale University
+18	earth	Jennifer Griswold	Dillon Dodson	_Droplet Clustering and Turbulence in Marine Stratocumulus Clouds 18-EARTH18F-0310
+18	earth	Christian Frankenberg	Siraput Jongaramrungruang	_OPTIMEEM -OPTImize MEthane Emission Monitoring 18-EARTH18F-0174
+19	helio	Petrus Martens	Aparna Venkataramanasastry	_Prediction of Space Weather Effects using Filaments and Sound Waves as Precursors 19-HELIO19-0050
+18	earth	Yvette Spitz	Zach Wallace	_Significance of Calcifiers to the Iron and Carbon Cycles in the Patagonia Shelf Region: A
