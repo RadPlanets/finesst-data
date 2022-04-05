@@ -1,0 +1,26 @@
+Bowen, Trevor (Student); Stuart Bale (Advisor)
+University of California, Berkeley
+Radial dependance of solar wind magnetic turbulent dissipation signatures and
+magnetometer inter-calibration for Solar Probe Plus
+De Pascuale, Sebastian (Student); Craig Kletzing (Advisor)
+University of Iowa, Iowa City
+Evolution of Electron Density in the Plasmasphere as Observed by the Van Allen
+Probes
+Kocher, Manan (Student); Susan Lepri (Advisor)
+University Of Michigan, Ann Arbor
+Determining CME Plasma Evolution from Remote Sensing and In-situ
+Observations
+Mostafavi, Parisa (Student); Gary Zank (Advisor)
+University Of Alabama, Huntsville
+Shock Waves and Nonlinear Plasma Waves Mediated by Pickup Ions and Energetic
+Particles
+Panka, Peter (Student); Erdal Yigit (Advisor)
+George Mason University
+Analysis of nighttime limb IR CO2 and OH emissions from the mesosphere and
+lower thermosphere measured by SABER/TIMED
+Sadykov, Viacheslav (Student); Alexander Kosovichev (Advisor)
+New Jersey Institute Of Technology
+Analysis of Chromospheric Evaporation from IRIS Observations
+Trung, Sinh (Student); SHASHA ZOU (Advisor)
+University Of Michigan, Ann Arbor
+Coupled MHD-PIC analysis of dayside reconnection

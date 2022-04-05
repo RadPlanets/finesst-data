@@ -1,0 +1,209 @@
+Earth Science 
+NASA received a total of 424 applications in Earth Science Research and selected 54 for award. Pending acceptance of the fellowship offer by each applicant and their respective institution, the selections are: 
+Susheel Adusumilli (Student); Helen Amanda Fricker (Advisor) 
+University of California, San Diego 
+Identifying the Atmospheric and Oceanic Drivers of Ice-Shelf Change Using Satellite 
+Altimetry and Airborne Geophysics 
+18-EARTH18F-0421
+Caitlin Amos (Student); Renato Castelao (Advisor) 
+University of Georgia, Athens 
+The Impact of the El Nino-Southern Oscillation on Sea Surface Temperature Fronts in the California and Humboldt Current Systems 
+18-EARTH18F-0114
+Kazem Bakian Dogaheh (Student); Alireza Tabatabaeenejad (Advisor) 
+University of Southern California 
+Microwave Behavior of Organic Soil for Remote Sensing of Permafrost 18-EARTH18F-0337
+Clayton Brengman (Student); William Barnhart (Advisor) 
+University of Iowa, Iowa City 
+Applications of Artificial Neural Networks for Strain Detection in InSAR Time Series 18-EARTH18F-0046
+Alexander Brooks (Student); Tim Covino (Advisor) 
+Colorado State University 
+Using Landsat Imagery to Assess Riparian Wetland Condition in the Southern Rockies 18-EARTH18F-0162
+Ben Carlson (Student); Walter Jetz (Advisor) 
+Yale University 
+Using Remote Sensing and Animal Tracking to Assess Patterns and Causes of Environmental Niche Variation from Individuals to Species 18-EARTH18F-0295
+Parker Case (Student); Owen Toon (Advisor) University of Colorado, Boulder 
+Using GEOS-5/CARMA to Improve Interpretations of  NASA Satellite Observations of 
+Stratospheric Aerosols 
+18-EARTH18F-0120
+Cheng Da (Student); Eugenia Kalnay (Advisor) 
+University of Maryland, College Park 
+Improving Tropical Cyclone Predictions by Assimilation of NASA IMERG Precipitation 18-EARTH18F-0283
+Nathan Dadap (Student); Alexandra Konings (Advisor) 
+Stanford University
+Predicting Fire Risk and Estimating Carbon Emissions in Tropical Peatlands Using 
+SMAP Soil Moisture 18-EARTH18F-0101
+Carlos Deccia (Student); Robert Nerem (Advisor) 
+University of Colorado, Boulder 
+Design of a Constellation of GRACE-Type Small Satellites to Improve Temporal and 
+Spatial Resolution of Satellite Gravity Estimates 
+18-EARTH18F-0380
+Dillon Dodson (Student); Jennifer Griswold (Advisor) University of Hawaii, Honolulu 
+Droplet Clustering and Turbulence in Marine Stratocumulus Clouds 18-EARTH18F-0310
+Orhan Eroglu (Student); Mehmet Kurum (Advisor) 
+Mississippi State University 
+Unveiling CYGNSS Land Signatures for High Spatiotemporal Soil Moisture Estimation 
+18-EARTH18F-0051
+Melanie Feen (Student); Melissa Omand (Advisor) 
+University of Rhode Island 
+Net Community Production Across Scales: From Autonomous Profiling to Ocean Color Remote Sensing 
+18-EARTH18F-0013
+Samuel Goldberg (Student); Taylor Perron (Advisor) 
+Massachusetts Institute of Technology 
+Tectonic and Climatic Controls on Changing Continental River Networks 18-EARTH18F-0016
+Sophie Goliber (Student); Ginny Catania (Advisor) 
+University of Texas, Austin 
+SpATIaL: Semi-Automatic Glacier Terminus Inventory from Landsat 18-EARTH18F-0323
+Joel Gongora (Student); Hans-Peter Marshall (Advisor) 
+Boise State University 
+Deep and Shallow Learning in Deep and Shallow Snow: SnowNet 18-EARTH18F-0372
+Kyle Gwirtz (Student); Matthias Morzfeld (Advisor) 
+University of Arizona 
+Reduced-Scale Modeling and Data Assimilation for Decadal-Scale Forecasts of the 
+Geomagnetic Field 
+18-EARTH18F-0176
+Samantha Hartke (Student); Daniel Wright (Advisor) 
+University of Wisconsin, Madison 
+A Framework for Modeling Satellite Precipitation Errors in Data-Limited Regions, and 
+Application to Landslide Hazard Assessment 
+18-EARTH18F-0007
+Allison Hrycik (Student); Jason Stockwell (Advisor) 
+University of Vermont, Burlington 
+Testing Effects of Winter Severity on Phytoplankton Production Using Remote Sensing, 
+High-Frequency Monitoring, and Field Experiments 
+18-EARTH18F-0216
+Lidia Huaman Chuquihuaccha (Student); Courtney Schumacher (Advisor) 
+Texas A & M, College Station 
+Tropical Propagating Modes in the East Pacific ITCZ 
+18-EARTH18F-0276
+Yiyi Huang (Student); Xiquan Dong (Advisor) 
+University of Arizona 
+Understanding Impacts of Cloud-Radiation Feedback on Arctic Sea Ice Changes Through an Integrative Analysis: NASA Satellite Observations, Reanalysis and Modeling 18-EARTH18F-0088
+Kevin Jansen (Student); Margaret Tolbert (Advisor) 
+University of Colorado, Boulder 
+Understanding the Factors that Affect the Optical Properties of Brown Carbon 18-EARTH18F-0212
+Xiaomeng Jin (Student); Arlene Fiore (Advisor) 
+Columbia University 
+Using Multi-Satellite Observations to Analyze Ground-Level Ozone Sensitivity to NOx and 
+VOC Precursor Emissions, from Urban to Global Scales 18-EARTH18F-0254
+Siraput Jongaramrungruang (Student); Christian Frankenberg (Advisor) California Institute of Technology
+OPTIMEEM -OPTImize MEthane Emission Monitoring 18-EARTH18F-0174
+Catherine Kuhn (Student); David Butman (Advisor) 
+University of Washington, Seattle 
+When Atmospheric Correction Matters:  Improving Retrievals of Inland Water Properties from Remote Sensing and Field Data 18-EARTH18F-0061
+Mochi Liao (Student); Ana Barros (Advisor) 
+Duke University 
+Physically-Based Correction of Satellite Estimates of  Orographic Precipitation  Using 
+Inverse Modeling and Big Data Analytics 
+18-EARTH18F-0424
+Jiun-Ting Lin (Student); Amanda Thomas (Advisor) 
+University of Oregon 
+Rapid Magnitude Assessment of Large Earthquakes from Machine Learning 18-EARTH18F-0397
+Xinyi Ling (Student); Nicholas Meskhidze (Advisor) 
+North Carolina State University 
+Improving the Accuracy of Ground-Level Fine Aerosol Concentration Estimates by Using Novel Remote Sensing Techniques 18-EARTH18F-0314
+Chao Liu (Student); Xinfeng Liang (Advisor) 
+University of South Florida, Tampa 
+Examining the Global Ocean Vertical Salt Transport with a Dynamically Consistent 
+Ocean State Estimate 
+18-EARTH18F-0004
+Zane Martin (Student); Adam Sobel (Advisor) 
+Columbia University 
+Variability in the Tropical Upper Troposphere/Lower Stratosphere from Sub-Seasonal to Inter-Annual Timescales 
+18-EARTH18F-0154
+David Miller (Student); Joseph McFadden (Advisor)
+University of California, Santa Barbara 
+Using Imaging Spectroscopy to Quantify Vegetation Condition in Urban Landscapes 
+During a Multi-Year Drought in California 
+18-EARTH18F-0023
+Deanna Nash (Student); Leila Carvalho (Advisor) 
+University of California, Santa Barbara 
+Atmospheric River Impact on High Asia Mountain Precipitation 18-EARTH18F-0353
+Wesley Neely (Student); Adrian Borsa (Advisor) 
+University of California, San Diego 
+Analysis of Soil Moisture Effects on Upcoming InSAR Mission Elevation Change 
+Observables 
+18-EARTH18F-0412
+Rachel Norris (Student); Chris Ruf (Advisor) 
+University of Michigan, Ann Arbor 
+Instrument Development and Science Applications for a Possible CYGNSS Followon Mission 
+18-EARTH18F-0124
+Michael Nowicki (Student); Tim DeVries (Advisor) 
+University of California, Santa Barbara 
+Improving Satellite-Based Estimates of Net Primary Productivity by Assimilating 
+Oceanographic Data 
+18-EARTH18F-0179
+Casey Patrizio (Student); David Thompson (Advisor) 
+Colorado State University 
+The Role of Clouds in Northern Hemisphere Extratropical-Tropical Interactions 18EARTH18F-0128
+Justin Pflug (Student); Jessica Lundquist (Advisor) 
+University of Washington, Seattle 
+Evaluating Snow Depth Retrievals with Different Spatial Footprints and Temporal 
+Repeats for Assimilation with a Snow Model in Complex Terrain 
+18-EARTH18F-0026
+Michael Pogash (Student); Geoffrey Smith (Advisor) 
+University of Georgia, Athens
+UV-Vis Atmospheric Aerosol Complex Refractive Index Monitoring 
+18-EARTH18F-0093
+Samuel Prager (Student); Mahta Moghaddam (Advisor) 
+University of Southern California 
+Software Defined Radar Platform Development for Dynamically Configurable Multistatic and MIMO Smart Sensor Networks 18-EARTH18F-0399
+Krishna Rao (Student); Alexandra Konings (Advisor) 
+Stanford University 
+High Resolution Vegetation Water Content and Tree Mortality Estimation Using 
+Synthetic Aperture Radar 
+18-EARTH18F-0057
+Naufal Razin (Student); Michael Bell (Advisor) 
+Colorado State University 
+The Influence of Tropical Cyclone Rainband Convection on Intensity 18-EARTH18F-0173
+Micah Russell (Student); Jan Eitel (Advisor) 
+University of Idaho, Moscow 
+Toward Landscape Scale Estimation of Canopy Snow Interception Using RemotelySensed Forest Structure Information and Snowfall Event Characteristics 18-EARTH18F-0208
+Jacob Schaperow (Student); Steven Margulis (Advisor) 
+University of California, Los Angeles 
+Improving Discharge Estimates via Assimilation of Remotely-Sensed Water Surface 
+Elevation: a Case Study in Basins of Varying Climatology and Topography 18-EARTH18F-0378
+Benjamin Sumlin (Student); Rajan Chakrabarty (Advisor) 
+Washington University 
+Measurement of Aerosol Optical Properties in Support of FIREX-AQ 18-EARTH18F-0363
+Simon Topp (Student); Tamlin Pavelsky (Advisor) 
+University of North Carolina, Chapel Hill 
+Spatiotemporal Dynamics of Lake Water Clarity from Landsat in the Continental United States 
+18-EARTH18F-0233
+Pedro Valle de Carvalho e Oliveira (Student); David Roy (Advisor) 
+South Dakota State University 
+Integrating Airborne LiDAR, Landsat-8 and Sentinel-2 Data to Map Brazilian Amazon 
+Tropical Moist Forest Biome (BATMFB) Canopy Height 
+18-EARTH18F-0416
+Liz van Wagtendonk (Student); Van Kane (Advisor) 
+University of Washington, Seattle 
+Determining Forest Resilience to Drought-Induced Mortality with Effects on Carbon Storage 
+18-EARTH18F-0068
+Lawrence Vulis (Student); Efi Foufoula-Georgiou (Advisor) 
+University of California, Irvine 
+Understanding Changes in Arctic Deltas 
+18-EARTH18F-0331
+Zach Wallace (Student); Yvette Spitz (Advisor) Oregon State University 
+Significance of Calcifiers to the Iron and Carbon Cycles in the Patagonia Shelf Region: A 
+Modeling and Satellite-Derived Analysis Approach 
+18-EARTH18F-0181
+Chenyang Wei (Student); Adam Wilson (Advisor) 
+State University of New York, Buffalo 
+Monitoring, Modeling, and Projecting Global Dynamics in Alpine Treeline Ecotones Under 
+Climate Change 
+18-EARTH18F-0272
+Xueying Yu (Student); Dylan Millet (Advisor) 
+University of Minnesota 
+Constraining and Projecting Wetland Methane Emissions in the Northern United States 18-EARTH18F-0215
+Yan Zhan (Student); Patricia Gregg (Advisor) 
+University of Illinois, Urbana-Champaign 
+Forecasting Volcanic Unrest of Atka Volcanic Center, Alaska, Using the Ensemble Kalman Filter 
+18-EARTH18F-0224
+Bowen Zhao (Student); Alexey Fedorov (Advisor) 
+Yale University 
+The Role of Cross-Equatorial Winds in ENSO Dynamics Revealed by Satellite-Based 
+Observations and Model Experiments 18-EARTH18F-0231
+Jiawei Zhuang (Student); Daniel Jacob (Advisor) 
+Harvard College 
+Atmospheric Chemistry Modeling on Cloud Computing Platforms: Development of a New 
+Resource for Analysis of Earth Science Data 
+18-EARTH18F-0060

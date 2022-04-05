@@ -1,0 +1,47 @@
+Vassilis Angelopoulos (PI); Colin Wilkins (FI) 
+University of California, Los Angeles 
+Development of a Wide Energy Particle Detector in CubeSat Form-Factor 19-HELIO19-0059 
+ 
+Stuart Bale (PI); Juan Buitrago Casas (FI) 
+University of California, Berkeley 
+Exploring coronal heating and the faintest solar hard X-rays with FOXSI 19-HELIO19-0055 
+ 
+James Drake (PI); Harry Arnold (FI) 
+University of Maryland, College Park 
+Development of a new computational model for exploring energetic electron production in solar flares 19-HELIO19-0041 
+ 
+Lindsay Glesener (PI); Jessie Duncan (FI) 
+University Of Minnesota 
+Investigating Solar Microflares: NuSTAR Analysis & High-Energy Detector Development 19-HELIO19-0011 
+ 
+Justin Kasper (PI); Daniel Vech (FI) 
+University Of Michigan, Ann Arbor 
+Radial dependence of kinetic scale turbulence 19-HELIO19-0015 
+ 
+Alexander Kosovichev (PI); Andrey Stejko (FI) 
+New Jersey Institute Of Technology 
+New Regimes in 3D Global Modeling of Solar Interior Dynamics and Magnetic Field Structure 19-HELIO19-0043 
+ 
+Robert Lysak (PI); Aaron West (FI) 
+University Of Minnesota 
+Numerical Investigations of Kinetic Field Line Resonances 19-HELIO19-0016 
+ 
+Petrus Martens (PI); Aparna Venkataramanasastry (FI) Georgia State University Research Foundation, Inc. 
+Prediction of Space Weather Effects using Filaments and Sound Waves as Precursors 19-HELIO19-0050 
+ 
+Tomoko Matsuo (PI); Clayton Cantrall (FI) 
+University Of Colorado, Boulder 
+Airglow Radiance Data Assimilation for Characterizing  Vertical Coupling of Atmospheric Layers 19-HELIO19-0018 
+ 
+Juri Toomre (PI); Loren Matilsky (FI) 
+University Of Colorado, Boulder 
+Exploring the Role of the Tachocline in the Solar Dynamo and its Cycles 19-HELIO19-0010 
+ 
+Lara Waldrop (PI); Pratik Joshi (FI) 
+University Of Illinois, Urbana-Champaign 
+Quantification of terrestrial hydrogen escape flux through  thermal and non-thermal pathways 19-HELIO19-0040 
+ 
+Shasha Zou (PI); Zihan Wang (FI) 
+University Of Michigan, Ann Arbor 
+Formation of Sub-Auroral Polarization Streams (SAPS) during geomagnetic disturbances 19-HELIO19-0021 
+ 

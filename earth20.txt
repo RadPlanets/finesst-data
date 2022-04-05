@@ -1,0 +1,1437 @@
+Emily Bernhardt (PI) /Audrey Thellman (FI) Duke University 
+19-EARTH20-0219, River Ecosystem Phenology in an Increasingly Ice-Free World 
+ 
+OVERVIEW: Reviews of lake ice measurements indicate a clear trend: ice duration in the Northern Hemisphere is getting shorter and the southern edge of annual lake ice is moving northwards. Similarly, terrestrial studies aimed at understanding how winters are impacting the growing season note that air temperatures have decreased, snowmelt is earlier, and snow duration is decreasing. These trends have been associated with the subsequent later tree budburst dates in some northern deciduous forests. Though the impact of warmer winters via less snow and ice is well studied in terrestrial systems, few attempts have been made to understand how inland waters, especially rivers, are ecologically responding to this change. My study evaluates how shifting ice and snow duration are impacting the metabolism and nutrient export of large rivers. I plan to evaluate this question by combining remotely derived metrics for river snow and ice cover as well as terrestrial leaf area index using MODIS and Landsat imagery. These periods of shading both from snow or ice and overhanging canopy or turbidity will establish the potential ‘windows of metabolic opportunity’ for large rivers. This physical template will be compared with in-situ daily metabolism estimates from seasonally snow-covered sites in the publicly available StreamPULSE data portal in addition to remotely derived chlorophyll-a (algal biomass) metrics. Complementary to available metabolism and chlorophyll-a data, I will compare these results with an ongoing smaller scale project at in the watersheds of Hubbard Brook Experimental Forest in an attempt to link large-scale river network responses to warmer winters to small-scale headwater streams, which comprise the bulk of river networks. This research is directly relevant to NASA’s Science Mission Directorate for the Earth Sciences Division by understanding how our freshwaters are responding to global change. 
+ 
+ 
+ 
+ 
+Emmanuel Boss (PI) /Guillaume Alexis Bourdin (FI) University of Maine 
+19-EARTH20-0178, Ecological and Physiological Characteristic of The Island Mass Effect 
+ 
+OVERVIEW: Background: Higher concentrations of chlorophyll are nearly ubiquitous around Pacific islands and atolls. This phenomenon is referred to as the island mass effect (IME). Interaction of the mean flow with the island, mixes the water column, forms eddies, and therefore transports nutrients and species between deep water and surface but also between island’s coastal habitats and open ocean. As a result, different community can be observed in the wake of an island relative to the ocean around it. The vastness of the Pacific Ocean makes it impractical to in-situ studies on a large spatial and temporal scale, hence remote sensing is the tool of choice to study the effect of islands on surface ecosystems. However, to date, there exist no method to evaluate the full IME impact on a basin scale. In fact, the interpretation of chlorophyll a concentration as an indicator of phytoplankton biomass, on one hand, does not provide any information on the trophic structure of IME, and on the other hand, could be subjected to biases, as it is also modulated by phytoplankton physiology in response to light and nutrient availability. 
+ 
+The overarching goal of this study is to elucidate the ecological, physiological and geophysical mechanisms contributing to the observed chlorophyll increase around remote islands. To address this goal, we will first define a new method that allow the differentiation of two types of IME (e.i. “classic” and “delayed” IME) based on the detection of key phytoplanktonic organisms in the wake of islands using a set of in-situ measurement and remote sensing products. Secondly, we will determine whether higher chlorophyll patterns around islands represent increases in biomass or is associated with physiological regulations using the chlorophyll to backscattering coefficient ratio (chl:bbp; in-situ & remotely sensed) supplemented by metatranscriptomic sequencing. 
+ 
+The proposed project will combine a comprehensive set of large scale in-situ measurements collected during the TARA Pacific expedition, outputs of an assimilative global hydrographic model and novel space-based algorithms. Using recent satellite ocean color sensors, whose horizontal resolution is on the order of 10s of meter, we will delineate fine-scale processes around island to evaluate their contribution to the larger scale features observed off-shore. We will first determine the differences in composition and size between phytoplankton populations within the enhanced chlorophyll patch compared to the surrounding ocean, using in-situ measurements of IOPs and community composition (e.i. FlowCam, flowcytometry and metabarcoding), integrated to large scale climatologies of remotely sensed seasurface temperature and reflectance. Secondly, we will evaluate whether chlorophyll pattern around island, represent an increase in biomass and/or physiological adaptation. To this end, we will use the chl:bbp ratio, as a marker of light and nutrient acclimation, and metatranscriptomic sequencing, as a quantitative measure of the expression level of key genes involved in nutrient assimilation and photosynthesis. 
+ 
+The complexity and variability of IME complicate its parametrization in global biogeochemical models. Nevertheless, given its significance in term of ecology and biogeochemistry, it is particularly important to understand its impact, in order to evaluate the effect of environmental changes on the largest ocean of Earth. We anticipate our findings will provide 1) a breakthrough in understanding the consequences of island perturbation on plankton ecology and physiology and furthermore, its impact on biogeochemistry, 2) a validated method to monitor two different types of IMEs outcomes using remote sensing. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Don Chambers (PI) /Jessica Caggiano (FI) 
+University of South Florida 
+19-EARTH20-0209, Understanding Surface Wave Signals in SWOT Altimetry 
+ 
+OVERVIEW: The Surface Water Ocean Topography (SWOT) mission’s oceanographic objective is to measure ocean mesoscale and sub-mesoscale interactions at a resolution of 5 km x 5 km. The Ka-band interferometer on board is expected to be able to determine sea surface height within an accuracy of <2 cm, accounting only for instrument noise and atmospheric refraction errors. Ocean surface waves are currently included within that budget. It is assumed that the error from these waves will be negligible, with the assumption that global average significant wave height is 2.8 meters. We predict that in areas of the ocean with consistently large significant wave height, for example the Southern Ocean, the error from sampling waves will be considerably higher. We propose to add wave error modules to the SWOT Simulator and quantify how the wave error distorts geostrophic velocity and eddy kinetic energy.  
+ 
+This project will lead to a better understanding of how surface waves will affect SWOT. This project will contribute to ongoing Ph.D. work by the student in her Physical Oceanography degree at the University of South Florida College of Marine Science. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Eric Chassignet (PI) /Morgan B Shaner (FI) 
+Florida State University 
+19-EARTH20-0320, Ocean-Atmospheric Coupling Mechanisms and Their Impact on Surface Wind Stress 
+ 
+OVERVIEW: Furthering our understanding of ocean's role in the water and energy cycle has become increasingly important due to global climate change impacting ocean circulation, and the oceans impacts on climate. Understanding how ocean-atmospheric coupling can change local wind stress is essential for modeling the wind driven ocean circulation. The curl of the stress is the main driver of vertical and horizontal motions in the water column and associated transport of properties. Small errors in wind stress are amplified when computing this curl. Variability in the wind stress has been linked to changes in wind over sea surface temperature (SST) gradients. The primary goal of this project is to determine under what conditions a change in surface pressure across a SST gradient will have a stronger impact on wind stress than a change in atmospheric boundary-layer stratification across the same SST gradient.  The proposed research activity will develop a quantifiable method to determine the dominant physical process (pressure change versus boundary-layer stability) behind a change in wind due to an SST gradient and quantify the relative importance of these two processes on the ocean circulation as well as on the ocean water and energy cycle using the North Atlantic configuration of the HYCOM ocean numerical model. This research will improve this understanding and allow for more accurate modeling of ocean circulation to improve predictions of how changes in the climate system will affect our oceans. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Daniel Chavas (PI) /Funing Li (FI) Purdue University 
+19-EARTH20-0216, Using Multi-Source Satellite Observations to Investigate The Asymmetric Seasonal Cycle of Severe Local Storm Environments Over North America 
+ 
+OVERVIEW: Severe Local Storm (SLS) activity, including tornadoes and severe thunderstorms, poses significant loss and damage every year in the United States. SLS events occur principally within favorable larger-scale environments (SLS environments). These environments are more common and significant in spring than in other seasons, which raises an important fundamental question unanswered: why do the SLS environments over North America exhibit an asymmetric seasonal cycle whose peak is shifted towards late spring? We hypothesize that this seasonal asymmetry is induced by the seasonal variation of boundary-layer moisture. To test our hypothesis, we will analyze the seasonal variations of boundarylayer and free tropospheric properties (moisture and temperature) associated with the generation of key thermodynamic environments, using multi-source satellite observations and reanalysis dataset, to quantify their contribution to the asymmetric seasonality. Outcomes from this project will advance our knowledge of the generation of SLS environments in the present climate, which will improve our predicting ability of SLS variability within a changing climate. This is directly aligned with the NASA research goal to “improve the capability to predict weather and extreme weather events using the full set of available satellite measurements.” 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Jingyi Chen (PI) /Ke Wang (FI) 
+The University of Texas at Austin 
+19-EARTH20-0083, Integration of InSAR Technique and Storm Surge Modeling to Analyze Anthropogenic Influences on the Texas Coastal Resilience 
+ 
+OVERVIEW: The Texas coast regularly experiences storm surges that result in vast damage, which has led to statewide investigations on how to protect the coastal community from future extreme weather events. Plans under consideration include building a multi-billion-dollar barrier system with levees, and preserving and restoring diverse habitats such as wetlands as a natural barrier. However, no consensus has been reached on the final plan, because their performance, feasibility, and potential environmental impacts remain largely unknown.  
+ 
+To tackle this issue, it is critical to understand how anthropogenic and environmental factors may have contributed to the severity of storm-induced flooding. The fast expansion of coastal cities has caused significant loss of wetlands and forests, which could serve as a natural barrier that slows down the storm surge. In addition, coastal land subsidence, combined with potential sea-level rise, may lead to an accelerated loss of natural wetlands, impact the performance of levees and seawalls, and increase the flooding risk of inland regions in the next 10-20 years. Here we propose to advance spaceborne Synthetic Aperture Radar (SAR) and interferometric SAR (InSAR) technique for characterizing the temporal evolution of land surface properties critical to modeling flood risk. We will develop a SAR- and InSAR-based classification algorithm to map land cover and surface roughness changes due to rapid urban expansions. In addition, we will advance the current InSAR Persistent Scatterer selection and time series analysis algorithm to derive accurate surface deformation time series. Using these SAR/InSARderived data products, We will construct future scenarios (e.g. the projected wetland loss in 10-20 years), and simulate the impact of historical storm surge events using the Advanced Circulation modeling framework (ADCIRC). The results of these simulations allow us to determine how humaninduced surface changes affect the Texas coastal resilience. 
+ 
+The proposed study will provide a new way to analyze whether the ecosystem restoration may efficiently protect the Texas coast from storm surges, whether the coastal barrier system with levees will maintain its designed performance under continuous land subsidence. These information are critical for informing social decisions at all levels concerning disaster support. 
+ 
+ 
+ 
+ 
+ 
+ 
+Jingyi Chen (PI) /Yue Wu (FI) 
+The University of Texas at Austin 
+19-EARTH20-0085, Monitoring Soil Water and Organic Carbon Storage Patterns at the Arctic Foothills, Alaska, Using InSAR 
+ 
+OVERVIEW: Thawing permafrost fuels large fluxes of carbon from land to ocean and atmosphere, which may further accelerate climate changes effects. Because the Arctic covers continent-sized areas that are mostly hard-to-access, remote sensing has become a critical tool for understanding the natural and anthropogenic effects of environmental change on the arctic landscape. In this research, we propose to investigate the capability of Interferometric Synthetic Aperture Radar (InSAR) techniques on monitoring changes in hydrological (soil water content) and ecological (soil organic carbon storage) characteristics in soils above continuous permafrost. 
+ 
+In a pilot study, we integrated spaceborne InSAR deformation data with a large number of soil measurements that contain relevant information on water holding capacity. This allows us to demonstrate that the ALOS observed deformation signals near the Toolik Lake, Alaska are indeed due to the active layer FT cycle rather than other processes such as slope creep or tropospheric noise. The agreement between InSAR and in-situ measurements suggests that the amplitude of the seasonal FT deformation is determined by the total amount of soil water that experiences the freeze-thaw cycle in a given year. Because the amount of water in the active layer influences the type of vegetation that can grow, we propose to further investigate whether InSAR can be used to monitor ecological characteristics of the permafrost terrain. To do this, we will test the hypothesis: the regions that show larger seasonal freeze-thaw surface deformation tend to have a thicker organic soil layer and thus contain more soil carbon through a joint analysis of InSAR and in-situ soil sample data. The proposed work, if successful, will lead to a new InSAR-based technique for estimating active layer carbon storage on a regional scale. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Knut Christianson (PI) /Andrew Osten Hoffman (FI) 
+University of Washington 
+19-EARTH20-0110, Applying Generalized Adjoint Methods for Time-Dependent Inversions for Basal and Rheological Properties Using Satellite Time Series of Antarctic Ice Velocity and Elevation 
+ 
+OVERVIEW: Forecasting ice-sheet contribution to sea-level rise is a central research question in glaciology. Simulating ice-sheet mass loss requires an estimate for the initial state of the ice sheets, which can then be projected forward in time using numerical models for glacier flow and ensembles of future climate scenarios. The factors that inform the initial condition can be partitioned into two broad categories: 1.) The initial ice velocity structure, bed friction and rheology (physics of ice) and 2.) The ice geometry (ice surface and bed elevation). Some of the fields necessary to initialize ice sheet forecasts can be observed at large scales (ice surface elevation and surface velocity), while others cannot (bed friction coefficient). NASA missions (Landsat 1-8, ICESat, IceBridge, MEaSUReS, GoLIVE and now ICESat2) have dramatically increased the volume of data available to understand the modern ice-sheet state, but only a fraction of these observational data are used to initialize the typical prognostic model experiment due to structural limitations of models that cannot accommodate observation time series. This proposal aims to use the complete altimetric and surface velocity records of the Antarctic Ice Sheet in time-dependent inversions for basal friction and rheological parameters governing ice flow. Initial tests will apply these time-dependent data assimilative methods to an idealized domain similar to the domain developed for the first ice-sheet model inversions for bed conditions. Once developed and tested, these methods will be applied to vulnerable Antarctic outlet glaciers to determine the sensitivity of simulations of the Antarctic Ice Sheet to uncertain estimates for basal friction and viscosity. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Roger De Roo (PI) /Puneeth Yogananda (FI) 
+The University of Michigan 
+19-EARTH20-0044, Enabling Comprehensive Low Latency Snow Pit Data (EnCLLaSP) 
+ 
+OVERVIEW: Current methods of monitoring snow water equivalent (SWE) from space, such as measuring the differential scatter darkening in the radiobrightness at 19 and 37 GHz, rely on snow microphysical properties, such as grain size, in addition to the snow macroscopic properties like snow depth.  The algorithms to invert the observations to SWE or snow depth are region-specific and require substantial ground truth to characterize the snow climatology of that region.  And, of course, the climate is changing. 
+ 
+This proposal addresses this concern by automating the collection of snow ground truth.  We will do this by integrating two technologies that already exist:  1. the SoilSCAPE system enables low-latency soil moisture data collection from areas that are large enough to be representative of a passive microwave footprint.  2. the University of Michigan snow sensor is a small, easily replicated data logging device that implants in the snow pack and logs the snow's temperature, density, and grain size, together with (yet uncalibrated) information on moisture and ambient light levels local (within a decimeter) of the sensor.  The two systems can be integrated because the SoilSCAPE system uses the 900MHz ISM band for wireless communications, while the snow sensor system uses the same band for the measurement of the density and moisture of the snow.  Wireless communications for the snow sensors was envisioned, but never implemented.  The printed circuit board for the snow sensor includes a space for the addition of a 900 MHz antenna.  With the addition of the antenna to the snow sensor, the two systems' hardware are compatible.  The bulk of the effort will be in implementing the software needed allow the two systems to communicate, and thereby turn the SoilSCAPE system into one that can also monitor snow over a wide area. 
+ 
+Advantages of merging the two systems include giving to the snow sensor the intelligence of the SoilSCAPE system.  In particular, power management of a device embedded in the snow pack is important to preserving the snow pack properties.  Judicious alterations of the measurement schedule, possible with the SoilSCAPE system, will enable rapid measurements of the snow pack when the snow is expected to be changing, and sparse sampling of the snow pack when excess power dissipation is undesired. 
+ 
+The implementation of the system merger will be done in phases.  First, communications between a snow sensor and the SoilSCAPE Local Controller will be established.  This will enable the joined system to monitor the vertical variation of the snow pack over time.  Once that is achieved, a commercial off-theshelf acoustic snow depth instrument will be integrated with the SoilSCAPE End Devices, to capture horizontal variations in the snow depth over large areas.  Finally, we will explore the ability of the End Devices to act as a radio relay between the Local Coordinator and the snow sensor, to enable wider-area monitoring of the vertical variations of the microscopic properties of the snow pack.  Each winter season will involve some outdoor testing of the combined system to validate the performance of these improvements as they are completed. 
+ 
+Andrew Dessler (PI) /Li-Wei Chao (FI) 
+Texas A&M University 
+19-EARTH20-0003, Developing an Improved Energy Balance Framework Using CERES Planetary Energy Balance Observations 
+ 
+OVERVIEW: Climate sensitivity, typically defined as the amount of warming in response to doubled CO2, exhibits large uncertainty. Obtaining an accurate estimate of climate sensitivity is important because higher climate sensitivity not only represents a warmer future climate, but also implies more extreme weather and larger economic impacts. Most estimates of this quantity are based on an energy balance framework that assumes that the radiative response of the planet is linearly proportional to global averaged surface temperature. We propose to investigate different ways to describe the energy balance framework for the Earth. Preliminary analysis has found that, while the radiative response of longwave clear-sky flux is proportional to surface temperature, shortwave cloud radiative effect (CRE) correlates poorly with surface temperature. This suggests that each component of the energy budget (longwave and shortwave components of clear-sky and CRE) should be considered separately.  
+ 
+CERES provides global, high-accuracy measurements of top-of-atmosphere radiative flux, allowing us to analyze the interannual variability of each component, and to investigate what controls them. Ordinary least squares regression and the uncertainty analysis of regression will be performed to quantify the relationship between radiative response and controlling factors. We hypothesize that shortwave clearsky flux might be controlled by sea ice and land snow coverage; while cloud radiative effect might be determined by tropospheric stability.  
+ 
+In this project, we propose to leverage the CERES measurements to develop an improved energy balance framework and constrain climate sensitivity by combining estimates of how the controlling factors for each component change as the climate warms. We believe this work can broaden the societys knowledge in how Earths climate system changes in response to radiative forcing and especially how clouds influence the radiative flux. Furthermore, the results of this research can improve scientists ability to predict future climate and provide information for society to use in determining what action to take to protect ourselves. Our proposed research supports NASA’s objective: improve the ability to predict climate changes by better understanding the roles and interactions of the ocean, atmosphere, land and ice in the climate system. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Larry Di Girolamo (PI) /Jesse Ray Loveridge (FI) 
+University of Illinois at Urbana-Champaign 
+19-EARTH20-0142, 3D Tomographic Reconstruction of Cloud Properties from Satellite Multi-Angle Imaging Systems 
+ 
+OVERVIEW: One of the goals of NASAs Earth Science Division is to monitor how the Earth system is changing. The suite of instruments making up NASAs Earth Observing System provides a wealth of information that has greatly improved our scientific understanding of the Earth system and how it is changing. However, the information about cloud and aerosol properties retrieved from passive imagers have well-recognized biases that depend on the region and cloud regime due to their use of 1D radiative transfer in the interpretation of the measurements. Overcoming these biases is recognized as a crucial area for improvement for monitoring the Earth. A novel retrieval technique that uses multi-angle imaging instruments and 3D radiative transfer has recently been introduced with the potential to retrieve distributions of aerosol and cloud microphysical properties in 3D and overcome the biases of the current retrievals that use 1D radiative transfer. This technique is inspired by Computed 
+Tomography in medical imaging. Such a tomographic retrieval would be able to provide new insight into the coupling of aerosol and clouds, especially in convective clouds, which helps achieve the goal of monitoring the Earth system, in particular, the objectives of the Aerosols, Clouds, Convection & Precipitation (ACCP) mission. 
+ 
+While the tomographic technique has shown promising performance when applied in idealized shallow cumulus clouds, it is still in an early stage of development. As such the dependence of the uncertainty characteristics of the retrieval on fundamental factors such as the solar-sensor geometry and instrument resolution have not been assessed. Importantly, the retrieval assumes that each of the multi-angle views is acquired simultaneously. This assumption is not true for any single-platform multi-angle instruments such as Terras MISR, that acquires its nine multi-angle views over a timespan of ~7 minutes and clouds are known to evolve significantly over that period, which will have an unknown effect on the retrieval accuracy. 
+ 
+It is the goal of this work to further develop the tomographic technique and characterize its performance on current multi-angle instruments such as MISR, and also to inform the design of future multi-angle instruments. We will examine the importance of the various sources of uncertainty that affect the retrieval, such as cloud temporal evolution, using synthetic data generated from Large Eddy Simulations. We will apply the retrieval to MISR and ASTER and validate the retrieval’s performance using co-located in-situ data from NASA’s CAMP2Ex, ORACLES, and SEAC4RS field campaigns as well as ground-based remote sensing instrumentation from the DOE’s SGP ARM site. To improve the effectiveness of the technique, we will develop a time-dependent retrieval framework that mitigates the effects of cloud temporal evolution. We will develop prior constraints on the retrieval using in-situ data from the numerous field campaigns including those listed above and RICO, HI-SCALE and VOCALS-REx. We will assess the tradeoffs between retrieval accuracy and the complexity of the measurement system, such as the value of a multi-platform measurement system that accounts for cloud temporal evolution.  
+ 
+This work will enhance the scientific value of NASA’s past and future investments in multi-angle imaging systems by developing a novel tomographic retrieval technique that uses 3D radiative transfer for these systems. The application of the retrieval to the nearly 20-year Terra record and/or a future multi-angle instrument will provide new insight into the aerosol-cloud environment, especially in convective cloud systems. As such, the development of this retrieval will be of great value for meeting the objectives of the ACCP mission and NASA’s Earth Science Division’s goal of monitoring the Earth system. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lyndon Estes (PI) /Lei Song (FI) 
+Clark University 
+19-EARTH20-0176, Combining Spatially-Explicit Simulation of Animal Movement and Earth Observation to Reconcile Agriculture and Wildlife Conservation 
+ 
+OVERVIEW: Agriculture will lead to significant biodiversity loss in Africa within the next few decades, as the region’s agricultural systems adapt to meet rapidly growing food security challenges arising from population growth and climate change. Whereas agriculture and conservation have traditionally been studied separately, an emerging body of literature draws attention to their nexus, using methods, primarily geospatial modeling techniques, to address the conflict between them. Yet few studies have differentiated between vegetation and animals, due to insufficient attention paid to animal movement and migration. The knowledge of movement habits of large mammals, however, is the key to integrating wildlife conservation and food production on the same land. Furthermore, habitat fragmentation and shift caused by rapid landcover change and climate change are affecting animals behaviors, and therefore needs to be incorporated into conservation strategies. This study will draw on animal movement data for more accurate understanding of their land-use behaviors and patterns over space and time, based on which to achieve optimal land allocation for agriculture and conservation. Using a variety of Earth Observation products and GPS/satellite telemetry, this research will 1) develop a landuse optimization framework to find the effective combination of land sparing and land sharing strategies that balance the need for agriculture and wildlife by factoring in information on animal movement dynamics, and 2) use this framework to identify solutions for conservation practitioners and policy makers at local and regional levels to ensure sustainable development that meets the needs of both humans and wildlife. 
+ 
+Remote sensing has played a critical role in developing the tools for land-use planning that meet both the aims of wildlife conservation and human livelihoods. Focusing on maize and African savanna elephants, our goal is to practically identify lands that are optimal for wildlife survival, expandable for agriculture, and sharable for both in Tanzania  - the country showcasing agriculture-conservation conflicts in SSA. Firstly, we will create accurate species distribution maps using species distribution models (SDMs) and multiple Earth Observation products such as land cover type. Secondly, animal movement parameters including step lengths and turning angles will be generated from GPS/satellite telemetry. Based on the newly generated species-distribution maps and animal-movement parameters, we will use correlated random walk (CRW) to simulate trajectories and spatial surfaces of animal movement, and then model land-use patterns by animals. Thirdly, using a suite of satellite imagery/products (e.g. NASA and ESA) and in situ observations, we will apply the mechanistic model Decision Support System for Agrotechnology Transfer (DSSAT) to estimate potential yields for noncropland and yield gaps for existing croplands. With sufficient knowledge of agricultural production and animal land-use habits over space and time, we will finally build functions to calculate the level of conflicts between animal habitats/movement and agricultural intensification/expansion. Categorizing the conflicts based on changeable thresholds, different management strategies will be generated for different ecological and economic objectives. 
+ 
+The proposed research will lay a foundation for further academic inquiry into the nexus of agriculture and conservation. It will provide NASA’s Earth Science Research Program with evidence and practice to detect and predict changes in Earth’s ecosystems and further to inform decisions and provide benefits to society. More broadly, the framework will provide policy makers with more effective conservation management strategies, and more accurate and timely ecological information at local and regional levels. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Alexey Fedorov (PI) /Ulla Klint Heede (FI) 
+Yale University 
+19-EARTH20-0145, Mechanisms of Changes in the Tropical Pacific Mean State and Walker Circulation in Response to Global Warming: Satellite-Based Observations Versus Climate Models 
+ 
+OVERVIEW: The tropical Pacific plays a key role in the global climate system as it controls global atmospheric circulation and hydrological cycle through the atmospheric meridional (Hadley) and zonal (Walker) cells. Consequently, tropical Pacific variability, ranging from the MJO to ENSO to decadal variations, modulates surface air temperatures, precipitation and weather patterns in different regions of the globe. Yet, disagreements between climate model results, recent observations, and different theories of the tropical response to climate forcing are prevalent in the scientific literature. This represents a fundamental challenge for understanding tropical Pacific climate, casting doubt on the reliability of climate projections for this region. 
+ 
+Our preliminary work, using a hierarchy of approaches, has established that the tropical Indo-Pacific shows two distinct responses to greenhouse gas forcing: transient and equilibrium. The transient response is characterized by a rapid warming over the Maritime continent and the Indian Ocean, which strengthens easterly winds across the Pacific Ocean, suppressing warming in the eastern/central Pacific, and in the trade wind belts. The slow quasi-equilibrium response, characterized by warming of the eastern Pacific and weakening of the east-west SST and SLP gradients, emerges as the upper-ocean warms, and the ocean thermostat becomes less effective. CMIP6 models appear to exhibit a similar behavior, albeit with a large spread. These findings provide indications that the recent strengthening of zonal SST and SLP gradients in the tropical Pacific could be part of a transient ocean-thermostat type response to radiative forcing. Yet, this begs the next question: if models are capable of reproducing a transient strengthening of SST and SLP gradients in idealized experiments, and the observed trends are indeed a response to greenhouse gas forcing, why are the models unable to capture these trends in historical simulations? Could it be that the relative roles of various mechanisms that modify atmospheric zonal circulation are misrepresented in the models, possibly because of GCM biases? 
+ 
+These considerations highlight the urgent need to bridge models and observations, in order to evaluate how the mechanisms operating in GCMs operate in nature, and to identify discrepancies between models and observations that can be used to evaluate the robustness of GCM projections. To this end, satellite-derived datasets from the past few decades provide an invaluable tool for assessing recent trends in the tropical Pacific, validating climate models, and understanding the tropical climate response to radiative forcing. We rely primarily on satellite-based data, rather than atmospheric reanalysis, as the former provides a vital consistency check for trends in different climate variables. 
+ 
+Accordingly, this project will investigate changes in the tropical Pacific during the satellite era with the focus on the atmospheric Walker circulation and related characteristics such as the east-west SST gradient, zonal winds, surface currents, precipitation, OLR and compare them with GCM results. We aim to (1) develop new observational indices for the Walker circulation and identify fingerprints of global warming in the tropical Pacific using satellite-derived datasets, (2) use the CMIP6 archive to pinpoint discrepancies between climate models and the observations, and (3) conduct GCM sensitivity experiments exploring tropical Pacific response to global warming. Our proposed study relies on a broad range of oceanic and atmospheric variables derived primarily from satellite data, some of which have not been previously used in the context of the Walker circulation.  
+Ultimately, improved understanding and prediction of future changes of the Walker cell will help inform decision-makers on consequences of tropical climate change, including changes in temperature, precipitation, sea level, and extreme events. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cedric Fichot (PI) /Joshua Paul Harrington (FI) Boston University 
+19-EARTH20-0217, Quantifying the Fate of Dissolved Organic Carbon from Stable and Degrading Marshes in the Mississippi River Delta Using Airborne Imaging Spectroscopy and Export Modeling 
+ 
+OVERVIEW: Carbon export through coastal marsh-estuaries is an important, but poorly constrained, component of the global carbon cycle. Globally, many coastal marshes are unstable, their extent shrinking due to erosion, subsidence, and sea level rise. Research has indicated that organic matter export from coastal marshes and within-estuary dissolved organic carbon (DOC) degradation can significantly influence global carbon budgets. However, the size of these influences is not precisely known due to challenges in determining the fate of estuarine carbon. Estuarine geochemical processes are difficult to quantify using conventional in-situ methods, because they can vary on small spatial and temporal timescales – tens of meters and hours to days, respectively. Advances in imaging spectroscopy (hyperspectral remote sensing) provide opportunities to map distributions of DOC, and determine the fate of carbon across estuarine systems with improved resolution and coverage.  
+ 
+Here, I propose to combine remotely sensed information and models to determine the fate of DOC in two contrasting marsh-estuary systems located in the Atchafalaya River Delta, a major distributary of the Mississippi River. These contrasting systems will be used to examine the differences in DOC transformations, export fluxes, and fate between: 1) Terrebonne Bay, a rapidly eroding coastal-marsh system, and 2) Fourleague Bay, a nearby bay where riverine sediment inputs are thought to help marsh accretion keep up with sea level rise. I will use hyperspectral, in-situ measurements to develop and test different types of local algorithms for inferring water column inherent optical and geochemical properties from remote sensing reflectance. The best performing of these algorithms will be applied to imagery from the NASA JPL Airborne Visible/Infrared Imaging Spectrometer Next Generation instrument (AVIRIS-NG) to infer concentrations of DOC across the marsh-estuary systems. AVIRIS-NG imagery will be collected as part of the upcoming NASA Earth Ventures Delta-X investigation, which seeks to forecast changes to the Mississippi River Delta using remote sensing, hydrodynamic modeling, and field sampling to model and understand deltaic soil accretion. I will use remote-sensing-derived maps of estuarine DOC with the output of hydrodynamic models, and with in-situ measurements of flow in marsh channels to calculate lateral export fluxes of DOC to the ocean. These export rates will be combined with models of microbial and photochemical DOC remineralization in order to compare the fate of DOC between the different estuaries. Modeled DOC remineralization rates will leverage laboratory incubation experiments to determine photochemical and microbial DOC reactivities. These reactivity rates will be applied across the estuaries to estimate fractions of DOC remineralized within each estuary or exported to the ocean.  
+ 
+These estimates of DOC export fluxes to the continental shelf and DOC degradation within the estuary will help understand the fate of organic carbon in rapidly degrading coastal marshes. The objectives of this project are relevant to the Carbon Cycle and Ecosystems focus area of the NASA Earth Science SMD, which prioritizes understanding “ecosystems as they are affected by human activity, as they change due to their own intrinsic biogeochemical dynamics, and as they respond to climatic variations and, in turn, affect climate.” 
+Helen Amanda Fricker (PI) /Philipp Sebastian Arndt (FI) 
+UCSD, Scripps Institution of Oceanography 
+19-EARTH20-0348, Exploitation of ICESat-2's Unique Capabilities and Machine Learning for Improved Understanding of Mass Balance Processes Across all Antarctic Ice Shelves 
+ 
+OVERVIEW: The grounded portion of the Antarctic Ice Sheet is losing net mass to the ocean and will likely become the largest contributor to global sea-level rise within the next 30 years. Although ice-shelf mass loss does not directly lead to sea-level rise, it reduces the frictional (buttressing) back-stress that the ice shelves provide to the grounded ice, and therefore increases the rate of grounded-ice flow towards the ocean. Many Antarctic ice shelves are currently thinning, and some at the Antarctic Peninsula are disintegrating. It is widely believed that the collapse of ice shelves can be caused by hydrofracture. This phenomenon occurs when crevasses fill with water, and the added pressure becomes large enough to result in fracture propagation. Melt ponds provide a large surface reservoir of water that may drain into such propagating fractures, thus further increasing pressure and leading to sustained fracture propagation. Over the last several decades, surface melt ponding has increased across most Antarctic ice shelves, and progressively migrated towards locations further south. To assess the stability of Antarctica's ice shelves, it is therefore crucial to closely monitor and accurately quantify melt ponding. Photon-level point cloud data from NASA's ICESat-2 laser altimetry mission now provides us with unique capabilities to monitor surface melt in unprecedented detail. Since some laser pulse photons are able to penetrate the water of melt ponds, ICESat-2's sensor obtains a double reflection: one from the water surface and a second from the underlying lake bed. When corrected for refractive index, the difference between the two provides a measurement of meltwater depth. We will use this approach to quantify supraglacial meltwater depths across all Antarctic ice shelves. We will then extend the meltwater depth record to greater spatial and temporal coverage by including estimates from Landsat 8 and Sentinel-2 multispectral satellite imagery based on supervised machine learning models capable of nonlinear multiple regression, which will be trained on the ICESat-2-derived depths. The resulting data product will be used along with other ice shelf mass balance data to attribute spatial and temporal variability in ice shelf mass balance processes to potential climate drivers, using data mining methods such as multi-view clustering, similarity network fusion and sparse inverse covariance selection. This will improve our understanding of how ice shelves are responding to a changing climate and thus help improve future predictions of sea-level rise. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rong Fu (PI) /Sarah Rose Worden (FI) 
+University of California, Los Angeles 
+19-EARTH20-0240, Identifying the Changing Moisture Sources Behind the Early Onset and Demise of the Congo Spring Rainy Season 
+ 
+OVERVIEW: The Congo Basin is the second-largest contiguous rainforest in the world. The semi-annual rainy seasons are central for sustaining the terrestrial water and carbon storages in that globally significant region. Observations have shown an earlier onset and demise of the spring rainy season. The latter contributes to a decrease of rainfall and reduced terrestrial water storage, browning of the rainforests and an increase of the boreal summer dry season length. We will examine whether and how the changing moisture sources contribute to this shift in the rainy season using deuterium content of water vapor (HDO) in the troposphere, along with multiple other satellite data provided by NASA. In particular, we will test two hypotheses: 
+ 
+-	Hypothesis - 1: Changing seasonal cycle of the photosynthesis and ET drive early onset and demise of the spring rainy season 
+ 
+-	Hypothesis - 2: Changing moisture advection from the ocean drives early onset and demise of the spring rainy season  
+ 
+To best isolate the influence of moisture sources on HDO and minimize the impact of condensation/precipitation on the change of HDO, we will focus on February and June, when the onset and demise of the spring rainy season occur. We will use a combination of satellite HDO, the Solar Induced Fluorescence (SIF), and evapotranspiration (ET) and moisture transport from reanalysis to evaluate the relative contribution of ET and moisture transport from ocean to changes of atmospheric moisture.  We will also use satellite terrestrial water storage, rainfall, cloud and aerosol data, along with surface radiation from reanalysis to determine the influences of rainfall and surface radiation on ET.  Furthermore, we will examine the influences of sea surface temperatures (SST) of the tropical oceans and surface temperature over Sahara on moisture transport, to connect changes of moisture source to remote SST and land surface forcings.  This study will use multiple NASA satellite datasets to fill in a knowledge gap in determining the mechanisms behind the droughts and the coupling between ecosystem and water cycle over the Congo basin. In so doing, it will contribute to the goals of NASA Earth Science Research Program. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Josh Gray (PI) /Ian McGregor (FI) North Carolina State University 
+19-EARTH20-0300, Toward Near Real-Time Monitoring of Forest Disturbance in Myanmar Using MultiSource Imagery 
+ 
+OVERVIEW: As one of the main drivers of biodiversity loss, deforestation is a major issue in Myanmar and has been increasing since the democratization of the country in the 1990s. Efficient enforcement of forest regulations is often unreliable due to the temporal latency of available forest loss data. Recent, near real-time (NRT) monitoring methods have reduced this latency, but the most consistent methods can only identify daily deforestation at least 6 ha in size. Illegal logging in Myanmar, and elsewhere, often takes the form of smaller scale selective removals. For remote sensing to be relevant for policy enforcement, NRT monitoring methods must be refined to detect deforestation sooner, and at finer spatial scales. The overarching goal of this project is to make progress toward this reduced-latency NRT monitoring by combining recent developments in data availability, high-performance computing, and advanced statistical methods. We therefore propose to develop a continuously validated monitoring system that assimilates multi-source remotely sensed imagery to provide daily updated deforestation probabilities for two protected areas in Myanmar. This effort is organized into two main objectives: 1) Use a Bayesian ensemble approach and multi-source imagery to reduce the latency and improve the spatial resolution of NRT deforestation monitoring; and 2) Create a continuously ground-validated application system using the probability maps. Specifically for Objective 1, daily deforestation probability maps will be calculated for the study sites within Myanmar. Training and validation data will be obtained from in-country partners via collaborators at the Smithsonian Conservation Biology Institute. Posterior probabilities per pixel will be determined by computing the likelihood of disturbance of all available multi-source imagery combined with a prior disturbance probability based on pixelspecific covariates. Then for Objective 2, the daily maps will be available via a Google Earth Engine application. The application will incorporate user (forest manager) interactive feedback by refining the training data, which will fix the current data creator / data user paradigm by closing the loop between the two actors. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Kaiyu Guan (PI) /Genghong  Wu (FI) 
+University Of Illinois, Urbana-Champaign 
+19-EARTH20-0271, Developing novel GPP Estimation for Crops at Field-Level Using New-Generation Satellite Data in the US Corn Belt 
+ 
+OVERVIEW: With rising demands of food, feed and fiber from a growing global population, the agricultural landscape plays an increasingly important role in the global carbon cycle. Gross primary production (GPP) is the amount of carbon uptake for plant growth that directly determines crop productivity, and it is also the largest carbon flux in terrestrial ecosystems. Accurate monitoring of GPP is critical for designing effective management practices and policies and that can contribute to increasing crop yield and to stabilizing atmospheric CO2 concentrations. NASAs solar-induced fluorescence (SIF) satellites have revealed that crops in the US Corn Belt have the highest peak photosynthesis activity on the Earth. However, SIF-based and other existing satellite-derived GPP products are characterized by coarse spatial resolution (e 500 m) at which crop fields are mostly mixed. The lack of high-spatial-andtemporal-resolution crop GPP dataset has hampered global carbon cycle studies and agricultural applications. To boost the productivity and sustainability of the agro-ecosystem, it is essential to monitor crop GPP at field-level, regional-scale, and sub-week-frequency. 
+ 
+To fill this big gap, this project proposes to: 1) develop and evaluate a new algorithm for 5-day, 30 m resolution GPP estimation for corn and soybean in the US Corn Belt integrating absorbed photosynthetic active radiation (APAR, defined as the product of photosynthetic active radiation (PAR) and fraction of absorbed PAR (FPAR)) and canopy chlorophyll content (CCC, defined as the product of leaf chlorophyll content (LCC) and leaf area index (LAI)) retrieved from new-generation satellite data such as NASAs Harmonized Landsat and Sentinel-2 (HLS) and the PI Kaiyu Guans Landsat-MODIS fused STAIR surface reflectance products; 2) quantify variations of GPP for rainfed/irrigated corn and soybean, and investigate how they respond to climate variability and technical and managerial changes in space and time, and how they are linked with variations of crop yield. Specifically, I propose three tasks to address three scientific questions: 
+ 
+Question 1: Among radiative transfer model (RTM), machine learning (ML) and vegetation index (VI) approaches, which method performs the most robust in estimating CCC and FPAR from HLS and STAIR data, respectively? 
+Task 1 (Canopy variables retrieval): Compare and evaluate CCC and FPAR retrieval algorithms for corn and soybean from new-generation satellite data. 
+ 
+Question 2: Is the proposed crop GPP model integrating APAR and CCC a scalable solution for corn and soybean GPP estimation in the US Corn Belt? 
+Task 2 (GPP algorithm evaluation): Develop and evaluate the new algorithm for high spatiotemporal resolution GPP of corn and soybean in the US Corn Belt. 
+ 
+Question 3: How do field-level GPP for rainfed/irrigated corn and soybean vary across the US Corn Belt and over the past two decades? 
+Task 3 (GPP variations investigation): Investigate the spatial and temporal variations of crop GPP, its natural drivers, and its impacts on crop yield. 
+To implement and address the above tasks and questions, I will fully take the advantages of newgeneration satellite data, ground measurements, radiative transfer models, machine learning models and vegetation index-based models, and cloud computing. 
+ 
+This study will support NASA Earth Science Research Program and NASEM 2017 Decadal Survey for Earth Observation from Space by expanding our knowledge on how and why crop productivity changes, and thoroughly utilizing NASA’s multi-satellite datasets. Furthermore, policymakers/farmers will be able to apply the proposed research to improve crop management, which is an essential element of NASAs Applied Science Program for the benefit of society. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dennis Hartmann (PI) /Adam B Sokol (FI) 
+University of Washington 
+19-EARTH20-0037, Microphysical and Radiative Evolution of Tropical Anvil Clouds 
+ 
+OVERVIEW: The objective of this proposal is to advance understanding of the microphysical, macrophysical, and radiative evolution of tropical anvil clouds. Anvil clouds detrained from deep convective cores play an important role in the tropical energy balance. Moderately thick anvil clouds are pervasive in tropical convective regions and exert a positive cloud radiative effect (CRE) that almost perfectly cancels out the negative CRE of concentrated convective cores. Future changes to this radiative balance could constitute a significant climate feedback with implications for large-scale circulation, precipitation patterns, and sea surface temperatures (SSTs). As such, it is important to understand the processes that govern the anvil cloud life cycle. 
+ 
+This proposal has three main research thrusts. First, we will characterize the distribution of anvil cloud properties in several tropical convective regions using a combined radar-lidar retrieval, which allows us to capture thin but radiatively active anvil layers that have not been captured in previous assessments. Using spaceborne radiometer measurements, we will examine how anvil cloud properties evolve with distance from a convective source and how this evolution differs between convectively aggregated and non-aggregated environments. We will also assess the ability of cloud-resolving models (CRMs) to reproduce the observed distributions in radiative-convective equilibrium (RCE) simulations. Secondly, we conduct an observational investigation of anvil cloud microphysical structure and its evolution, and we use an idealized CRM to examine the radiative, microphysical, and dynamical processes that promote for the observed anvil cloud properties. We will again assess the ability of CRM RCE simulations to reproduce observations of microphysical structure. Lastly, we will investigate how the anvil cloud life cycle may respond to a warming climate. We will conduct idealized CRM experiments to determine how individual processes respond to warming and more sophisticated RCE simulations to examine changes in the climatological anvil cloud distribution and net CRE. In all three phases, we will investigate the sensitivity of our results to model microphysical scheme parameters.  Altogether, this research will deepen our understanding of the present-day radiative neutrality of tropical convection, its governing processes, and its susceptibility to change. Our results will be useful for studies of future change to tropical large-scale circulation, precipitation patterns, and SSTs.  
+ 
+The proposed work will support the research interests of multiple NASA programs within the Earth Science Division. By advancing understanding of how anvil clouds interact with solar and terrestrial radiation and how the tropical radiative balance may shift in the future, we support the goals of the Radiation Sciences program (Atmospheric Composition). Our work will also support the goals of the Modeling, Analysis, and Prediction program (Climate Variability and Change) by predicting future changes to tropical climate and evaluating CRM performance. Furthermore, by assessing the importance of anvil processes that are not resolved by general circulation models but that could have substantial effects on the tropical radiation budget, our work will help guide the interpretation of general circulation model predictions. 
+ 
+Ian Howat (PI) /Allison Chartrand (FI) 
+The Ohio State University 
+19-EARTH20-0264, Evolution of Sub-Ice Shelf Meltwater Channels in Antarctica and Greenland and Implications for Ice Shelf Stability 
+ 
+OVERVIEW: Ice shelves, or the floating extensions of ice sheets, provide a buttressing force against the flow of ice into the ocean, effectively making them the last line of defense against ice sheet contribution to sea level rise. Several ice shelves around Antarctica and Petermann Ice Tongue in Greenland contain longitudinal sub-ice shelf melt channels, or basal channels, which incise into the base of the ice, locally thinning the ice shelf and creating a surface depression as the thinned ice settles toward hydrostatic equilibrium. Little is known about how basal channels evolve over time and how they impact ice shelf stability, and most past studies focused on basal channels have been limited in geographic scope.  
+ 
+We will investigate basal channel evolution on a continental scale using a suite of remote sensing data, with the aim of producing an inventory of basal channels and their behaviors, melt rates, and potential impact on ice shelf stability. We will investigate spatial and temporal changes in morphology, position, and nearby features (such as fractures) of several previously identified basal channels using primarily surface elevation data from the Reference Elevation Model of Antarctica and/or ArcticDEM Digital Elevation Models (DEMs), ICESat-1 and 2 altimetry, and Operation IceBridge altimetry. We assume that changes in basal channel surface depressions, observable with the aforementioned surface elevation data, reflect changes in the basal channels themselves. We will also use the DEMs to estimate melt rates within basal channels at a high spatial resolution, and compare basal channel melt rates to overall ice shelf melt rates. This is trivial where repeat thickness data exist, but not all basal channels are in hydrostatic equilibrium due to large bridging stress gradients across the basal channel and surface depression. To account for this hydrostatic imbalance, we will collaborate with Reinhard Drews and the Geophysics and Glaciology group at Universität Tübingen to apply a numerical model to simulate realistic basal channels based on our observations and seek a spatially variable correction term for deriving ice thickness from surface elevation. We will compare the morphology of basal channels lacking thickness data to simulated or observed basal channels with known hydrostatic imbalance so that we may accurately apply the correction term to these channels and estimate melt rates based on surface change. Finally, we will categorize channels around Antarctica and Greenland based on their evolutionary behavior and melt rates, and assess each channel type’s relative impact on ice shelf stability.  
+ 
+This work, which will contribute to the fulfillment of Ph.D. dissertation requirements for the FI, Allison Chartrand, will fill a critical gap in our understanding of the importance of basal channels in the ocean/ice shelf/ice sheet interface as the first large-scale assessment of basal channel melt rates. We hope that these contributions will promote more accurate representation of ice-ocean interactions in predictions of future ice sheet discharge and sea level rise. This work directly addresses the NASA Earth Science research goal to “Improve the ability to predict climate changes by better understanding the roles and interactions of the ocean, atmosphere, land and ice in the climate system (Climate Variability and Change).” 
+ 
+ 
+ 
+ 
+Kuo-Lin Hsu (PI) /Vesta Afzali Gorooh (FI) 
+University Of California, Irvine 
+19-EARTH20-0345, Deep Learning Techniques in Cloud Classification from Multispectral GOES-R Imagery and NASA CloudSat Data 
+ 
+OVERVIEW: Recent developments in satellite technologies resulting in higher temporal, spatial and spectral resolutions, along with advancements in machine learning techniques and computational power, open great opportunities to develop efficient near-real-time models to characterize cloud types and their behaviors.  
+ 
+The Cloud Profiling Radar (CPR) on the Low Earth Orbiting CloudSat satellite has provided a unique dataset to characterize cloud types, but this nadir-looking radar is limited to narrow satellite swath coverage and low temporal frequency. Although data retrieved from Geosynchronous Earth Orbiting (GEO) satellites are reliant solely on cloud top properties such as temperature and albedo, their high spatiotemporal and spectral resolution data stream makes them attractive to monitor the distribution of various cloud types.  
+ 
+This proposal aims to improve satellite-based cloud type classification by utilizing high spatiotemporal resolution multispectral measurements from new generation of geostationary satellites including NASA/NOAA GOES-R series along with taking advantage of advanced machine learning techniques from computer sciences. In this investigation, we will extract and combine supplementary information from vertical properties of clouds from unique NASA CloudSat satellite measurements in a deep neural network cloud-type classification system to rapidly identify various types of clouds in quasi-global coverage images. The availability of cloud-type distributions in short time intervals (from 30 seconds to 15 minutes) with the spatial resolution of about 2 km images serve as a valuable real-time source of data for hydrometeorological applications as well as providing supplementary insights into the variability of cloud types to diagnose the weakness and strength of near real-time GEO-based precipitation retrievals such as Precipitation Estimation from Remotely Sensed Information Using Artificial Neural Networks-Cloud Classification System (PERSIANN-CCS). This effort will support the current NASA Integrated Multisatellite Retrievals for Global Precipitation Measurement (IMERG) system, which unifies multiple algorithms such as PERSIANN-CCS and Climate Prediction Center Morphing with Kalman Filter (CMORPH-KF). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rebecca Hutchinson (PI) /Laurel  Hopkins (FI) 
+Oregon State University 
+19-EARTH20-0334, Developing Habitat Summaries with Deep Learning-Based Methods for Advancing Wildlife Conservation 
+ 
+OVERVIEW: Species distribution models (SDMs) link environmental variables to species occurrences and are useful tools for science and conservation. More informative models can further our understanding of ecology and can help identify how to best manage our land. We will harness the advancements and computational power of deep learning to extract summaries of the Earth's surface from remotely sensed data. Specifically, we will design deep neural networks optimized for Landsat data. With the developed deep networks, we will collect habitat summaries which will then act as inputs to SDMs. We expect that more descriptive habitat summaries (i.e., those extracted by deep neural networks) will lead to improved SDMs. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Jose-Luis Jimenez (PI) /Melinda K Schueneman (FI) 
+University of Colorado, Boulder 
+19-EARTH20-0193, Characterizing the Physical and Chemical Evolution of Organic Aerosol in Biomass Burning Smoke Using  Molecular Tracers from Laboratory and FIREX-AQ Observations 
+ 
+OVERVIEW: Biomass burning has become an important topic in atmospheric science, as the intensity and frequency of fires has been sharply increasing with an expanding population, increased land clearing for agriculture, and climate change. Fire plumes introduce large amounts of diverse gaseous- and particle-phase species into the atmosphere, which have been shown to negatively impact human health and the environment. Characterizing fire impacts is very challenging due to the complex emissions and physical and chemical evolution of gases and aerosols throughout a fire plume. The complexity of fire plumes also causes large uncertainties in chemical models capturing the aging and dilution of the initial plume, which severely impacts our ability to predict the impacts of biomass burning. The recent NASA FIREX-AQ field mission aims to address some of the outstanding questions regarding the chemical and physical properties of fire plumes, and their evolution. 
+  
+This proposal addresses the complex relationship between gaseous volatile organic compound (VOC) emissions and their oxidation throughout a smoke plume, primary organic aerosol (POA) emissions and evolution, and secondary organic aerosol (SOA) formation. The abundant emissions of VOCs, particles, and NOx suggest that substantial aerosol formation should occur downwind of fires. However, no enhancement of total OA has been observed in most cases (including FIREX-AQ). One explanation that will be explored herein is that POA evaporation is balanced by the condensation of VOC precursors onto existing aerosols (forming SOA).  
+ 
+During the FIREX-AQ mission our group flew for the first time an instrument capable of directly measuring molecular species in aerosol, the CU-Boulder Extractive Electrospray Soft Ionization Time-ofFlight Mass Spectrometer (EESI-ToF). While the identity of some key molecules is clear based on previous literature and other evidence, most of the hundreds of species detected in the fire plume aerosols are not yet identified, yet they hold essential information needed to understand the overall chemical evolution of OA.  
+ 
+To address this gap, we will perform a comprehensive suite of laboratory experiments to identify key species in this system. We will directly measure molecular species in the aerosol through a systematic series of chamber and Oxidative Flow Reactor experiments. Key chemical species, such as levoglucosan, phenols (catechol and phenol), furans (furfural and methylfurfural), and aromatics (styrene), their oxidation products, and the fate of those products will be investigated. This will allow us to better interpret the evolution of aerosols in the FIREX-AQ plumes, and construct a chemical model that can be quantitatively evaluated against the observations. This project will result in the identification and quantification of new key molecular tracers in the particulate phase of smoke, which will advance our understanding of smoke evolution, and will serve to better constrain model budgets of smoke aerosol and relate these to remote sensing observations of smoke plumes, both by satellite and airborne observations such as those performed during FIREX-AQ by the NASA ER-2. Additionally, new chemical species that are identified through the synthesis of our laboratory and the FIREX-AQ field data will be added to the FIREX-AQ data archive for use by other researchers.  
+ 
+This work will directly address Strategic Goal 1.1 in the 2018 NASA Strategic Plan by informing our understanding of biomass burning emissions and evolution. In turn, that knowledge can be applied to global chemistry models (which inform the assumptions made for retrievals from advanced NASA satellite sensors such as MISR and the upcoming TEMPO mission) so that our scientific and global community can have a better understanding of the present, past, and future emissions and impacts of biomass burning. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Alexandra Konings (PI) /Nataniel M Holtzman (FI) 
+Stanford University 
+19-EARTH20-0078, Unraveling the Role of Plant Hydraulic Traits in Transpiration Using Microwave Radiometry 
+ 
+OVERVIEW: The water stored in plants is important for both hydrological and physiological reasons: it is the immediate source of water for transpiration to the atmosphere, and it is necessary for plant survival. To understand the response of vegetation to climate change and to better predict the hydrologic cycle, it is necessary to estimate the values of plant traits that govern plant water storage. My research proposes to develop a more fine-grained, spatially distributed understanding of plant hydraulic parameters that influence the surface energy balance through transpiration. Signals in passive microwave remote sensing data are known to be affected by plant water status, but the precise details of the relationship and how it varies spatially are not completely understood. I will use a combination of microwave remote sensing and modeling to infer ecosystem-scale plant water status and infer plant hydraulic traits. 
+ 
+The proposed research has three parts. In Part 1, I will carry out a field campaign to study the how plant hydraulic status can be sensed with microwave radiometry. The campaign will monitor water potential on several trees in a small patch of forest that is simultaneously overlooked by a tower-based microwave radiometer. In Part 2, I will develop methods to infer plant hydraulic traits from remotely sensed data (using NASA assets like SMAP and MODIS), and apply those methods at global scale to produce maps of plant hydraulic traits. The methods will focus on model-data fusion, using Markovchain Monte Carlo to assimilate microwave and optical remote sensing data as well as meteorological variables into a plant hydraulic model. In Part 3, I will use the trait maps to investigate how plants may respond to and influence climate. Ultimately, this research will shed light on how transpiration and runoff may change in different parts over the next century, as well as offering a novel method to monitor ecosystem-scale drought stress in real time. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lara Kueppers (PI) /Adam  Hanbury-Brown (FI) 
+UC Berkeley 
+19-EARTH20-0169, Improving Global Vegetation Demographic Models with a Novel Remote Sensing Approach for Analyzing Post-Fire Vegetation Dynamics 
+ 
+OVERVIEW: Wildfire regimes shape the structure, composition, and function of terrestrial vegetation, thereby mediating global biogeochemistry, biogeophysics, and climate. Vegetation regeneration processes are sensitive to both climate and disturbance regimes and have strong leverage on the future distribution of global vegetation. The core objective of this project is to predict how future climate and fire regimes will impact post-fire regeneration trajectories in mixed conifer forests of North America, and to understand how these recovery trajectories will ultimately shape future vegetation cover. This project will use 36 years of the Landsat 5-8 record in combination with ancillary remote sensing and geospatial data to map and classify vegetation types occupying burned patches 5-36 years after fire. We will use these long-term regeneration trajectories to quantify how fire characteristics, soil texture, topography, and post-fire climate influences the future functional composition of vegetation in post-fire patches. We will use this large-scale analysis, along with process knowledge from prior literature, to develop improved algorithms of post-fire vegetation recovery for the Functionally Assembled Terrestrial Ecosystem Simulator (FATES), a cutting edge vegetation demographic model (VDM) that represents global scale vegetation dynamics within Earth System Models. This project offers a unique combination of empirical analysis and model development to ensure that the latest understanding of post-fire vegetation dynamics is implemented within ESMs to improve global predictions of ecosystem-climate interactions. This project advances NASA’s overarching goal of understanding Earth as a system and is directly relevant to the Terrestrial Ecology, Ecological Forecasting, and Modeling Analysis, and Prediction research programs solicited under ROSES. By illuminating what factors determine the distribution of post-fire vegetation classes, and by improving the representation of these processes within VDMs, this project addresses Science Goal 3 of the Earth Science Division, to “detect and predict changes in Earth’s ecological and chemical cycles, including land cover, biodiversity, and the global carbon cycle.” 
+ 
+ 
+ 
+Meredith Kupinski (PI) /Kira A Hart (FI) 
+UNIVERSITY OF ARIZONA 
+19-EARTH20-0121, High-Altitude Balloon Demonstration and Observations with a Novel LWIR SpectroPolarimeter for Future CubeSat Applications 
+ 
+OVERVIEW: Until recently, compact and rapidly deployable instruments operating in the long-wave infrared (LWIR) were not feasible due to the necessity of large and costly cooling systems for infrared detector architectures. In the past several years, the emergence of compact uncooled microbolometer has opened the door for LWIR remote sensing projects. In the summer of 2019, the Polarization Lab at the University of Arizona delivered the first prototype InfraRed Channeled Spectro-Polarimeter (IRCSP) to NASA’s Goddard Spaceflight Center for integration into the SWIRP CubeSat instrument (Sub-mm 
+Wave and Infrared Polarimeters) funded by the 2016 Earth Science Technology Office’s Instrument Incubator Program. Less than 10 cm in length, the IRCSP measures the full linear Stokes parameters with 0.5 micron spectral resolution from 8.5 -12.5 micron. Once deployed this instrument will be the first to produce spectral measurements of polarized light scattered from the Earth’s atmosphere and surface in the LWIR. 
+The SWIRP mission targets the measurement of cirrus ice clouds. Climate models must account for several sources of uncertainty in their analysis; one major source is the effect of clouds, and ice clouds in particular. The effect of ice particles embedded in the clouds is poorly constrained, which allows ice clouds to be used as a tuning parameter to balance the budget of incoming and outgoing radiation at the top of the atmosphere. This lack of precise knowledge of cloud ice and its microphysical properties leads to large uncertainty about clouds and their processes within the atmosphere. Thus, NASA's Aerosol, Cloud and Ecosystems (ACE), an Earth Science Decadal Survey (DS) mission, recommended that a science payload with submillimeter wave (sub-mm) and longwave infrared (LWIR) radiometers be developed for such cloud ice measurement. To continue characterization and testing of the novel IRCSP delivered to Goddard Spaceflight, a second clone instrument was built at the University of Arizona. 
+ 
+This proposal seeks to build on the success of the SWIRP project and demonstrate a first flight of the clone instrument while the project proceeds into the CubeSat integration phase. To date, no polarimetric measurements of clouds at this wavelength have ever been collected to compare with the existing scattering and radiative transfer models. The compact size and low power consumption of this novel instrument makes it an ideal candidate for high-altitude balloon flight. While the instrument was designed for CubeSat, high altitude flight of an instrument of this type has never been demonstrated.  The proposed body of work will include developing an inflight data acquisition and storage pipeline for this application, balloon deployments over the south-eastern United States, and the generation of the first LWIR polarimetric measurements of ice clouds. The collected data will then be compared to existing models. While this proposal goes beyond the SWIRP project goals, it will provide vital information not only about what kind of LWIR signal can be expected, but also insight into which modifications will most improve the current prototype IRCSP design.   
+ 
+Finally, while this instrument was designed to meet the need for cloud ice measurements outlined in the Earth Science Decadal Survey, many potential applications for this technology are still being explored. Because LWIR polarimetry has just recently become feasible, the successful demonstration of this instrument will open the door for new frontiers in LWIR spectro-polarimetric remote sensing.  This project is unique in that in addition to collecting data crucial to atmospheric science, this project also pioneers the use of an entirely new instrument concept. The collaboration of optical scientists and engineers with atmospheric and planetary scientists on this project presents an exciting opportunity to explore how iterations of this technology could contribute to future remote sensing campaigns. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tristan L'Ecuyer (PI) /Juliet Ann Pilewskie (FI) 
+University of Wisconsin-Madison 
+19-EARTH20-0223, Quantifying Impacts and Implications of Convective Aggregation in Merged LEOGEO Satellite Observations 
+ 
+OVERVIEW: Deep convection, especially in the tropics, is one of the primary mechanisms that modulates water vapor and energy transport vertically in the troposphere.  Improved representation of processes involved in organizing convection in varying environments and the associated high cloud feedbacks is a key challenge facing weather and climate models. Quantifying the coupled responses of updraft intensity, precipitation yields, the mass of ice detrained at upper levels, and radiative impacts of the resulting anvil and residual cirrus to changing environmental conditions is critical for improving numerical weather prediction models and assessing the influence of convection on Earths energy imbalance. 
+ 
+This project proposes a new paradigm assessing the role of convective organization in influencing Earth’s water cycle and energy budget under different environmental conditions that blends low-Earth orbiting and geostationary satellite observations. CloudSat and A-train cloud, precipitation, and radiation multi-year datasets will be analyzed in the context of collocated time-evolving geostationary cloud property datasets that provide spatial and life-cycle context. We will: 
+ 
+1.	Contribute a multi-year global convective-object database of metrics that documents convective frequency, intensity and spatial structure, as well as associated environmental conditions, precipitation, and radiative impacts. 
+ 
+2.	Utilize a convective tracking algorithm to determine how the changing strength of convection influences precipitation and radiative effects across the convective lifecycle in varying environmental conditions. 
+ 
+3.	Diagnose relationships between cloud radiative effects and precipitation yield associated with varying degrees of aggregated convection. 
+ 
+This proposed research directly addresses the NASA Science Mission Directorate Strategic Objective 1.1: Understanding the Sun, Earth, Solar System, and Universe with an emphasis on integrating merged ATrain and geostationary satellite measurements with model and simulation results to understand the fundamental processes linking convection, precipitation, and radiative processes. Investigating the processes underlying convective organization and their impacts on the local environment are relevant for making precipitation forecasts and future predictions related to changing surface temperatures. Societies will mitigate loss of life and property because they can use these predictions to appropriately prepare for such changes. 
+ 
+Michael Lamb (PI) /Justin A Nghiem (FI) 
+California Institute of Technology 
+19-EARTH20-0210, Using NASA AVIRIS-NG imaging Spectroscopy to Quantify and Predict Sediment Flux in Coastal Wetland 
+ 
+OVERVIEW: The ability to quantify and predict sediment fluxes in coastal wetlands is vital to meet modern environmental challenges. A primary example is coastal deltas. Both the survival of deltas and the fate of organic carbon in coastal wetlands depend on sediment flux. Many coastal deltas globally are becoming increasingly submerged due to relative sea level rise (RSLR), but sediment flux determines sediment accretion that can keep pace with RSLR. Coastal deltas also mediate terrestrial and marine carbon reservoirs, where exchange of sediment-bound organic carbon controls long-term atmospheric carbon levels. 
+ 
+Sediment flux estimation requires spatially detailed field measurements, but using a field approach alone is unfeasible. Coastal wetlands are typically decimeters deep and prohibit boat access. As a result, sediment concentration, flow velocity, and bathymetric measurements are restricted to walking transects that are sparse in space and time. However, NASA remote sensing can provide the necessary coverage and resolution of sediment concentration. The NASA Airborne Visible Infrared Imaging Spectrometer-Next Generation (AVIRIS-NG) instrument provides imaging spectrometry data from an airborne platform with high spectral and spatial resolution, and has been proven to successfully estimate sediment concentration of surface waters in previous studies. But to date, a model combining remote sensing and sediment transport theory to estimate grain size-specific, depth-averaged sediment concentration and flux has yet to be developed and calibrated. 
+ 
+We propose a general framework to model and predict spatially explicit grain size-specific sediment fluxes in coastal wetlands by combining AVIRIS-NG imagery, fieldwork, and a hydrodynamic model. We will apply this method at our field site, Wax Lake Delta (WLD), Louisiana, USA, a prograding coastal delta on the Gulf of Mexico. We will meet our objective in a series of three tasks in WLD: [1] collect and calibrate AVIRIS-NG imagery to estimate surface water sediment concentration across WLD using field measurements of sediment concentration and reflectance spectra, [2] parametrize grain size-specific vertical sediment concentration profiles by assimilating AVIRIS-NG data and field measurements of sediment concentration profiles and shear velocity with sediment transport theory, and [3] combine resulting sediment concentrations with a 2D hydrodynamic model to quantify grain size-specific sediment fluxes under observed and hypothetical flood conditions. We will complete these tasks for two field campaigns at high and low seasonal discharges. 
+ 
+We hypothesize that the sand flux through a coastal delta will decline with radial distance from the delta apex but the mud flux will remain relatively constant because coarser grains settle faster. If true, then the integrated sand flux at the distal delta boundary will be substantially smaller than the input sand flux while there will be little difference in the mud flux. We will test this hypothesis using model runs for field campaign conditions and prescribed flood scenarios to understand coastal delta sediment flux patterns. 
+ 
+This proposal is relevant to the Earth Science Division (ESD) of the NASA Science Mission Directorate because it contributes to understanding sediment flux implications for RSLR and carbon cycle dynamics. The proposal addresses the goals of the Sea Level Change Science Team to understand physical RSLR mechanisms because it will advance quantitative knowledge of coastal delta sediment fluxes. The proposal addresses the goal of Carbon Cycle Science to examine changes in terrestrial and aquatic carbon stores because it will contribute to characterizing coastal sediment carbon flux and storage. The proposed work will also vitally extend the value of NASA AVIRIS-NG by converting surface sediment concentration to sediment fluxes. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dennis Lettenmaier (PI) /Emilie G Tarouilly (FI) 
+University of California, Los Angeles 
+19-EARTH20-0326, An Atmospheric-Hydrologic Modeling Framework to Evaluate the Sensitivity of the Probable Maximum Flood (PMF) in a Changing Climate 
+ 
+OVERVIEW: The Probable Maximum Flood (PMF) estimate is a key design criterion to ensure a dam is able to safely pass the largest flood that can be expected in its watershed. The methods to estimate it however are no longer considered adequate: this is due to limited consideration given to runoff contributions from successive storms and snowmelt, unsupported assumptions in the estimation of Probable Maximum Precipitation (PMP) and a non-stationary climate. This is a cause of concern in California in particular, where hydrologic extremes are frequent, dams are ageing and the expected changes in snow dynamics as the climate warms. I propose to improve the characterization of the sensitivity of the Probable Maximum Flood (PMF) to worst-case peak rainfall, successive storms and snowmelt scenarios. The novelty of this study lies in the evaluation of a broader set of flood drivers than has previously been considered (typically 72-hour peak precipitation), their interactions and compounding effects, and the realism of those scenarios. The development of satellite data and numerical modeling tools offers opportunities to improve the physical representation of flood drivers that has so far not been fully exploited in the reconstruction and modification of extreme storms and resulting floods. To achieve this, I will develop a modeling framework that consists of the Weather Research and Forecasting (WRF) atmospheric model, forced by MERRA-2 reanalysis, that in turn provides inputs to the Variable Infiltration Capacity (VIC) hydrologic model to simulate streamflows. Relevant satellite (e.g. MODIS snow covered area, SSM/I water vapor profiles) and in-situ data will be used to characterize historical events and support the definition of storm scenarios. This work will support the updating of PMF estimates in a nonstationary climate using recent datasets and modeling tools. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Jessica Lundquist (PI) /Steven Pestana (FI) University of Washington 
+19-EARTH20-0030, Improving Cloud-Snow Discrimination and Our Understanding of the Snow Energy Balance in Mountains with Geostationary and Low Earth Orbiting Satellite Data 
+ 
+OVERVIEW: Mountain snowmelt is a critical water resource for humans and the environment. Accurate prediction of its timing and magnitude is of increasing importance as mountains receive less snow and demands increase. Hydrologic models can compute snowmelt rates, but rely on input data to accurately describe components of the energy balance at the snow surface (Marks and Dozier, 1992). Model uncertainty is largely driven by the lack of ground-based measurements of these input variables, especially for longwave fluxes (Raleigh et al., 2016). This project will use high temporal resolution and stereo-view observations from the newest GOES satellites, along with higher spatial resolution MODIS, ASTER, and ECOSTRESS imagery, to test new methods of distinguishing clouds from snow, downscale CERES longwave measurements, and retrieve snow-surface temperature maps at < 100 m spatial scale that will help answer 1) how clouds affect the longwave radiation flux over mountain snow, 2) how the snow surface energy balance varies diurnally and 3) how the energy balance varies at finer ‘topographic’ scales in mountain environments. The results of this work will be important for guiding future satellite mission design, and results will be communicated to the NASA International Snow Working Group of which we are members. Results that demonstrate the use of current satellite observations will also be of interest for current operational models, such as the National Water Model. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Heather Lynch (PI) /Rachael Whitney Herman (FI) 
+Stony Brook University 
+19-EARTH20-0002, Sea Ice Dynamics as Driving Mechanism for Range Expansion and Colony Establishment in Gentoo Penguins (Pygoscelis Papua) 
+ 
+OVERVIEW: Monitoring changes in marine predators is critical to our understanding of marine ecosystems, particularly their responses to climate change and other environmental pressures. Through a novel integration of satellite imagery (Landsat) and unmanned aerial photography for population assessment, NASA-derived products for understanding fine-scale sea ice dynamics (Landsat, MODIS, ICESat, ICESat-2), and landscape-scale mapping of gentoo penguin genomics, we will uncover the precise mechanisms by which gentoo penguins, a climate change ‘winner’, are able to expand their range in response to warming conditions despite being highly site faithful and obligate colonial nesters. Our primary hypotheses are that 1) range expansion occurs in bursts that coincide with unusually low sea ice periods (and thus are driven by extreme events rather than shifting mean conditions), and 2) that gentoo penguins are able to exploit sea ice cracks and coastal polynyas too small to be visible on Landsat imagery (which, if true, would explain the apparent paradox in having permanent gentoo occupancy in areas that would appear unsuitable for foraging in the overwinter period). Range shifts are predicted to be widespread under climate change and this project provides an excellent opportunity to combine genomics, a unique dataset on known colonization events, and the capacity to map habitat (sea ice) using NASA assets. This study directly relates to NASAs SMD, Earth Science Research Program, because it will provide a detailed case study in how a changing polar system drives changes in species ranges and how this system will change in the future. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Katherine Mansfield (PI) /Alexander Edward Sacco (FI) 
+University of Central Florida 
+19-EARTH20-0124, Floating Migratory Platforms in Marine Environments 
+ 
+OVERVIEW: Floating marine structure provides essential habitat for some marine organisms that use it as either dispersal vehicles or as a medium that supports an array of life history and behavioral traits (e.g., migration, foraging, predation, dispersal, predator avoidance, and reproduction). The central Atlantic Ocean, encompassing the eastern Atlantic Ocean, Caribbean Sea, Gulf of Mexico, and the Sargasso Sea, is home to Sargassum fluitans and Sargassum natans, which are a brown macroalgae. Sargassum mats and windrows are a dynamic source of blue carbon that distribute cyclically and provides habitat for recruitment and nursery functions for some Gulf of Mexico fish species, foraging and roosting of seabirds, and migration of oceanic-stage sea turtles during the ‘lost-years’ stage. In the last decade, large aggregations of pelagic Sargassum have begun forming in the eastern Atlantic Ocean, between South America and Africa, driven by the South Equatorial current, to the Caribbean Sea. This has led to large amounts of Sargassum washing ashore on beaches in the region. These mass Sargassum beaching events have negative effects on water quality surrounding beached coastlines and may impact coral reefs in the region. In addition, socio-economic impacts from these beaching events impact coastal community tourism and recreational fisheries, lost commercial fishing effort, damaged gear, changes in fish productivity, and negative aesthetics including the health effects of rotting seaweed. Current efforts to map Sargassum extent have exploited electro-optical (EO) satellites, which are hindered by night, clouds, and severe weather. Understanding Sargassum fragmentation and utilization by marine organisms is important for recognizing critical habitat for important fisheries and megafauna species and improving prediction of mass beaching events. My proposed framework for addressing these issues will focus on characterization and modeling of Sargassum dynamics, assessing impacts of seasonal and interannual changes through the Sargassum lifecycle, and assessing Sargassum habitat health by exploring fragmentation and degradation due to climatic drivers. My overarching hypothesis is that local-scale (<100 m) dynamic fragmentation and movement of Sargassum patches impact habitat availability for migratory marine organisms and severity of beaching events. This proposed work will directly address three goals of NASAs Science Mission Directorate: (1) detecting and predicting changes in Earths ecosystemthrough detecting Sargassum distribution and biomass through EO and synthetic aperture radar satellite data and modeling Sargassum patch dynamics and movement impacted by environmental forcing; (2) characterizing surface dynamics and improving ability to assess and respond to natural hazardsby evaluating Sargassum habitat fragmentation and fine-scale change through characterization of patch-level dynamic modeling and potential impacts of fragmentation on populations and persistence throughout the central Atlantic Ocean; and (3) furthering Earth system science to benefit society and inform decision makers on conservation strategies – by characterizing patch dynamics and fragmentation of Sargassum habitat to provide valuable insight on Sargassum range and its spatiotemporal dynamics. This study will lead to improved definition of critical habitat and conservation for key marine species and enhanced monitoring and hazard (e.g., beaching events) predictions. 
+ 
+ 
+Georgy Manucharyan (PI) /Yang Wang (FI) 
+University of Washington 
+19-EARTH20-0040, Inferring Ocean Energy Transfers in Submesoscale Currents Using High-Resolution Satellite Sea Ice Observations 
+ 
+OVERVIEW: Submesoscale turbulence is a key component in ocean variability. To theoreticians, submesoscale flows present a significant challenge in understanding the energy transfers between processes of different length scales. To modelers, they pose a challenge in parametrization of energy dissipation which needs our advance of theoretical knowledge to improve. They are also known to affect biological processes in the surface ocean by modifying the timing of the blooms and by shifting nutrients 
+throughout the water column. However, coherent observation techniques which would allow assessment these processes are currently missing. Many convenient approximations that allow oceanographers to observe larger or smaller processes do not apply to the submesoscale. The size of our target signal (on the order of 10 km) also requires the resolution of measurements to be of the order of 1 km. Both constraints have limited the types of velocity measurements as well as their locations. Here, we propose to use high-resolution satellite observations of sea ice to reconstruct the submesoscale ocean velocity field and explore its key characteristics such as the partitioning and fluxes of energy across different length scales. Reflectance data in cloud-free marginal ice zones from several satellites (Aqua/Terra/ Suomi) will be used to do particle image velocimetry to reconstruct the twodimensional sea ice velocity field at submesoscale range. Our typical domain size for the reconstructed velocity field is of the order of 200 km by 200 km with a resolution of 1 km, which will give a unique opportunity to explore the interactions between mesoscale and submesoscale motions, including the assessment of the relative roles of balanced flows and waves in governing the energy fluxes across different length scales. Making use of the three satellites passing over the same area with a time delay of minutes to a few hours, we will constrain terms in the surface momentum budget of the ocean to estimate sea surface height field and directly compare it with SWOT and processed ICESat-2 along-track observations. Our proposed method, making use of various satellite observations, allows for crossvalidation and error quantification. We will obtain a comprehensive snapshot of velocity field and use it to assess the role of various submesoscale processes in dictating the energy transfers across scales, specifically focusing on quantifying the role of waves as well as mesoscale-submesoscale interactions in dictating the energy distribution across different scales in the ocean. With this observationally-based data, we can directly access submesoscale-resolving models and point out specific processes that are poorly represented in them such that we could eventually improve our understanding of the ocean variability at small scales. 
+ 
+ 
+ 
+ 
+ 
+Daniel McGrath (PI) /Randall Ray Bonnell (FI) 
+Colorado State University 
+19-EARTH20-0100, Evaluating NASA SnowEx 2020 L-Band InSAR for the Future of Snow Remote Sensing 
+ 
+OVERVIEW: NASA SnowExs mission is to develop an optimal space-borne approach for measuring snow 
+water equivalent (SWE) globally at high spatial and temporal resolutions. L-band (1-2 GHz) Interferometric Synthetic Aperture Radar (InSAR), a phase-differencing approach, is a promising technique for estimating SWE at high resolutions. This approach will be tested during the SnowEx 2020 Time Series Campaign, encompassing 15 alpine sites located throughout the western U.S. and representing a range of snow climates, canopy types, and elevations. A three-week Intensive Observation Period (IOP) is planned for Grand Mesa, CO to test L-band InSAR against a suite of ground observations and other remote sensing approaches. At each site, snow depth and density 
+measurements will be collected, with several sites acquiring additional observations through terrestrial LiDAR scans (TLS) and ground-penetrating radar (GPR). Three primary objectives are proposed: (1) evaluate L-band InSAR SWE measurements obtained by the 2020 Time Series Campaign and IOP, (2) assess uncertainties with L-band InSAR in context of the planned 2021 launch of the NASA-India L-band InSAR satellite (NISAR), and (3) analyze spatiotemporal snow density variability to test radar SWEretrieval algorithms. Our goals contribute to Objective H-1c set forth by the National Academies of Sciences, Engineering, and Medicine 2018 Decadal Survey, which includes measuring SWE across the globe at high spatial resolution and weekly intervals. We are submitting this proposal for review by the Science Mission Directorate Earth Science Division. Given this proposal’s relation to SnowEx, the programs of interest for this submission are the Terrestrial Hydrology Program, the Cryosphere Program, and the Energy and Water Cycle Program. 
+ 
+TLS, GPR, and manually collected snow depth and density from probed transects and snowpits will be used to evaluate L-band InSAR SWE measurements at each of the Time Series sites. Probed snow depths and density observations represent point locations, GPR provides spatially continuous SWE estimates along transects, and snow depth maps will be generated from TLS. At present, three uncertainties for Lband InSAR exist: L-band radar interactions with tree-cover, signal power attenuation in wet-snow conditions, and density-dependent SWE-retrieval algorithms. Most sites will acquire snow depth and density observations in open areas, requiring interpolation into nearby forests to understand L-band InSAR capabilities within tree-stands. GPR studies have documented wet-snow attenuation via a frequency-dependent relationship, dampening signal power and slowing radar velocity. Attenuation analyses will be applied to L-band InSAR and GPR retrievals acquired during the melt-season to assess signal power requirements for airborne systems. Finally, the spatiotemporal variability of density is a leading cause for uncertainty in radar SWE-retrieval algorithms. To constrain density, TLS and probed snow depths collected in dry-snow will be used to constrain snow depth in coincident GPR profiles, allowing density variations to be calculated. Density variations will be compared with output from common models used by SWE-retrieval algorithms. 
+ 
+The future of snow remote sensing may be at hand: NISAR Level-1 Science Requirements include a 12day repeat orbit and 100 m spatial resolution, but not SWE measurements. The 12-day repeat orbit is, theoretically, high enough to produce the required level of coherence for SWE interferograms, making Lband InSAR evaluation important and exciting. If the SWE-measuring capabilities of L-band InSAR are fully known, NISAR could provide real-time high resolution SWE measurements globally. Therefore, further evaluation of this approach is a priority. If awarded, the proposed project will serve as the Ph.D. project for FI Bonnell, opening critical doors into early-career Cryosphere/Remote Sensing Scientist positions with NASA or other agencies. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+John Mecikalski (PI) /Sebastian S Harkema (FI) 
+University of Alabama in Huntsville 
+19-EARTH20-0096, Microphysical Examination of Electrified Snowfall Events Using GOES ABI/GLM and NU-WRF 
+ 
+OVERVIEW: Much of the research using the Geostationary Lightning Mapper (GLM) and Advanced Baseline Imager (ABI) onboard the Geostationary Operational Environmental Satellite (GOES)-East involves the prediction of warm season severe convective weather, whereas studies with regards to winter weather and heavy snowfall are sparse. Recent studies quantified the characteristics of GLM observations for winter events to examine lightning in snowfall (thundersnow; TSSN) from a nextgeneration sensor perspective.  These studies found that TSSN is between the 50th and 99th percentile for flash area, flash energy, and flash total optical energy for all flashes within the GLM field-of-view and that these same flashes are spatially separated from the heaviest snowfall rates. The results suggest that the in-cloud microphysics within electrified snowfall are unique, however they do not provide quantitative evidence of the underlying microphysical processes within electrified snowfall. Therefore, significant research questions remain regarding TSSN, especially in terms of interrelated cloud electrification and precipitation processes and how they relate to thermodynamic and synoptic/mesoscale processes (e.g., frontogenesis, slantwise convection) within heavy-banded snowfall. Heavy-banded electrified snowfall in the eastern Continental United States (CONUS) will be investigated using the GOES-East ABI/GLM and the NASA-Unified Weather Research and Forecasting (NU-WRF) model. NU-WRF is a superset of WRF and was recently upgraded to include the WRF electrification (ELEC) scheme which allows for the explicit prediction of electric field and other electrification processes within cloud structures. The availability of studies using NU-WRF and WRF ELEC to forecast electrified winter weather are non-existent. This work will develop the methodology to fuse GOES ABI and highresolution output from NU-WRF with gridded GLM data to investigate the microphysical and thermodynamic processes associated with electrified snowfall, and demonstrate how it can be useful in forecasting heavy-banded snowfall in a nowcasting (0-6 h) environment. Gridded TSSN flashes observed by GLM will be objectively separated from all other gridded GLM flashes using a derived mask from High-Resolution Rapid Refresh (HRRR) 2-m temperature (T<1°C) and non-rain precipitation type (snow, freezing rain, and ice pellets). Additionally, operational HRRR data will be used as boundary conditions for the NU-WRF electrified snowfall simulations and will use the WRF ELEC parameters, National Severe Storms Laboratory (NSSL) Two-Moment Bulk Microphysics scheme, and Goddard radiation schemes. This project will focus on electrified heavy-banded snowfall during the months of October through April for the 2017-2018, 2018-2019, and 2019-2020 winter seasons and will include cases collected during the 
+NASA Investigation of Microphysics and Precipitation for Atlantic Coast-Threatening Snowstorms (IMPACTS) field campaign. NU-WRF simulations for banded snowfall events during the IMPACTS deployment will accompany aircraft in-situ observations (e.g., NASA ER-2) and will be used to verify NUWRF and WRF ELEC output. For example, the Lightning Instrument Package (LIP) on the ER-2 measures electric field and will be used to validate WRF ELEC electric field simulations. Analysis of GOES-East ABI/GLM, NU-WRF model, and WRF ELEC output in tandem provides is expected to provide a vast improvement in understanding the synoptic and mesoscale processes and microphysics that make TSSN possible and therefore advance the science through process studies and lead to improved risk assessment of heavy snowfall. 
+ 
+Colin Meyer (PI) /Brita I Horlings (FI) 
+Dartmouth College 
+19-EARTH20-0118, Investigating Snow and Firn Compaction through Two-Phase Flow Modeling and "French-Press" Experiments 
+ 
+OVERVIEW: Objectives: Estimating volume storage for water resources, glacier and ice-sheet contribution to sea-level rise, and the gas age-ice age difference for ice core studies requires a model for snow and firn compaction. Here I will construct two-phase flow numerical models based on compaction laws of Hewitt et al. (2016) and McKenzie (1984) that in- clude viscous deformation. I will also perform ‘French-press’ compression tests on snow and firn samples under varying temperature and stress conditions. Comparing model predictions of applied load and associated displacement against experimental data, I will identify the importance of viscous stresses in snow and firn compaction. This analysis will form the basis of a new compaction law that is informed by laboratory experiments and can be applied to glaciers and ice sheets. 
+ 
+The ideal snow and firn compaction model would simulate compaction and rheological changes associated with changing conditions (e.g., temperature, overburden stress). However, the status quo of the field suggests a largely indecisive view over which type of model construction is suitable for easy use but reliable output. The novel, two-phase flow approach taken by Meyer et al (2019) signifies an innovative, alternate direction for snow and firn compaction studies. Compaction in the snow and firn layer occurs through different mechanisms. Compaction dominantly occurs through grain rear- rangement when the applied stress is less than or equal to the yield stress, and dominantly through pressure sintering when the applied stress exceeds the yield stress. Below the bubble close-off zone, compaction occurs through bubble compression processes. Even though the results from Meyer et al. (2019) are promising, a better model includes the viscous stresses that drive deformation when the applied stress exceeds the compressive yield stress. Such models (e.g., Hewitt et al. 2016; McKenzie, 1984) have been used for other applications (e.g., dewatering of fiber suspensions, compaction of partially molten magma), and here I will implement those models for snow and firn compaction. These models are ideal for comparison against experimental data from compression tests be- cause a common output is the applied load versus displacement, and I will utilize this capacity by comparing to existing experimental data from Wang and Baker (2013) and from new compression tests. Wang and Baker (2013) analyze samples with densities of less than 400 kg m-3 and under a limited range of conditions, so I will compression tests of higher-densities samples and with a wider range of conditions to expand the dataset. 
+ 
+This research aligns with NASA’s Earth System Science objectives, as my model investigations are tailored to “enable better assessment...of water...quantity to accurately predict how the global water cycle evolves in response to climate change” and “improve the ability to predict climate changes by better understanding the roles and interactions of... ice in the climate system,” which are two of the seven overarching science goals. Additionally, this research takes an innovative approach to snow and firn modeling that may be used with ICESat-2 surface elevation products (e.g., Markus et al., 2017) and progress our understanding of the influences to glacier and ice-sheet elevation changes. 
+ 
+Fernando Miralles-Wilhelm (PI) /Marissa Dattler (FI) 
+University of Maryland 
+19-EARTH20-0199, Microwave Radiometry: Uncovering a 40-Year Record of Surface Snow Density Over the Antarctic Ice Sheet 
+ 
+OVERVIEW: The main goal of the proposed work is to create a spatiotemporal product of snow surface density across the Antarctic Ice Sheet. Snow surface properties affect the emission and scattering of a snowpack in the microwave part of the electromagnetic spectrum; in this proposal, we seek to exploit this relationship in order to derive surface density across the Antarctic Ice Sheet. To achieve this goal, we will use satellite passive microwave remote sensing in combination with the Community Firn Model (CFM) and the Snow Microwave Radiative Transfer model (SMRT). As a proof of concept, we show that CFM and SMRT can be used in tandem to calculate microwave brightness temperature when compared to a satellite passive microwave radiometer. In our proposed work, we will invert the Snow Microwave Radiative Transfer (SMRT) model to calculate surface snow density at point locations and gridded areas with satellite passive microwave data serving as input. To calculate snow surface density anywhere over the AIS, we implement an algorithm to compensate for the influence of surface roughness on radiation. 
+The resulting spatiotemperal surface snow density product supports a key NASA mission: ICESat-2. ICESat-2 and other altimeters measure changes in surface height of the AIS, but surface density must be well constrained to calculate ice mass changes from height changes of the ice sheet. Therefore, our spatiotemporal surface density product will support accurate calculations of ice sheet mass loss and contribution to global sea level change. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Colleen Mouw (PI) /Virginie Sonnet (FI) 
+University of Rhode Island 
+19-EARTH20-0164, Linking Hyperspectral Optical Properties with Morphology and Taxonomy for Improved Phytoplankton Composition Discrimination 
+ 
+OVERVIEW: Phytoplankton diversity is essential to understand the dynamics of marine ecosystems, global biogeochemical cycles and impacts of climate change. However, changes in phytoplankton communities are complex and occur at different time-scales, from daily to decadal, thus making our understanding of the environmental processes driving them more difficult. Because they possess pigments and reflect and absorb light, they can be detected with a high spatial and temporal coverage with light sensors, radiometers, in situ or on-board satellites. The new generation of satellite radiometers will be hyperspectral, increasing the ability to differentiate optical components. It also allows for a cleaner phytoplankton absorption spectrum differentiated from other optically important components present in abundance in coastal waters.  
+ 
+Here, I propose to use Gaussian decomposition without assumptions about pigment absorption peaks to model the peaks present in optical spectra recorded continuously at a fixed coastal site in Narragansett Bay and throughout seasonal cruises along the U.S. Northeast Shelf. Groups of Gaussian curves similar in shape and amplitude will be compared and matched with phytoplankton functional and taxonomical groups from a continuous and coincidently Imaging FlowCytoBot.   
+ 
+I will further use the optics and phytoplankton data in relation with abiotic factors (sea surface temperature, salinity, tides, light) to extract their influence on the phytoplankton changes. Even if polarorbiting satellites provide a high spatial and temporal resolution, they miss most of the changes happening on hourly and daily scales.  I seek to compare the ecological processes that can be retrieved with phytoplankton imagery and with the optical discrimination developed above. Characterizing the hourly and daily ecological processes happing in coastal ecosystems like the U.S. Northeast Shelf will be a great benefit for future geostationary missions and will help interpreting polar-orbiting satellites data and improving the accuracy of biogeochemical models relying on such data.  
+ 
+Coastal waters and optically complex environments and discriminating multiple phytoplankton groups is tricky since they can have overlapping spectral signatures. I will use Hydrolight simulations based on in situ conditions to quantify thresholds at which phytoplankton discrimination of various groups can be differentiated from other optically active components and conditions under which detection capability falls outside of the anticipated signal-to-noise of PACE.  
+ 
+Phytoplankton impact ocean ecology, biogeochemistry and human life at different levels and following their changes is crucial for climate change, carbon cycling, fisheries and identification of Harmful Algae Blooms. Thus, improvement in phytoplankton discrimination proposed here will be greatly beneficial to calibrate and exploit current and future satellite imagery with the NASA PACE mission coming, among others. 
+Robert Nerem (PI) /Evan S Tucker (FI) 
+University of Colorado 
+19-EARTH20-0032, Advancing Satellite Laser Ranging Time-Variable Gravity Recovery through the Optimization of Future Satellite Orbits and Ground Station Placement 
+ 
+OVERVIEW: For over fifty years, satellite laser ranging (SLR) has served as a fundamental geodetic technique with a wide range of applications. Independently, SLR has proven highly accurate in measuring the long-wavelength components of Earths gravity field. These measurements are important because low-degree gravity coefficients are a major contributor to Earth’s time-variable gravity field. Additionally, recovery of these low-degree coefficients has supported other dedicated gravity missions, namely the Gravity Recovery and Climate Experiment (GRACE) mission. SLR has been crucial in this respect because GRACE does not accurately recover certain low degree gravity coefficients. SLR has also helped bridge a year-long data gap between GRACE and its recently launched successor GRACE FollowOn. Therefore, there exists a need to not only maintain the current SLR observational capability, but also to improve the quality and accuracy of its independent gravity estimates.   
+ 
+In 2012, the Laser Relativity Satellite (LARES) launched and has had a profound impact on SLR gravity estimates. Both GRACE missions have a period with only a single operational accelerometer, leading to noise in certain gravity coefficients. The addition of LARES has improved estimates of these harmonics. This has also facilitated the recovery of ice-sheet mass loss estimates and sea-level estimates. The addition of this single satellite has clearly had a large impact on time-variable gravity and ice-loss estimates. A new satellite or tracking station placed in an optimal orbit or location could improve our understanding of large-scale Earth dynamics even further.  
+ 
+Both on its own and combined with GRACE, SLR is a powerful geodetic tool. This proposed work will optimize the placement of a new SLR satellite and tracking station to improve estimates of key geophysical parameters. Specifically, this proposed work will: (1) use orbit determination software to optimize orbital parameters for a new SLR satellite to recover low-degree gravity coefficients, and (2) use a similar approach to systematically determine an optimal location for a new SLR tracking station. Finally, the impact of the new satellite and tracking station will be assessed by examining ice-sheet mass change and sea-level estimates. 
+ 
+ 
+ 
+Joel Norris (PI) /Christopher Macpherson (FI) 
+University of California, San Diego 
+19-EARTH20-0010, Quantifying the Effects of Downward Longwave Radiation on Low Clouds 
+ 
+OVERVIEW: Low clouds, and stratocumulus clouds in particular, cover a significant amount of the Earth. These clouds are especially prevalent in the subsidence regions of the Hadley Cell, where there are often strong temperature inversions between the boundary layer and the free troposphere. These low clouds are vital to Earths energy budget because they have a high albedo and a net cooling effect. Upper clouds and greenhouse gases both absorb and emit longwave radiation. This longwave radiation is radiated downwards onto the low cloud tops. This proposal is exploring the question, “How does downward longwave radiation affect low clouds in subsidence regions of the world?” This question is extremely significant to attempt to answer because with an increase in greenhouse gases, there will be an increase in downward longwave radiation. This increased downward longwave radiation can have massive effects on low clouds. It is thought that with increasing downward longwave radiation, there will be a decrease in low cloud tops, an overall thinning of low clouds, and a decrease in low cloud fraction. These effects would then allow more solar absorption at the Earth’s surface and an increase in surface temperature. This is one aspect of global warming and low clouds that hasn’t been thoroughly considered. Few observational studies have attempted to answer this question and none have determined a linear regression between downward longwave radiation and low cloud properties. This proposal falls within the Water and Energy Cycle focus area of the Earth Science Research Division. This proposal intends to utilize NASA’s CERES, CALIPSO, CloudSat, and MODIS (CCCM) data product. This data product is wonderful for answering this question as it retrieves information about the whole atmospheric column including irradiance profiles. I have performed some preliminary research using the CCCM data product to begin to answer this proposal’s question. I have looked at two subsidence regions, in the Northeast Pacfic and the Southeast Pacific. I performed a linear regression between increasing downward longwave radiation and the following low cloud properties: cloud top height, cloud base height, and cloud fraction. It was found that with increasing downward longwave radiation, cloud tops were lowering, cloud bases were rising slightly, and cloud fraction was decreasing. All of these results are consistent with the idea that increasing downward longwave radiation causes a decrease in the radiative cooling at low cloud tops. This proposal looks to expand on these preliminary results through four objectives. Objective 1: Expand the scope of this study to the subsidence regions over all tropical oceans. This would greatly increase the number of measured footprints observed. Objective 2: Perform temporal and spatial decorrelation of my data. There is a strong probability that adjacent footprints are measuring the same cloud. Doing these statistical analyses will resolve this issue. Objective 3: Apply meteorological controls on low clouds in the subsidence regions. Controlling for meteorology will allow me to isolate the effect of downward longwave radiation on low clouds. Objective 4: Quantify downward longwave radiations effect on the transition from stratocumulus to cumulus. I can use the CCCM data product to identify the transition between stratocumulus to cumulus, including cumulusunder-stratocumulus. The proposed duration of this project is three years upon the submission of three papers for publication. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lorenzo Polvani (PI) /Ivan Mitevski (FI) 
+Columbia University 
+19-EARTH20-0256, Understanding past, Recent and Future Changes in Lower Stratospheric Ozone and Impacts on Northern Hemisphere Surface Climate 
+ 
+OVERVIEW: This project utilizes NASA satellite datasets, reanalysis products, and NASA general circulation models (GCMs) to better understand recent (1998-2019) and future changes in stratospheric ozone and their impact on the climate system.  In particular, we focus on the impact of stratospheric ozone changes on Northern Hemisphere (NH) climate: this question has been relatively unexplored, compared to the Southern Hemisphere, which has received copious attention.  Recent studies have provided observational evidence that extremes in Arctic stratospheric ozone affect NH surface climate, and other studies have shown that future changes in stratospheric ozone may also impact climate sensitivity.  The first goal of this project is to evaluate the robustness of the tropical and NH response to future ozone-mediated increases in carbon dioxide (CO2) using multiple configurations of the NASA Goddard Institute for Space Studies ModelE GCM.  We will focus on the role of ozone feedbacks on the Intertropical Convergence Zone and the El-Nino Southern Oscillation, as well as the NH midlatitude jet streams and storm tracks. Our focus will be on the future response of the zonally asymmetric circulation to anthropogenic forcings, emphasizing policy-relevant metrics that have large societal impact (e.g. precipitation extremes, drought frequency and duration).  The second goal is to understand the mechanisms driving stratospheric ozone changes in the recent past and future.  In particular, we will focus on the mechanisms controlling lower stratospheric ozone responses to future increases in greenhouse gases, as these are most likely to impact on NH surface climate.  This work will be of broad scientific and societal interest. The proposed research will not only improve our scientific understanding of the mechanisms driving stratospheric ozone changes, but will also inform NASA’s observing mission by identifying when and where ozone observations should be made, and how these observations can be used to identify circulation changes in the stratosphere. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sarah Purkey (PI) /Ratnaksha Lele (FI) 
+University of California, San Diego 
+19-EARTH20-0022, Improving Observations of Global Abyssal Ocean Circulation and Mixing Using InSitu and GRACE Measurements 
+ 
+OVERVIEW: The bottom limb of the MOC (b-MOC) controls the rate of heat and carbon sequestration into the deep and abyssal ocean. The b-MOC is characterized by the (1) northward flowing Antarctic Bottom Water (AABW) filling up the deep ocean basins, (2) subsequent turbulent mixing-driven upwelling to mid-depths, and (3) mid-depth flow returning water to the south. However, variability in the volume transport of AABW and turbulent mixing rates in the global deep ocean basins remains under-sampled and poorly understood. This proposal aims to improve our understanding of these critical processes controlling the b-MOC. Global in-situ observations from a high-resolution microstructure instrument (Ç-Pod) will be processed to present a novel view of the geography and spatial distribution of turbulent mixing in the abyssal ocean from over 1000 full-depth profiles. Data from Ç-Pod will also be used to evaluate, validate and access uncertainties in existing parameterizations as well as serve as the baseline for future microstructure measurement and parameterizations in global and regional models of the ocean and climate. Further, exploiting  NASA’s GRACE and GRACE-FO ocean bottom pressure (OBP) measurements and ocean state model estimates, this proposal aims to provide estimates of temporal and spatial variability and trends across of AABW 32S at the resolution of the satellite footprint. The results from this study will quantify abyssal ocean transport and variability as well as mixing in the abyssal ocean, advancing our understanding of the mechanisms controlling heat and carbon sequestration into the deep oceans so that we can better predict how these processes might change in the future. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sally Pusede (PI) /Mary Angelique G Demetillo (FI) University of Virginia 
+19-EARTH20-0242, Evaluating Air Pollution Inequality Using High Spatial Resolution NO2 Remote Sensing Observations 
+ 
+OVERVIEW: Air quality in U.S cities has improved in recent decades; however, intra-urban variability in pollutant concentrations contribute to disparities in the air pollution distribution within cities. Our ability to address these inequalities through decision-making has been severely limited by the lack of concentration measurements at spatial scales that resolve real-world pollutant gradients, especially for reactive gases such as nitrogen dioxide (NO2). 
+ 
+Recent NASA observations of atmospheric NO2 vertical columns by the GCAS and GeoTASO airborne spectrometers provide some of the most extensive direct high spatial resolution (250 m x 500 m) measurements of intra-urban NO2 spatiotemporal variability to date. The GCAS and GeoTASO datasets are novel observational constraints that can inform application of next generation satellite NO2 measurements to neighborhood-level air quality decision-making. I will use these observations to (1) quantify disparities in NO2 pollution with neighborhood (census-tract) demographics and (2) evaluate the ability of TROPOMI (3.5 km x 7 km) to capture these same inequalities. 
+ 
+The proposed work will integrate NASA orbital and suborbital observations, satellite and surface measurements from other agencies, the U.S. Census database, and nitrogen oxide (NOx) emission inventories. Central to this proposal, NASA GeoTASO and GCAS observations were recently collected on more than 100 science flights over five U.S. cities: Houston, TX; Denver, CO; Chicago, IL; Los Angeles, CA; and New York, NY. The proposal will produce (1) an in-depth study of the magnitudes, drivers, variabilities, and NOx sources causing inequality at the census-tract-scale in these U.S. cities; (2) a synthesis of these detailed results to test the skill and limitations of using TROPOMI (with oversampling) to conduct similar analyses in cities without airborne spectrometer datasets; and (3) a national-scale inequality study based on TROPOMI observations. 
+ 
+The work has the potential to significantly improve our understanding of intra-urban variability of shortlived pollutants, as well as our ability to detect and interpret this variability from space. The proposal addresses the important societal issue of air pollution inequality, and will ultimately demonstrate that NASA Earth observations can be powerful tools for decision-makers and other stakeholders working to eliminate the disproportionate impact of pollution on disadvantaged populations in U.S. cities. The proposal is well-aligned with the NASA Earth Science Division of the Science Mission Directorate strategic objective question: “How can Earth system science provide societal benefit?” and includes work to broaden the audience of NASA Earth observations through the creation of an interactive webbased interface that displays census-tract-level NO2 column inequalities in U.S cities. 
+ 
+James Randerson (PI) /Nicole M Hemming-Schroeder (FI) 
+University of California Irvine 
+19-EARTH20-0106, Modeling Dead Wood from Satellite Data to Benchmark and Improve Earth System Models in Their Representation of Wood Decay 
+ 
+OVERVIEW: About 30% of carbon released by fossil fuels and land-use change is taken up by the biosphere (Le Quéré et al., 2018, Global Carbon Budget 2018). Within the biosphere, global forests are currently a sink for carbon, but this may change in the future. Changing temperatures, wildfires, storm patterns, and precipitation affect the ability of forests to take up carbon and convert it to biomass, tree mortality, and the decay rates which govern the release of carbon from dead organic matter. Dead wood in standing and fallen trees represents a large and dynamic carbon storage pool that is not wellunderstood. Earth system models that represent carbon in dead wood are not constrained by observations. I will use artificial neural networks to create gridded products of  standing and downed dead wood from forest inventory observations and satellite data and use these products to benchmark Earth system model predictions of dead wood from CMIP6. I will use permutation feature importance to identify key drivers of wood dynamics and improve the representation of coarse woody debris in the Community Earth System Model by benchmarking new model parameterizations and structures within the Community Land Model. 
+ 
+Earth system models reporting carbon in coarse woody debris (a subcategory for dead wood greater than 7.5 cm in diameter) treat dead wood almost the same way as the soil carbon pools with rate constants that vary primarily with temperature and soil moisture. This approach may be too simplistic, because it does not include wood traits such as lignin and nitrogen content which are also important drivers of wood decay. I will compare Earth system model estimates of dead wood to observations of from forest inventories from the United States. I will use use estimates of canopy structure, water availability, temperature, elevation, and vegetation stress from satellite data data to infer driving variables of wood dynamics. I will then test revised model structures for wood decay in offline simulations of the Community Land Model as well as the fully-coupled Community Earth System Model to assess potential climate feedbacks.   
+ 
+By benchmarking and improving Earth system models in their representation of dead wood, we may gain a better understanding of the role of dead wood within the climate system. New model components for the decay of wood can be used to improve Earth system models for future phases of the Coupled Model Intercomparison Project and to describe feedbacks which may arise from changes in the ability of wood to sequester carbon. An improved understanding of the carbon cycle in global wood pools will help us to understand how the balance between carbon sequestration and release may change in forests under a changing climate. 
+Eric Rignot (PI) /Shivani Ehrenfeucht (FI) 
+University of California Irvine 
+19-EARTH20-0074, Dynamics and Stability of Northern Greenland Ice Shelves Combining Satellite Remote Sensing and Numerical Modeling 
+ 
+OVERVIEW: The stability of north Greenland ice shelves is particularly relevant in the determination of contribution to future sea-level rise from the Greenland ice shelf because of their role in determining the dynamic component of glacier mass balance. If the buttressing effect of the ice shelves in this region were to diminish, ice flow in the northern sector would likely accelerate further. This could lead to the destabilization of the northern portion of the ice sheet because the bedrock in much of this region sits below sea-level. Observations show that the ice shelves in this region are breaking up more quickly than had been previously anticipated. Additionally, they exhibit a strong seasonal variability in velocity. This research proposal outlines a 3-year project which explores the physics driving short time scale dynamics and addresses the question of ice shelf stability in northern Greenland through a combination of remote sensing and modeling techniques. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pablo Saide (PI) /Laura H Thapa (FI) 
+University of California, Los Angeles 
+19-EARTH20-0222, Forecasting Wildfire Emissions with Machine Learning and Evaluating Effects on Biomass Burning Smoke Predictions 
+ 
+OVERVIEW: The overarching goal of this research is to improve atmospheric composition and air quality forecasts in regions of intense wildfires, such as the American West. Modeling the impact of biomass burning on local and regional air quality involves making many assumptions of how smoke is emitted from a wildfire. This is because the physical processes that generate smoke and the way emissions evolve over time are not explicitly modeled in air quality and atmospheric composition forecasting systems.  In particular, emissions forecasts assume that the amount of smoke emitted tomorrow will be the same as the amount of smoke emitted today (persistence) and that day to day the amount of smoke emitted as a function of time of day does not change (fixed diurnal cycle). These two assumptions may in some cases be incorrect, and in these cases even the best air quality models cannot accurately predict the impact that smoke from a wildfire will have on air quality.  I propose to forecast wildfire daily emissions and diurnal cycles using machine learning techniques, thus moving emissions forecasts away from the persistence and fixed diurnal cycle assumptions, and to analyze the impact of data-driven emissions forecasts on air quality forecasts.   
+ 
+In this proposal, I discuss building a statistical system for forecasting wildfire emissions and testing the resulting emissions forecasts in air quality models. I will use machine learning and deep learning techniques to generate the emissions forecasts.  These methods use large datasets and create functions which map inputs to desired outputs. As inputs, I will look at variables like meteorology, wildfire indices and previous fire behavior, and from there I will predict daily and diurnally varying emissions. Once I have an emissions forecast, I will supply it as an input to an air quality model.  I will then evaluate how the model represents a selection of variables that are relevant to air quality, such as PM2.5.  This will give me a quantitative sense of how an improved emissions inventory improves air quality models that are used to inform the public.    
+ 
+Wildfires and their associated negative impacts on health, visibility, air quality and radiative forcing, have been increasing in the last decades and are projected to increase further in a warmer climate. The work to provide more reliable forecasts of wildfire emissions helps us understand the coupling and feedbacks between wildfires, air quality and climate change. These are topics which are addressed specifically by the NASA Science Mission Directorate (Earth Sciences, Atmospheric Composition). Our effort to forecast emissions and analyze the impact of improved emissions forecasts on air quality models will make direct use of multiple NASA datasets (satellites, ground-based networks and airborne measurements collected during the FIREX-AQ field campaign). We will also utilize and attempt to improve forecasts from the Goddard Earth Observing System (GEOS) model developed by the Global Modeling and Assimilation Office through collaboration with Dr. Arlindo da Silva. 
+ 
+David Sandwell (PI) /Hugh Harper (FI) 
+University of California, San Diego 
+19-EARTH20-0045, Global-Scale Investigations of Seafloor Tectonic Fabric from Satellite Altimetry 
+ 
+OVERVIEW: Knowledge of seafloor topography is fundamental to a number of sciences including: oceanography, marine biology chemistry, and geology. Globally, only about 11% of the seafloor has been surveyed by shipboard sonar, leaving vast swaths of our planets solid surface largely unknown. 
+Complete sonar mapping of the ocean floor would take an estimated 200 years of ship time. Fortunately, the techniques of satellite altimetry, first developed and employed with the NASA Seasat mission, have uncovered some of the details of the seafloor topography with global coverage. Satellite altimetry from a number of recent missions including Jason-1/2 (extension of life), Cryosat-2, SARAL/Altika, Sentinel-3A/B and Jason-3 has provided dense coverage to greatly improve the accuracy and resolution of the marine gravity field and especially the vertical gravity gradient (VGG). The NASA SWOT altimeter, scheduled for launch in 2021, may achieve another factor of 5 improvement in accuracy and a factor of 2 in resolution.  These improvements have revealed the expected details of the tectonic fabric of the seafloor including spreading ridges, fracture zones, and seamounts. The VGG grids have also revealed a completely new type of tectonic structure that we have called seesaw propagators (SSPs); they are similar to ordinary propagating ridges but they commonly reverse propagation direction leaving W-shaped scars on the seafloor. The combined length of all the seesaw propagators is 25% of the length of the fracture zones so they are an important tectonic feature. The inflection points of the W-shaped scars are symmetric about the spreading ridges. Therefore, they provide a new type of data that can be used to augment marine magnetic anomalies and fracture zone trends to constrain plate reconstruction models. This proposal has 4 main elements. During the first two years of the investigation, prior to the general availability of SWOT data, we propose to: 
+ 
+(1)	Refine our analysis of the SSPs to include a new database of tie points to be used for detailed plate reconstructions. 
+ 
+(2)	Develop geodynamic models of SSPs (conceptual, analog, and numerical).  
+ 
+(3)	Characterize the additional seafloor roughness attributed to SSPs and work with the physical oceanographic community to understand the effects on deep ocean currents and mixing. 
+ 
+(4)	During the last year of the investigation we will analyze SWOT altimeter data to assess its accuracy and resolution in relation to the nadir altimeters.  We expect a significant improvement that will enable us to refine our analysis of SSPs and resolve even smaller scale tectonic features and seamounts. 
+ 
+The expected outcome of this work is a greatly improved understanding of the tectonics of the deep ocean basins.  In addition, we will provide an early evaluation of the small-scale accuracy and resolution of the SWOT altimeter.  Such analyses are important for the development of future NASA missions having higher accuracy and resolution. 
+Manoochehr Shirzaei (PI) /Grace Anne Carlson (FI) 
+Arizona State University 
+19-EARTH20-0230, Exploring the Relationship between Hydrologic Loading and Fault Creep: A Case Study on the Salton Sea and Southern San Andreas Fault 
+ 
+OVERVIEW: There is theoretical evidence to suggest that the earthquake cycle can be altered due to large fluctuations in water mass and has been shown to weakly modulate seismicity in California. However, observations and models of fault ‘creep’ or ‘aseismic slip’ affected by small changes in stress due to hydrologic loading are scarce. This project investigates the relationship between hydrology, fault creep, and earthquake nucleation on the southern section of the San Andreas fault, a zone of the fault thought to be in the late interseismic phase of the seismic cycle and one that exhibits shallow creep. In this project, I am proposing to use a combination of elastic loading and fluid diffusion models to calculate stress changes due to both seasonal water level fluctuations and rapid water level fall on faults around and beneath the Salton Sea in southern California. This project will use water level changes of the Salton Sea, high-resolution measurements of fault creep from SAR interferometry and creepmeters, seismic catalogs, and observations of seismic velocity changes, all of which are publically available. I will test hypotheses that temporal changes in stress from lake level change correlates to (1) temporal changes in microcrack opening inferred from drops in seismic velocity, (2) geodetic measurements of interseismic creep rate change, and (3) changes in seismicity rate and moment release. Through this study, I aim to improve our understanding of the relationship between non-tectonic stress, fault zone properties, and earthquake nucleation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+John Silander (PI) /Henry Aaron Frye (FI) 
+University of Connecticut 
+19-EARTH20-0266, Evaluation of Hyperspectral Techniques for Quantifying Taxonomic and Functional Diversity in Coastal and Shrubland Ecosystems 
+ 
+OVERVIEW: Biodiversity is the total genetic, functional, and phylogenetic variation of life found at scales ranging from populations to ecosystems. It underpins the functioning and resilience of Earths systems and provides the foundation to human welfare. Ecosystems are particularly reliant on the diversity and composition of plant communities since they are the primary source of energy transfer to other organisms. Biodiversity has been long used as a benchmark of ecosystem health and its decline may signal critical junctures at which ecosystem function, i.e. Earths system, begins to fail. Adequate observation and monitoring of the spatial and temporal variation of plant biodiversity is essential to understanding the current and future state of earth systems.  
+ 
+Ecologists typically quantify biodiversity using metrics based on field surveys, but collecting such data is time consuming and simply impossible over large areas. Remote sensing provides a more efficient and powerful alternative to characterize and monitor biodiversity across communities and ecosystems at large spatial extents. Moreover, remotely sense plant biodiversity provides a proxy measure for overall biodiversity at scales from communities to ecosystems and biomes. 
+ 
+This project studies how hyperspectral reflectance at different spatial scales (leaf, canopy, and landscape) can be used to measure biodiversity in ecosystems at opposite ends of Earth’s ± and ² diversity spectrum. The first two objectives of the project seek to juxtapose the mangrove forest and the Greater Cape Floristic Region as comparative case studies for remote sensing of biodiversity extremes across spatial scales. The third objective extends these concepts to a new statistical framework to test how leaf reflectance spectra and the environment can be unified to detect plant functional traits and biodiversity more generally. The ultimate goal of this project to explore the question of how variation in the spectral properties of plant communities across spatial scales in heterogenous landscapes contribute to a global understanding of biodiversity patterns. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Eric Sproles (PI) /Ross Palomaki (FI) 
+Montana State University 
+19-EARTH20-0148, Remotely-Sensed Approaches to Quantify River Ice and Ice-Jam Vulnerability in Continental Rivers 
+ 
+OVERVIEW: Seasonal river ice has a profound hydrologic and ecologic impact on river dynamics and nearby social and environmental systems, with economic impacts estimated at upwards of $250 million annually in North America. Despite its wide-ranging importance and destructive potential, river ice is critically understudied, especially on non-Arctic continental rivers. This dearth of information prevents federal meteorologists and hydrologists from incorporating river ice into operational flood forecasting. The primary objective of this research is to develop operational tools to map and measure river ice on continental rivers, a first step toward integrating river ice into flood forecasts. This project will use the Yellowstone River as a test-bed for two distinct but related science topics, both with associated research questions: (1) Detecting and quantifying river ice in remotely-sensed data using neural networks and (2) Development of the ice-jam vulnerability index (IJVI). These operational tools provide new information to water resource managers in communities affected by ice-jam flooding. Quantification of river ice in near-real-time is an initial step towards incorporating river ice into flood forecasts, which will improve the capability to assess and respond to future ice-jam events. Additionally, the IJVI provides a flexible framework to consider multiple climate-sensitive variables that contribute to ice-jam formation, and will provide new information about future ice-jam vulnerability under a variety of climate scenarios. The tools are also designed to incorporate new data from the SWOT mission, which will provide a more accurate assessment of ice-jam vulnerability. 
+ 
+Historically, in situ measurements of river ice extent and thickness were made by drilling boreholes into the ice or by dragging ground penetrating radar over the ice surface. Remotely-sensed data provide a safer and more frequent alternative to ice-based measurements. This project uses multiple satellite products to create a number of neural network training datasets. Each training dataset includes some combination of visible and near-infrared (MODIS, Landsat 8, Sentinel-2) and synthetic aperture radar (SAR) bands (RADARSAT-2, Sentinel-1). A methodical comparison of two network architectures trained with various satellite products will determine the best neural network implementation for river ice mapping applications. This aspect of the project makes extensive use of Google Earth Engine, which enables the entire neural network workflow to be developed and publicly distributed in an open source, cloud-based environment. The addition of SAR bands in training datasets allows for ice thickness and volume to be calculated for regions of river ice identified by neural networks. Error in these calculations is quantified using aerial photography of river ice collected by unmanned aerial vehicles. Aerial images are processed using the Structure-from-Motion algorithm, which generates 3-dimensional landscape models with pixel resolutions on the order of centimeters. Ice thickness and volume calculated using this method serve as ground truths for satellite-based calculations. 
+ 
+The IJVI quantifies present and future vulnerability of river reaches to ice-jam formation. Six parameters are used to compute the overall vulnerability: surface air temperature, surface wind, cloud cover, bankside vegetation, channel geometry, and topographic shading. Principal Component Analysis is used to examine the relative contributions of the individual parameters to the overall vulnerability. Projections of climate-sensitive variables that are identified as significant contributors to vulnerability are incorporated into the IJVI to calculate new vulnerability levels for the end of the century. Comparison of present and projected IJVI provides new information to water resource managers in regions of increasing or decreasing river ice vulnerability. 
+ 
+ 
+ 
+ 
+ 
+ 
+David Stensrud (PI) /Keenan Eure (FI) 
+Pennsylvania State University 
+19-EARTH20-0075, Assimilation of Satellite and Dual-Polarization Radar Data to Improve Ensemble Convection Forecasts 
+ 
+OVERVIEW: Since 1980, severe thunderstorms (which can include damaging winds, hail, flash flooding, and tornadoes) have accounted for $247.8 billion in damages and 1642 deaths nationwide. Owing to the life-threatening nature of severe thunderstorms, an important goal of the numerical weather prediction modeling community has been accurate prediction of severe thunderstorms. This research aims to improve forecasts of severe thunderstorms within numerical weather prediction models using several types of novel meteorological observations from both satellites and Doppler weather radars. One of the biggest needs associated with the models' prediction of thunderstorms is routine observations on the spatiotemporal scales necessary to accurately define the important storm structures within the initial conditions. A process called data assimilation blends observations into the model's initial conditions, leading to an improved depiction of storm structures and therefore better prediction. 
+ 
+There are several factors in successful prediction of severe thunderstorms, such as accurate cloud depiction and representation within the initial conditions of the model. Satellites now have the capability to complete full scans of the continental U.S. every 5 minutes, with a horizontal resolution of 2 kilometers. There are several channels of data that provide information on water vapor content at different levels of the atmosphere, which has been shown to be valuable for thunderstorm depiction within models, given that they can struggle with cloud depiction and placement. Satellite data can help models predict clouds where they are in reality and remove modeled clouds where they do not exist. 
+ 
+Also, Doppler weather radars are the primary source of continuous ground observations with spatiotemporal resolution suitable for defining storm structures in models. Radars can identify a thunderstorm's updraft, which is an important feature in any strong thunderstorm. This is a column of rapidly rising air a few kilometers in horizontal diameter that extends from the base of the cloud to near the cloud top. Updrafts can be intense, often reaching speeds in excess of 50 meters per second. Radar observations show that updrafts in even the most severe thunderstorms do not contain much precipitation, as strong updrafts inhibit the processes allowing precipitation particles to grow. Past work has illustrated that radars can identify updraft size and location, but newer observations have been found to identify the intensity as well. Radars can also identify the depth of the planetary boundary layer (PBL), which is critical to forecasts of severe thunderstorms. The PBL is defined as the lowest few kilometers of the atmosphere characterized by turbulent mixing of winds. The model's prediction and observations of PBL depth can differ by a factor of 2, making accurate predictions challenging. 
+ 
+We plan to assimilate observations of the cloud field from satellites simultaneously with PBL depth and updrafts from Doppler weather radars to improve the predictability and depiction of severe thunderstorms. Data assimilation of satellite and radar observations work synergistically for thunderstorm prediction, and we will explore the correlations and relationships between these observations and model variables. Several experiments with combinations of the different observations will be conducted.  
+ 
+The goals of the project work to advance our understanding of Earth and developing technologies to help life on our planet by improving our numerical modeling capabilities for severe thunderstorms, or convection. Using novel observations to improve depictions of the boundary layer, initial cloud development timing and location, and deep convective structures will lead to improvements in our ability to predict extreme weather events, especially when there are hazards associated with the convection. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Andrew Stewart (PI) /Ken Zhao (FI) 
+University of California, Los Angeles 
+19-EARTH20-0153, Improving Glacial Melt Rate Estimates Using ECCO and NASA OMG 
+ 
+OVERVIEW: Understanding and resolving the ocean dynamics near and within fjords is crucial towards constraining the ocean-driven melting of the glaciers of the Greenland Ice Sheet. Recent idealized and regional modeling investigations have explored the constraints of fjord-to-shelf circulation. However, current glacial melt rates estimates do not account for the near-fjord dynamics. I propose to estimate the glacial melt rate of Greenlands marine-terminating glaciers using high-resolution models constrained by NASA observations from ECCO (Estimating the Circulation and Climate of the Ocean) and the NASA OMG (Oceans Melting Greenland) mission. These results will then facilitate the development of an improved parameterization of freshwater fluxes/melt rates compared to those currently provided by ECCO. The proposed work will ultimately produce a better understanding of the role of ocean dynamics in the melt rate of Greenland’s marine-terminating glaciers. Specifically, the proposed studies will try to achieve the following goals: (1):  Develop a high-resolution MITgcm fjord-only model based on six major Greenland fjords that uses the latest ECCO V4R4 output of the near-fjord coastal circulation as timevarying boundary conditions and bathymetry; (2) Determine differences between the high-resolution model and ECCO freshwater fluxes/OMG CTD measurements, and assess the validity of melt rate results from the fjord-only models (using multiple approaches); (3): Develop theories to explain/account for the differences between our results and existing ECCO freshwater fluxes and help move towards a better parameterization for ECCO freshwater fluxes/melt rates, which may also be used in the future for other models. Insights from these experiments will provide the community with a way to constrain the oceandriven melt rates that takes into account additional parameters (bathymetry, winds, stratification, discharge, etc.) as well as test the accuracy and adequacy of existing OMG and ECCO datasets that may guide and be further improved with additional observations. This work also supports NASA’s goal of understanding the dynamics and variability of the Earth system. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ying Sun (PI) /Jiaming Wen (FI) 
+Cornell University 
+19-EARTH20-0214, Understanding and Predicting the Interannual Variability (IAV) of the Global Terrestrial Carbon Cycle 
+ 
+OVERVIEW: The global terrestrial ecosystems serve as a natural sink to mitigate the rapid increase of atmospheric CO2 and climate warming. Terrestrial carbon flux has large interannual variability (IAV); however, the underlying mechanisms (e.g., dominant component fluxes, regional contribution, environmental variables) driving such large IAV remain elusive, despite numerous studies in the past decades. This hinders reliable prediction of the fate of terrestrial carbon sink under future change using Earth System Models (ESMs). This proposal aims to: 1) quantify the contributions to the IAV of global 
+NBE from different regions and processes, using solar-induced chlorophyll fluorescence to constrain the GPP budget ; 2) Reveal the inherent causal relationship between carbon fluxes and environmental drivers using statistical causal inference approaches such as the Granger causality (GC) and structural causal model framework (SCM); and 3) Evaluate and improve ESMs representation for reliable prediction of IAV of global NBE using the NCAR Community Terrestrial Systems Model (CTSM). 
+ 
+This proposed research falls in the Earth Science Research Program, and is related to its solicitation of Carbon Cycle Science, Terrestrial Ecology, and Carbon Monitoring System. Specifically, this project will facilitate carbon flux monitoring with novel SIF datasets, help reduce the uncertainty of carbon flux estimate, analyze the sensitivity of terrestrial ecosystems to the climate variation, and finally improve the prediction of the global terrestrial carbon cycle under future projections. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Joel Thornton (PI) /Carley Fredrickson (FI) 
+University of Washington, Seattle 
+ 
+19-EARTH20-0033, A Cross-Platform FIREX-AQ Analysis: Connecting Atmospheric Composition Between In Situ and Remote Measurements 
+ 
+OVERVIEW: Wildfires and other biomass burning events are major sources of reactive trace gases and particulates to the atmosphere, with significant and growing impacts on air quality and climate. Biomass burning is a major source of reactive nitrogen species, such as nitric oxide, (NO) nitrogen dioxide (NO2), and nitrous acid (HONO), which play active roles in regulating the atmospheres oxidizing capacity and in the formation of key secondary pollutants such as tropospheric ozone. The emissions, fate, and lifetime of these reactive nitrogen species in biomass burning plumes remain uncertain and often unexplored with in situ observations due to logistical challenges. Currently, satellites with UV-Vis-NIR spectrometers, such as TROPOMI, can detect both NO2 and HONO, with spatial resolutions approaching that of individual fire plumes, and thus highlight an opportunity to develop a detailed understanding the emissions on a global scale. NASA’s TEMPO instrument aboard a commercial satellite will provide similar information at hemispheric scales hourly over the course of a day. Thus our analysis for TROPOMI will serve as a foundation for TEMPO's atmospheric composition retrievals. 
+ 
+I therefore propose to assess, validate and use TROPOMI and FIREX-AQ ER-2 GCAS retrievals of HONO and NO2 columns in large-scale fire plumes to improve our understanding of reactive nitrogen emissions from biomass burning. There is high uncertainty in satellite retrievals of trace gases within wildfire plumes due to the extension of the radiation path length in the presence of scattering aerosols. Thus, to truly evaluate the retrieval accuracy of HONO requires careful comparison to high-time resolution in situ HONO observations at the parts per trillion level such as those my group has made with an iodideadduct high-resolution time-of-flight chemical ionization mass spectrometer aboard NOAA-CHEM Twin Otter during the NASA FIREX-AQ campaign (2019) and the NSF/NCAR C-130 during the NSF WE-CAN campaign (2018) which were focused on investigating the impact of wildfires and agricultural fires on air quality and climate across the continental United States. Together, these campaigns resulted in a crucial and unique dataset consisting of in situ measurements of HONO, NO2 and many other related trace gas and aerosol properties from aircraft and ground-based platforms. I will thus perform a multi-layer validation of HONO and NO2 retrievals from TROPOMI and ER-2 GCAS using this multi-platform in situ data set. Given the short atmospheric lifetimes of HONO and NO2, I will develop a chemical framework on which to guide the comparisons of satellite and in situ observations and to leverage the satellite observations to extract HONO emissions from hundreds of sampled fires based on the HONO/NO2 ratio and distance of the pixel from the fire. These emissions estimates can then be compared to the in situ data and literature for HONO and used to inform emissions inventories used in chemical transport models. I will also use the chemically explicit box model, F0AM, to evaluate the relationships between reactive nitrogen and satellite-retrieved properties. 
+ 
+ 
+ 
+Mingfang Ting (PI) /Yujia You (FI) 
+Columbia University 
+19-EARTH20-0243, Process-Based Understanding of Extreme Asian Monsoon Rainfall Response to Anthropogenic Forcings 
+ 
+OVERVIEW: The heavily populated Asian monsoon region is extremely prone to hydroclimatic extremes. The short-lived, high-impact rainfall extremes and associated floods and landslides, pose serious threats to lives and properties, and cause large socioeconomic losses. Addressing how the anthropogenic forcings, including the greenhouse gases (GHGs) and aerosols, impact the local rainfall extremes in the Asian monsoon region is imperative and has practical implications. 
+ 
+In a warmer climate, the global-mean extreme rainfall is projected to intensify following the increase in atmospheric water vapor. Yet the rate of change on regional scales, such as the Asian monsoon region, is more uncertain due to possible contributions from dynamical changes in atmospheric circulation. The historical trend is further complicated by the counteracting influence of aerosols. In Asian monsoon region, the synoptic-scale low-pressure systems (LPSs) account for a great proportion of extreme rainfall climatology and temporal variance. The objective of the current proposal is to delineate the connections between monsoon LPSs and rainfall extremes in the Asian monsoon region and assess their responses to anthropogenic forcings in the present-day and future climate scenarios. The overarching goal is to provide a thorough process-based assessment of the physical mechanisms by which anthropogenic forcings influence extreme rainfall, and to understand the uncertainties of model-based projections. 
+ 
+We will address three key questions: 1) How well the current state-of-the-art climate models reproduce the observed LPS climatology and whether observed LPSs and extreme rainfall trends are part of the emerging anthropogenic forcing signals? 2) What are the physical mechanisms and uncertainty sources in the monsoon LPSs and regional extreme rainfall responses to historical anthropogenic forcings? 3) To what extent and by what means do the monsoon LPSs shape the regional extreme rainfall changes in a warmer climate? An automated feature tracking algorithm has been developed and will be used to compile LPS trajectories and identify associated extreme rainfall events in multiple reanalysis datasets and the Coupled Model Intercomparison Project Phase 6 (CMIP6) models. The LPS and extreme rainfall trends derived from the reanalysis products will serve as a benchmark for evaluating the state-of-the-art CMIP6 models. Models with good representation of LPS and extreme rainfall climatology will be used to examine the externally-forced and internally-generated LPS activities and extreme rainfall trends using various ensemble statistics. To elucidate the mechanisms by which the historical anthropogenic forcings affect LPSs and extreme rainfall trends, the CMIP6 single forcing experiments (GHG-only and aerosolonly) will be utilized. How aerosols may impact the LPS activities and the associated rainfall through its direct and indirect effect will be further investigated by grouping models based on the complexity of the aerosol parametrization schemes. Satellite observations of aerosol optical depth, cloud optical depth, cloud liquid water path, and cloud effective radius from the MODerate resolution Imaging Spectroradiometer (MODIS) will be used to constrain the realism of the direct and indirect aerosol effects in the models. Finally, thermodynamical and dynamical mechanisms driving the future LPSs and extreme rainfall projections will be evaluated using high-end emission scenario of shared socioeconomic pathways experiments.  
+ 
+Our proposed work fulfills the 2018 NASA Science Mission Directorate Earth Science Division’s strategic goal “Safeguarding and Improving Life on Earth: improve our weather forecasts and predictions of catastrophic events” and the purpose of the Earth science program: “to advance our scientific understanding of Earth as a system and its response to natural and human-induced changes, and to improve prediction of climate, weather, and natural hazards.” 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Jennifer Watts (PI) /Mary Farina (FI) 
+Montana State University 
+19-EARTH20-0105, A Multi-Scale Analysis to Address Uncertainty in Bottom-Up Estimates of Carbon Exchange in Alaska 
+ 
+OVERVIEW: Surface air temperatures in the Arctic have increased by more than twice the global average, and the amplified warming is leading to physical and ecological changes in terrestrial environments across the Arctic-boreal zone. Such changes could alter land-atmosphere exchanges of greenhouse gases carbon dioxide and methane, potentially converting ecosystems to net carbon sources and contributing to further climate change. Goals of the NASA Earth Science Division include improving capabilities to monitor and predict changes in ecological and biogeochemical processes on Earth, and the NASA Terrestrial Ecology and ABoVE programs focus these objectives on the changes occurring across Alaska and Western Canada. As estimates of current and future carbon fluxes across the Arcticboreal zone are highly uncertain, improved understanding of carbon dynamics in northern high-latitude regions is critical for more accurate prediction of carbon feedbacks that could have significant impacts on climate at global scales. 
+ 
+The overall goal of the proposed work is to reduce uncertainty in bottom-up model estimates of carbon dioxide and methane fluxes over Alaska during years 2003-2019, and to investigate whether tundra and boreal ecosystems in Alaska were annual net carbon sinks or sources to the atmosphere during this time period. Carbon fluxes are modeled at both coarse (1-km) and fine spatial scales (1-m to 5-m) to investigate the environmental processes that drive fluxes at sub-grid scales (i.e., < 1-km). Specific objectives of the proposed work include: (a) mapping annual aboveground biomass in Alaska over the years 2003-2019 and estimating changes in aboveground biomass due to fires; (b) modifying satellite remote sensing informed terrestrial carbon flux models to more accurately estimate ecosystem respiration and to better account for changing hydrologic conditions; (c) mapping carbon dioxide and methane fluxes at tundra and boreal research sites in Alaska using high-resolution remote sensing imagery; and (d) quantifying the error and uncertainty in modeled carbon fluxes and carbon stocks in Alaska. 
+ 
+To map annual aboveground biomass, a previously generated dataset of lidar-based estimates of aboveground biomass will be used to train and apply machine learning models over Alaska. After generating a time series of annual aboveground biomass maps, existing burned area datasets will be applied to estimate changes in aboveground biomass and carbon losses due to fire. In existing bottomup, terrestrial carbon flux models informed by satellite remote sensing data, the estimation of autotrophic respiration will be adjusted based on annual changes in aboveground biomass. The carbon flux models will be further modified to improve the estimation of winter heterotrophic respiration and to better account for surface wetting/drying dynamics in the estimation of methane emissions. The modified models will be run at coarse scale (i.e., 1-km) for years 2003-2019, and trends in fluxes, net carbon budgets, and environmental drivers will be investigated. Bottom-up model fluxes will be evaluated against atmospheric observations of gas concentration as a means to validate model estimates, and any disagreements between bottom-up and atmospheric estimates will be investigated. Additionally, high-resolution, site-level upscaling analyses will be conducted at tundra and boreal research sites in Alaska to better understand fine-scale processes driving methane and carbon dioxide fluxes, and to better understand variability in fluxes within 1-km areas. Specifically, samples of carbon dioxide and methane fluxes will be measured at each site, and high-resolution drone, airborne, and satellite imagery will be used to upscale the measured fluxes across each site. The resulting highresolution flux maps will be evaluated using cross-validation techniques. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Christelle Wauthier (PI) /Judit Gonzalez Santana (FI) 
+The Pennsylvania State University  
+19-EARTH20-0141, Modeling Sources of Flank Displacement and Their Impact on Slope Stability at Pacaya Volcano, Guatemala 
+ 
+OVERVIEW: Edifice collapse represents one of the most dangerous volcanic hazards threatening communities and infrastructure near volcanoes. In Guatemala, 9,000 people live less than 5 km away from the active MacKenney cone at Pacaya Volcano, which shows evidence of a past episode of flank collapse and where regional field studies have highlighted factors that increase the likelihood of failure. Flank displacement events were recorded associated to major eruptions in 2010 and 2014, with the 2010 event being one of the largest recorded flank instabilities that did not result in flank collapse. In order to assess the hazards posed by this volcano, a better understanding of the deformation behavior and the factors promoting flank instability, as well as the triggers necessary for collapse, is required. Preliminary time-series analysis on Interferometric Synthetic Aperture Radar (InSAR) datasets identified semi-continuous flank motion spanning 2010-2015, which suggests the existence of a subsurface structure accommodating slip. Investigating the existence of such a layer within Pacaya is paramount for hazard assessment, since weak layers within volcanic edifices can facilitate slope failure. To this end, our research will address whether a detachment fault accommodated slip between 2010-2015 and how its existence affects the stability of the SW flank of Pacaya. Our hypothesis is: flank motion at Pacaya is accommodated on a detachment fault, the existence of which increases the likelihood of flank failure. We propose to process further available SAR datasets for this period and perform a pixel offset tracking technique on UAVSAR and ASTER data spanning a larger eruptive phase in 2014, to more accurately constrain flank displacement magnitudes. We will locate the best-fitting displacement source through inversions using a Neighbourhood Algorithm. Initial analytical modeling on displacement maps spanning the 2010-2014 and the 2014 eruptive periods will identify a best-fitting detachment fault and quantify its fit relative to other sources (eg. pressurized chamber, dike, sill). Subsequent numerical modeling will provide a more refined location and geometry of the best-fitting source. In order to quantitatively investigate whether the existence of the hypothesized detachment reduces slope stability, 3D Limiting Equilibrium analyses of the edifice including the detachment will be compared to preliminary analyses for a homogeneous edifice. Our work aligns with NASAs Earth Science Research Programs focus on using space-based measurements to provide information not available by other means, since there is a lack of ground-based instrumentation at Pacaya and the Strategic Goal to further the use of Earth System science research to inform decisions and provide benefits to society, amongst others. We aim for insights into flank behavior obtained through this project to be used in forward models of debris avalanches and shared with local scientists at the Guatemalan volcano observatory (INSIVUMEH), allowing refinement of hazard maps for the area. 
+ 
+ 
+ 
+ 
+ 
+ 
+Park Williams (PI) /Caroline S Juang (FI) 
+Columbia University 
+19-EARTH20-0073, Building Resilience to Wildfires in the Western United States: Predictive Modeling in a Coupled Climate and Human System 
+ 
+OVERVIEW: Fire is a natural and ecologically crucial process that is a major player in Earths terrestrial carbon budget. The rate and nature of future climate change is highly uncertain due in part to uncertainty in how future fire activity will affect the carbon storage capacity of Earths continents. Fire has also emerged in recent decades as an increasingly important influence on human safety and health. Large wildfires in California, the Amazon, and Australia in the past two years killed over 100 people, destroyed tens of thousands of structures, and exposed millions to toxic particulate matter. Global wildfire models are at odds with each other about how global fire activity will change in the future, and they even disagree on how fire has changed in the past. We must improve our understanding of how fire responds to changes in climate, land cover, and human activities (e.g., ignitions, suppression efforts) to improve our understanding of future fire impacts on climate, ecosystems, and human safety and health. For my PhD research under the guidance of Dr. Park Williams, I propose to develop a predictive wildfire model in which wildfire activity is driven by the complex interaction between climate, vegetation, and humans. The study region will be the western United States, which has particularly good observational data and has experienced a large increase in wildfire activity over the past several decades.  
+ 
+While fire is widely studied in the western United States, much of the work has focused exclusively on the impacts of climate and has been limited by a focus on only the largest fires. In cases when smaller fires were considered, a constraint was the limited accuracy of the fire sizes and locations. This research will combine government records of wildfire occurrence with NASA/USGS Landsat satellite data available through Google Earth Engine to create a new database documenting with unprecedented accuracy all western US fires larger than 200 hectares (ha) since 1984, expanding the Landsat-based record of very larger (>404 ha) wildfires compiled US Forest Services’ Monitoring Trends in Burn Severity (MTBS) program.  
+ 
+I will use the new database to explore the drivers of variability and change in regional wildfire area. Previous work found that as aridity increases, burned area increases exponentially. However, this relationship cannot hold forever, as the amount of vegetation available will eventually limit how much fire can continue burning. I will investigate the nature of this exponential relationship and determine when and why it should be expected to break down. I will further assess how climate effects on wildfire are modulated by land-cover and human variables (e.g., fuel abundance, human population density) and will explore a range of quantitative techniques to model these complex relationships. This modeling work will include machine learning approaches (e.g., recurrent neural networks). To assess the complex effects of human behavior and culture on wildfire, I will conduct a study specifically on areas on either side of the US-Mexico border, where climate is essentially identical but human relationships with wildfire and vegetation are quite different. 
+ 
+My proposed research aims to expand NASAs sustained efforts to bring satellite data and products to the public through the NASA Applied Sciences Division and the NASA Disasters Team. With an improved understanding of climate-fire interactions, the created database and developed fire statistical model will bring new insights into disaster response and research, and help NASA’s domestic and global partners make informed decisions on fire management. With new understanding of climate-fire interactions, I look forward to collaborating with NASA and its partners to guide new environmentally sustainable policies and fulfill the agency’s goal to safeguard and improve life on Earth through space technologies. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mike Willis (PI) /Jasmine Hansen (FI) 
+University of Colorado 
+19-EARTH20-0159, Harnessing Geodetic Observations to Partition Fluvial Loads in SW Greenland 
+ 
+OVERVIEW: This proposal will assess the impact of sediment mass deposition on crustal flexure around global satellite navigation system (GNSS) sites in southwestern Greenland. Determining this relationship is important to ensure accurate measurements of the Greenland Ice Sheet (GrIS) mass balance which is the greatest contributor of uncertainty to global sea level rise (SLR) projections. This hinders sound planning and execution of mitigation strategies for at risk coastal communities. Scientific methods used to generate these ice sheet wide measurements of mass balance rely on corrections for solid earth motions, most notably glacial isostatic adjustment (GIA) caused by sustained ice sheet degradation. GIA corrections are generated using GIA models, constrained by global navigation satellite system (GNSS) displacement timeseries. GNSS sites are highly sensitive to contemporary load changes on the Earth’s surface. Thus, it is necessary to know the location and magnitude of surface mass changes to accurately partition the components of displacement.  Although the dominant source of mass change in Greenland is ice loss, increases in surface melt result in mobilization of sediment from the ice sheet margin to the coast. This particularly evident in southwestern Greenland. The influence of sediment mass transport and deposition on crustal deformation at GNSS sites is currently unconstrained. This has the potential to contaminate GNSS derived GIA corrections. To that end, this project will utilize remote sensing and GNSS measurements to (1) establish the effect of sediment mass transfer on GNSS timeseries for sites in SW Greenland, (2) assess the impact on GNSS derived GIA corrections and (3) determine whether this biases catchment scale mass balance estimates. Enhancing the understanding of fluvial sedimentation processes in Greenland is critically important for a multitude of reasons, chiefly: accurately constraining GIA for SLR predictions, assessing the impact of sediment on fjord ecosystems and quantifying sediment which may be a significant resource for the Greenland. The proposal focuses on the Watson River which has very high suspended sediment concentrations and long record of in-situ and remote sensing observations. The Watson river terminates in a delta which has prograded since 1980, depositing ~ 3.89 Gton of sediment in the process. Concurrent with this mass transfer the GNSS site close to the delta subsided from 1995 - 2001. We utilize a combination of remote sensing and modeling to generate a timeseries of sediment mass transfer and model its response on the crust. First, surface elevation data from the ICESat, IceBridge and ICESat-2 missions is used to determine elevation and slope changes on the subaerial portions of the river delta. Digital elevation models from the ArcticDEM project supplement the altimetry data to improve spatiotemporal coverage. The elevation change timeseries is converted to mass using existing density estimates. An ensemble of model runs using the Delft3D model package determines mass changes occurring in the submarine delta front. This mass change timeseries is fed into a crustal elastic model to determine the extent and spatial distribution of sediment caused mass deformation. Modeled results are compared to the observed GNSS timeseries and timeseries differential interferometric synthetic aperture radar images. This proposal directly addresses multiple goals and objectives of the Earth Sciences Division, specifically those of the Earth Surface and Interior and Climate Variability and Change focus areas. It utilizes existing, and future NASA satellite missions, specifically ICESat-2, Landsat 8, NISAR and SWOT. It responds to multiple goals of the Decadal Survey including determining the role of ice sheets on global SLR, the effect of SLR on coastlines and elucidating interactions that generate landscape change. 
+ 
+ 
+Ping Yang (PI) /Nancy Nanna Okeudo (FI) 
+Texas A&M University 
+19-EARTH20-0013, A Study of the Optical Properties of Non-Spherical Particles with the Physical Geometric Optics Method 
+ 
+OVERVIEW: The focus of the proposed research is to advance our knowledge of light scattering properties of aerosols. We need to understand light scattering properties of aerosols because it helps researchers to learn more about the effects of aerosols on the Earths radiation budget. Our understanding of single-scattering properties of non-spherical particles is largely benefited by the successful implementation of a numerically exact method called the invariant imbedded T-matrix (II-TM) and an approximate method called the physical geometric optics method (PGOM). A previous study by Yang et al. (2019) found that applicable size parameter ranges of II-TM and PGOM overlap for ice particle shapes such as hexagonal columns and aggregates. Their preliminary results have also shown that II-TM cannot be applied to very large size parameters due to the huge computational burden, and PGOM cannot be applied for very small size parameters due to the geometric optics approximation. In addition, PGOM does not include edge effect contributions to the extinction and absorption efficiencies.  Bi et al. (2015) have shown that the zeroth-order Debye series is a way to analyze the edge effect contributions for non-spherical particles.  In the proposed research, our goal is to improve the accuracy of PGOM by adding an edge effect correction to the extinction and absorption efficiency for moderate size parameters. This allows a more efficient use of the II-TM and PGOM combination to calculate the single scattering properties of non-spherical particles that covers all size parameter ranges. Our proposed comparisons between theoretical simulations and satellite observations will aim at defining an optimal dust optical property model. Therefore, successful completion of the proposed work will allow us to obtain more accurate aerosol scattering properties, which meets one of NASA’s overarching goals. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Zong-Liang Yang (PI) /Kwun Yip Fung (FI) 
+University of Texas at Austin 
+19-EARTH20-0139, Effect of Urban Resilience Enhancing Strategies on Modulating Extreme Rainfall in Houston 
+ 
+OVERVIEW: Houston is the most populated city in Texas and often experienced threats from extreme rainfall, flooding, hurricanes, extreme heat, etc. Under the effect of urbanization and climate change, the risk of having destructive natural hazards will increase in the future. Therefore, different city resilience enhancing strategies have been implemented in Houston. The objective of this research is to improve the understanding of how evapotranspiration (ET)-enhancing urban heat island (UHI) mitigation strategies modulate extreme rainfall in Houston. The strategies include green roofs, urban vegetations, and urban water bodies. 
+ 
+Urban areas usually have a warmer surface air temperature than the surroundings, which is called UHI effect. UHI can intensify and increase the probability of having extreme rainfall in the urban area. Recently, green roof, urban vegetation, and water bodies have been used in cities to mitigate UHI effect by facilitating ET. The thermal response of these strategies has been extensively studied but not the rainfall response. This project focuses on extreme rainfall response. We propose that enhanced ET will weaken the convection dynamics of rainfall through the energy cycle. On the other hand, enhanced ET will provide more moisture for rainfall through the water cycle. Our hypothesis is: the enhanced ET will decrease the hourly rainfall intensity, especially in the urban area, but increase the cumulative rainfall amount in the downwind urban to the sub-urban areas. 
+ 
+Green roofs, urban vegetations and water bodies will be implemented in the Weather Research and Forecasting (WRF) model and the modeled extreme rainfall intensity will be evaluated. We propose to use Modern-Era Retrospective analysis for Research and Applications, Version 2 (MERRA-2) reanalysis data to drive the Weather Research and Forecasting (WRF) model coupled with single-layer urban canopy model (SLUCM). We will construct a 100-m resolution Local Climate Zones (LCZs) classification map for Houston using Landsat-8 radiance data for input and combine with the high-resolution 500-m Moderate Resolution Imaging Spectroradiometer (MODIS) land cover data provided by NASA to characterize the land surface of Houston. We will also collaborate with the City of Houston to obtain detail urban canopy parameters for driving SLUCM.  
+ 
+This project is highly relevant to the Water and Energy Cycle Focus Area in the Research and Analysis Program of the Earth Science Division. The proposed contrasting mechanisms of enhanced-ET on urban rainfall are attributed to different cycles (energy and water cycle). The collaboration with the City of Houston can ultimately link Earth system science with the societal benefit by providing implications for urban planners to develop sustainable and resilient cities. 
+ 
+ 
+ 
+ 
+Xi Yang (PI) /Andrew Jablonski (FI) University of Virginia 
+19-EARTH20-0235, The Influence of Functional Trait Assemblages on Drought-Induced Mortality of Trees During The 2012 - 2016 California Drought 
+ 
+OVERVIEW: The 2012 -2016 California drought was an unprecedented climatic event that altered forest ecosystems, with drought-induced tree mortality rates as high as 60% (Fettig et al., 2019). Rates of mortality differed significantly by species (Fettig et al., 2019), by height (Stovall et al., 2019), and were exacerbated by bark beetle infestations (Stephenson et al., 2019). The causes of differences in mortality, by species and size class, are not yet understood and are the goal of this proposal. Using high-resolution imaging spectroscopy and LiDAR data collected before, during, and after (2011 2019) the drought, I will test hypotheses regarding the relationships among plant function and vulnerability to drought-induce mortality. These relationships have important implications for understanding the basic ecology of forests and for predicting future forest susceptibility to drought, an increasingly common stressor in today’s changing world. 
+ 
+My analysis will assess tree mortality as a function of environmental factors and functional traits, using a combination of high-resolution aerial imagery, LiDAR data, and imaging spectroscopy data that were collected from 2011 - 2019. I will 1) delineate individual tree crowns a 2) estimate functional traits for each crown 3) classify the species of each crown 4) identify whether or not the crown survived the 2012 - 2016 drought. Controlling for environmental factors, I will examine the influence of functional traits on drought-induced mortality. 
+ 
+My proposal aligns with the NASA Earth Science / Science Mission Directorate (SMD); specifically, the Carbon Cycling and Ecosystems Focus Area. The goal of the Carbon Cycling and Ecosystems Focus Area is to quantify, understand, and predict changes in Earth’s ecosystems and biogeochemical cycles, which include the global carbon cycle. My research proposal will contribute towards satisfying the listed anticipated products of this focus area – specifically, my proposal would contribute towards providing assessments of ecosystem response to climatic and other environmental change. Moreover, my research question supports objectives E-1a (important), and E-1e (important) summarized in the 2017 NASA Decadal Survey: quantify the distribution of functional traits and types of terrestrial vegetation spatially and over time (E-1a), and support targeted species detection and analysis (E-1e). The proposed work is also related to current and planned NASA missions and instruments, including the Hyperspectral Imager Suite (HISUI), Surface Biology and Geology (SBG), AVIRIS classic (AVIRIS-C), AVIRIS Next Generation (AVIRIS-NG), GEDI, ICESat2, and G-LiHT. 

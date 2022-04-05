@@ -1,0 +1,248 @@
+James Allen (Student); David Siegel (Advisor); 
+University of California, Santa Barbara
+Retrieval of Phytoplankton Size Distribution from Satellite Imagery
+Grayson Badgley (Student); Christopher Field (Advisor); 
+Stanford University
+Improving Estimates of Terrestrial Gross Primary Productivity with Remote
+Sensing of Solar-Induced Chlorophyll Fluorescence
+Sarah Bang (Student); Edward Zipser (Advisor); 
+University of Utah
+Seeking Reasons for the Differences in Structure, Evolution, and Lightning of Deep
+Convective Systems Over Land and Ocean
+William Battye (Student); Viney Aneja (Advisor); 
+North Carolina State University
+Use of Satellite Measurements to Validate and Improve Air Quality Predictions of
+Ammonia and Fine Particulate Matter
+Sarah Benjaram (Student); Jean Dixon (Advisor); 
+Montana State University
+Climate Controls on Weathering in a Post-Glacial Landscape
+Saiprasanth Bhalachandran (Student); Dev Niyogi (Advisor); 
+Purdue University
+Integrating Land Surface Processes for Improved Simulation of Landfalling
+Tropical Cyclones
+Jonathan Bielli (Student); Tiruvalam Krishnamurti (Advisor); 
+Florida State University
+Impacts on Hurricane and Monsoon Extreme Rainfall Forecasts From Inflowing
+Buoyancy Streams Using Physical Initialization and Downscaled GPM Rain Rates
+Within a Cloud Resolving Model
+Ruth Branch (Student); Alexander Horner-Devine (Advisor); 
+University of Washington
+River Discharge and Estuary Dynamics Inferred from Sea Surface Height
+Measurements: New Applications for SWOT
+Matthew Brege (Student); Lynn Mazzoleni (Advisor); 
+Michigan Technological University
+Aqueous Phase Oxidation of Biomass Combustion Emissions in Clouds
+Matthew Brown (Student); Michael Behrenfeld (Advisor); 
+Oregon State University
+Resolving Physiological Mechanisms of Photoacclimation for an Improved
+Interpretation of NASA's Satellite Chlorophyll Data Record
+Nick Carr (Student); Yang Hong (Advisor); 
+University of Oklahoma
+Evaluating the Connection Between Surface Properties and Precipitation
+Characteristics: Bridging GPM and SMAP
+Yi-Yin Chang (Student); Sundar Christopher (Advisor); 
+University of Alabama, Huntsville
+A Novel Approach for Examining Radiative Effects of Absorbing Aerosols Above
+Cloud Based on In Situ and Satellite Observations
+Winnie Chu (Student); Robin Bell (Advisor); 
+Columbia University
+Investigating the Influence of Subglacial Hydrologic Conditions on Seasonal
+Velocity in Northwest Greenland
+David Coe (Student); Jianhua Qian (Advisor); 
+University of Massachusetts, Lowell
+Daily Weather Types in Four Seasons in the Northeast US and Climate Tele-
+Connection
+Leila Cooper (Student); Ashley Ballantyne (Advisor); 
+University of Montana
+Landsat-Driven Analysis of the Impacts of Climate Change on Carbon Release
+Resulting From Forest Disturbance
+Kerstin Cullen (Student); Emily Shroyer (Advisor); 
+Oregon State University
+Air-Sea Interaction of the Sea Surface Salinity Anomaly in the Upwelling Sri Lanka
+Dome
+Caroline Curtis (Student); Bethany Bradley (Advisor); 
+University of Massachusetts, Amherst
+Using Time Series of Remotely Sensed Imagery to Understand Invasive Pine
+Dispersal
+Jennifer DeHart (Student); Robert Houze (Advisor); 
+University of Washington
+Analysis of the Interaction of Hurricane Karl (2010) with the Topography of Mexico
+Tedward Erker (Student); Philip Townsend (Advisor); 
+University of Wisconsin, Madison
+Linkage of Remote Sensing, Field Spectroscopy and Modeling to Characterize
+Ecosystem Function in Relation to the Heat Island and Carbon Budget of an Urban
+Area
+Catherine Garcia (Student); Adam Martiny (Advisor); 
+University of California, Irvine
+Global Distributional Patterns of Phytoplankton Communities and Their Elemental
+Stoichiometry Using MODIS Satellite Data
+Allison Goodwell (Student); Praveen Kumar (Advisor); 
+University of Illinois, Urbana-Champaign
+A Complex Network Approach to Characterize and Predict Ecohydrologic Shifts
+Heather Greaves (Student); Lee Vierling (Advisor); 
+University of Idaho
+Multisensor Fusion for Mapping of Low-Stature Arctic Vegetation Communities
+and Woody Biomass
+Danielle Groenen (Student); Vasubandhu Misra (Advisor); 
+Florida State University
+Mid-Summer Droughts Amidst Landfalling Tropical Cyclones and Atmospheric
+Rivers
+Brice Grunert (Student); Colleen Mouw (Advisor); 
+Michigan Technological University
+CDOM Variability and Its Influence on Phytoplankton Distribution in a Sub-Arctic
+Basin
+Ryan Hardy (Student); Robert Nerem (Advisor); 
+University of Colorado
+Improving Estimates of Antarctic Ice Mass Loss From GRACE by Reducing
+Atmospheric Modeling Errors
+Souichiro Hioki (Student); Ping Yang (Advisor); 
+Texas A&M University
+Variability of Ice Cloud Particle Roughness Determined from Polarimetric Satellite
+Observations
+James Hite (Student); Athanasios Nenes (Advisor); 
+Georgia Institute of Technology
+Quantifying Organic Aerosol Volatility and Its Relationship to Composition,
+Hygroscopicity, and Other Properties
+Xie Hu (Student); Zhong Lu (Advisor);
+Southern Methodist University
+Quantifying Landslide Dynamics Using InSAR: Applications to Landslides in
+Northwestern USA
+Alex Huth (Student); Benjamin Smith (Advisor);
+University of Washington
+Triggers for the Collapse of Ice Shelves in Antarctica: Investigating Compressive
+Arch Failure with Numerical Models
+Kelsey Kremers (Student); Adrian Rocha (Advisor);
+University of Notre Dame
+Is Arctic Greening Consistent with the Temperature Sensitivity of Coupled Carbon
+and Nitrogen Cycles?
+Abdiel Laureano-Rosario (Student); Frank Muller-Karger (Advisor); 
+University of South Florida
+Evaluating Water Quality and Tropical Vector-Borne Disease Risk by Satellite
+Remote Sensing
+Patricia Lawston (Student); Brian Hanson (Advisor); 
+University of Delaware
+Impacts of Irrigation and Wind Turbines on Land-Atmosphere Interactions and
+Coupled Prediction
+Xiang Li (Student); Albert Presto (Advisor); 
+Carnegie Mellon University
+Constraining Marcellus Shale Methane Emissions with Remote Sensing Data
+Xiaoqiong Li (Student); Mingfang Ting (Advisor); 
+Columbia University
+Asian Monsoon Response to the Changing Climate: Role of Anthropogenic Forcing
+David Lilien (Student); Ian Joughin (Advisor); 
+University of Washington
+Modeling Melt Sensitivity of Smith, Pope, and Kohler Glaciers, West Antarctica
+Bernard Lipat (Student); Lorenzo Polvani (Advisor); 
+Columbia University
+Quantifying and Understanding Linkages Between Clouds and the General
+Circulation
+Rainer Luptowitz (Student); Bob Allen (Advisor); 
+University of California, Riverside
+Investigation of Recent and Future Hydrological Changes in the Southwest United
+States
+Grant Macdonald (Student); Douglas MacAyeal (Advisor); 
+University of Chicago
+Investigating Supraglacial Lake Evolution and Hydrology on the Grounded and
+Floating Portions of Petermann Glacier, North Greenland
+Margaret Marvin (Student); Ross Salawitch (Advisor); 
+University of Maryland, College Park
+Connecting Emissions and Oxidation of Isoprene Through In Situ and Remote
+Observations of Formaldehyde
+Susan Meerdink (Student); Dar Roberts (Advisor); 
+University of California, Santa Barbara
+Discriminating California Plant Species and Evaluating Temperature Relations
+Across Seasons Within Drought Impacted Ecosystems
+Vikalp Mishra (Student); John Mecikalski (Advisor); 
+University of Alabama, Huntsville
+Downscaling Microwave/Thermal Infrared Coupled Soil Moisture Estimates and Its
+Application to Crop Modeling
+Bailey Morrison (Student); Jonathan Greenberg (Advisor); 
+University of Illinois, Urbana-Champaign
+The Velocity of Tree Cover in California
+David New (Student); Xin-Zhong Liang (Advisor); 
+University of Maryland, College Park
+A Unified Representation of the Planetary Boundary Layer and Shallow Cumulus
+Convection
+Lavanya Periasamy (Student); Albin Gasiewski (Advisor); 
+University of Colorado, Boulder
+Calibration and Validation of the PolarCube 3U Temperature Sounding
+Radiometer Mission
+Michael Polen (Student); Ryan Sullivan (Advisor); 
+Carnegie Mellon University
+Experimental Parameterization of the Emission and Properties of Ice Nuclei from
+Biomass Burning to Improve Interpretations of Satellite-Retrieved Cloud Properties
+John Rollins (Student); Nadia Lapusta (Advisor); 
+California Institute of Technology
+Geodesy-Based Estimates of Loading Rates on Faults Beneath the Los Angeles
+Basin with a New, Computationally Efficient Method to Model Dislocations in 3D
+Heterogeneous Media
+Javier Sanchez (Student); Nga Lee Ng (Advisor); 
+Georgia Institute of Technology
+Measurement of Atmospheric Peroxy Radicals for Constraining Aerosol Formation
+from Isoprene
+Jessica Scheick (Student); Gordon Hamilton (Advisor); 
+University of Maine
+Remote Sensing of Icebergs in Greenland's Fjords and Coastal Waters
+Ryan Scott (Student); Dan Lubin (Advisor); 
+University of California, San Diego
+Cloud Radiative Forcing of the West Antarctic Ice Sheet Surface
+Nader Shakibay Senobari (Student); Gareth Funning (Advisor); 
+University of California, Riverside
+Producing Robust Earthquake Source Models and Earth Models by Reconciling
+Models from InSAR and Seismic Waveform Data
+Stephanie Stevenson (Student); Kristen Corbosiero (Advisor); 
+State University of New York, Albany
+Kinematic and Thermodynamic Analysis of Tropical Cyclone Intensity Changes
+Signaled by Outer Rainband Lightning Activity During NASA's GRIP and HS3
+Missions
+Jamie Sziklay (Student); Megan Donahue (Advisor);
+University of Hawaii
+Predictive Models of Coral Disease in the Hawaiian Archipelago
+Matthieu Talpe (Student); Robert Nerem (Advisor); 
+University of Colorado, Boulder
+Extending the Record of Ice Sheet Melt in Greenland and Antarctica Using Satellite
+Tracking Measurements
+Yumeng Tao (Student); Soroosh Sorooshian (Advisor); 
+University of California, Irvine
+Precipitation Estimation from Multi-Satellite Observations Using Advanced
+Machine Learning Methods
+Jan-Erik Tesdal (Student); Joaquim Goes (Advisor); 
+Columbia University
+Assessing the Impacts of Arctic Sea Ice Melting and Freshwater Flux on
+Phytoplankton Productivity and Carbon Export in the North Atlantic
+Srikanth Toppaladoddi (Student); John Wettlaufer (Advisor); 
+Yale University
+Oceanic Heat Flux and the Fate of Arctic Sea Ice: A Combined Theoretical and
+Observational Study
+Stephen Tuozzolo (Student); Michael Durand (Advisor); 
+Ohio State University
+Determining Controls of Global Runoff from the Upcoming Surface Water and
+Ocean Topography (SWOT) Satellite
+Mollie Van Gordon (Student); Laurel Larsen (Advisor); 
+University of California, Berkeley
+Machine Learning and Information-Entropy Methods Using Remote Sensing Data
+for Understanding Hydrological Dynamics in a Coupled Human-Natural System:
+The Niger River Basin
+Daniel Williams (Student); Michael Ramsey (Advisor); 
+University of Pittsburgh
+Analysis of Proximal Volcanic Emissions
+Tiantian Xiang (Student); Enrique Vivoni (Advisor); 
+Arizona State University
+Improvements in Modeling Regional Land-Atmosphere Interactions and
+Hydrologic Responses in Complex Terrain and Seasonal Ecosystems
+Yuan Xue (Student); Barton Forman (Advisor); 
+University of Maryland, College Park
+Advancing Atmospheric and Forest Decoupling in Passive Microwave Observations
+over Snow Covered Land Using the Advanced Microwave Scanning Radiometer
+(AMSR-E) and the NASA Catchment Land Surface Model
+Ting Yuan (Student); Hyongki Lee (Advisor); 
+University of Houston
+Diffusion Modeling of Water Flow in the Central Congo Floodplain Using Geodetic
+and Remote Sensing Measurements
+Yunjun Zhang (Student); Falk Amelung (Advisor); 
+University of Miami
+Interseismic Deformation from Ionosphere-Corrected L-Band InSAR
+Yiqi Zheng (Student); Nadine Unger (Advisor); 
+Yale University
+Using Relationships Between Photosynthesis and Formaldehyde Column as a Probe
+of Isoprene Emission

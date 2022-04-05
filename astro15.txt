@@ -1,0 +1,34 @@
+Conroy, Kyle (Student); Keivan Stassun (Advisor)
+Vanderbilt University
+Astrophysics of Stellar Triples
+Hadden, Sam (Student); Yoram Lithwick (Advisor)
+Northwestern University, Evanston
+Accurate TTV characterization of Kepler planetary systems, and the implications
+for their dynamics and formation.
+Liang, Jia (Student); Hsiao-Wen Chen (Advisor)
+University Of Chicago
+The Impact of Star Formation & Galactic Environment on the Circumgalactic
+Medium
+McCarrick, Heather (Student); Bradley Johnson (Advisor)
+Columbia University
+Lumped-Element Kinetic Inductance Detectors for Cosmic Microwave Background
+Polarimetry
+Mocz, Philip (Student); Lars Hernquist (Advisor)
+Harvard College
+Moving Mesh Cosmology with Magnetohydrodynamics
+Philippov, Alexander (Student); Anatoly Spitkovsky (Advisor)
+Princeton University
+Particle Acceleration and Emission Processes in Pulsar Magnetospheres
+Ressler, Sean (Student); Eliot Quataert (Advisor)
+University of California, Berkeley
+Improving Electron Thermodynamics in GRMHD Simulations of Black Hole
+Accretion
+Subedi, Hari (Student); N. Kasdin (Advisor)
+Princeton University
+Interferometric Mask for Low-Order Wavefront Sensing
+Ting, Yuan-Sen (Student); Charlie Conroy (Advisor)
+Harvard College
+Unravelling the Formation History of the Milky Way
+Windemuth, Diana (Student); Eric Agol (Advisor)
+University Of Washington, Seattle
+Characterization of Kepler eclipsing binaries and search for circumbinary planets

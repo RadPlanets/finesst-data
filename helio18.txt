@@ -1,0 +1,45 @@
+NASA received a total of 52 applications for the Planetary Science Research Program
+and selected 12 for award. Pending acceptance of the fellowship offer by each applicant
+and their respective institution, the selections are:
+Anders, Evan (Student); Benjamin Brown (Advisor)
+University Of Colorado, Boulder
+Fundamental studies into the solar convective conundrum: Do giant cells exist?
+Badman, Samuel (Student); Stuart Bale (Advisor)
+University of California, Berkeley
+Tracing the Heliospheric Magnetic Field with Time Delay of Arrival Measurements
+of Type III Radio Bursts
+Bert, Christopher (Student); Justin Kasper (Advisor)
+University Of Michigan, Ann Arbor
+Simple Dependence of Proton Temperature on Solar Wind Speed and Compression
+in High Alfven Mach Number Solar Wind
+Holt, Hannah (Student); Jeffrey Thayer (Advisor)
+University Of Colorado, Boulder
+Space Weather Effects on Thermosphere Mass Density Structure
+Khoo, Leng (Student); Xinlin Li (Advisor)
+University Of Colorado, Boulder
+Characterizing the role of innermost plasmapause location in determining the initial
+enhancements of outer belt electrons (keV to MeV)
+Knuth, Trevor (Student); Lindsay Glesener (Advisor)
+University Of Minnesota
+Study of fast time variations in hard x-ray emission from solar flares using EXACT
+and other spacecraft
+Kornbleuth, Marc (Student); Merav Opher (Advisor)
+Boston University
+The Shape of the Heliosphere as Probed by Energetic Neutral Atoms
+Lichko, Emily (Student); Jan Egedal (Advisor)
+University Of Wisconsin, Madison
+Quantifying heating by magnetic pumping through in situ spacecraft observations
+Mukhopadhyay, Agnit (Student); Daniel Welling (Advisor)
+University Of Michigan, Ann Arbor
+Sources of Ionospheric Conductance: Balance and Impacts
+Samaniego, Joseph (Student); Mihaly Horanyi (Advisor)
+University Of Colorado, Boulder
+Development of a Double Hemispherical Langmuir Probe for the Advancement of
+Space Plasma Measurements
+Shumko, Mykhaylo (Student); John Sample (Advisor)
+Montana State University, Bozeman
+Multi-Spacecraft Observations and Modeling of Electron Microburst Precipitation
+And Its Scattering Mechanism
+Singh, Talwinder (Student); Nikolai Pogorelov (Advisor)
+University Of Alabama, Huntsville
+Modeling Coronal Mass Ejections in the Solar Wind Driven by Photospheric Data

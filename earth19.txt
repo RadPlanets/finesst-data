@@ -1,0 +1,330 @@
+Earth Science 
+ 
+Jeffrey Basara (PI); Ryann Wakefield (FI) 
+University of Oklahoma, Norman 
+Evaluating the Contributions of Local and Non-Local Land-Atmosphere Coupling to Flash 
+Drought Evolution and Prediction 
+19-EARTH19-0321 
+ 
+Kay Bidle (PI); Ben Diaz (FI) 
+Rutgers University, New Brunswick 
+Impact of Aerosolized Viruses on Warm and Ice Cloud Processes 
+19-EARTH19-0183 
+ 
+Phillip Bitzer (PI); Christopher Gerlach (FI) 
+University Of Alabama, Huntsville 
+A Deep Learning-Based Data Analysis Architecture for the Geostationary Lightning 
+Mapper 
+19-EARTH19-0317 
+ 
+Stephanie Bohlman (PI); Christine Swanson (FI) 
+University of Florida, Gainsville 
+Effects of Dams on Riparian Vegetation in the Amazon: Cumulative Impacts and Linkages to Hydrology 
+19-EARTH19-0241 
+ 
+Emily Brodsky (PI); Kelian Dascher-Cousineau (FI) 
+University of California, Santa Cruz 
+Large Scale Detection of Fault Damage 
+19-EARTH19-0286 
+ 
+Roland Burgmann (PI); Yuexin Li (FI) 
+University of California, Berkeley 
+Probing the Dynamics of Creeping Faults Using InSAR: A Case Study of the Xianshuihe Fault 
+19-EARTH19-0089 
+ 
+Neil Carter (PI); Alexander Killion (FI) 
+University of Michigan, Ann Arbor 
+Utilizing NASA's GEDI Mission to Characterize Habitat Structure for Wildlife Research 19-EARTH19-0443 
+ 
+Shuyi Chen (PI); Benjamin Barr (FI) 
+University of Washington, Seattle 
+Sea Spray and Air-Sea Fluxes: Key Elements in Earth System Modeling and Prediction of 
+Weather and Climate 
+19-EARTH19-0121 
+ 
+Roisin Commane (PI); Sarah Ludwig (FI) 
+Columbia University 
+Hierarchical Scaling of Carbon Fluxes from Terrestrial-Aquatic Interfaces in the Arctic 19-EARTH19-0368 
+ 
+Larry Di Girolamo (PI); Rose Miller (FI)
+University of Illinois, Urbana-Champaign 
+The Impact of Biomass Burning Aerosols on Cloud Properties as Derived From NASA 
+Field Campaigns and Satellite Products 
+19-EARTH19-0373 
+Francina Dominguez (PI); Divyansh Chug (FI)
+University of Illinois, Urbana-Champaign 
+Isolating the Influence of Land Surface Variability and Change on the Climate of 
+Southeastern South America 
+19-EARTH19-0230 
+ 
+Michael Durand (PI); Stephen Coss (FI) 
+Ohio State University 
+Are Global Models Correctly Representing Water Storage in Major River Basins? A 
+Comparison of Modeled and Measured Channel Water Storage 
+19-EARTH19-0305 
+ 
+Atri Dutta (PI); Pardhasai Chadalavada (FI) 
+Wichita State University 
+Continuous Monitoring of Hurricanes Using RaIn CubeSats 
+19-EARTH19-0424 
+ 
+Ardeshir Ebtehaj (PI); Lun Gao (FI) 
+University of Minnesota 
+Physically Constrained Inversion of the First-Order Radiative Transfer Equations for 
+High-Resolution Retrievals of Soil Moisture and Vegetation Water Content Using SMAP Data 
+19-EARTH19-0110 
+ 
+Jan Eitel (PI); Andrew Maguire (FI) 
+University of Idaho, Moscow 
+Toward an Improved Understanding of the Mechanisms Driving Solar Induced 
+Chlorophyll Fluorescence Across the Structurally Complex Forest-Tundra Ecotone 
+19-EARTH19-0152 
+ 
+Stephan Fueglistaler (PI); Shiv Priyam Raghuraman (FI) 
+Princeton University 
+Recent Cloud Radiative Effect Anomalies and Trends in CERES Observations: 
+Quantifying the Importance of Changes in Cloud Properties 
+19-EARTH19-0379 
+ 
+Sarah Gille (PI); Luke Kachelein (FI) 
+University of California, San Diego 
+Non-Stationary Internal Tides in the Upper Ocean: Detection, Prediction, and Implications for SWOT and Other Future NASA Missions 
+19-EARTH19-0153 
+ 
+Colin Gleason (PI); Merritt Harlan (FI) 
+University of Massachusetts, Amherst 
+Rapid Discharge Estimation and SWOT Validation in Remote Areas Through UAV and Surface Observations 
+19-EARTH19-0063 
+ 
+Scott Goetz (PI); Kathleen Orndahl (FI) 
+Northern Arizona University 
+Multi-Scale Investigation of Barrenground Caribou - Vegetation Interactions Across Arctic 
+North America  
+19-EARTH19-0112 
+Award Declined 
+ 
+Deanna Hence (PI); Jeffrey Thayer (FI)
+University of Illinois, Urbana-Champaign 
+Influence of Tropical Cyclone and Westerly Wind Burst Interactions on MJO Convection in the Indian Ocean Using TRMM, QuikSCAT/ASCAT, and High-Resolution Simulations 19-EARTH19-0307 
+ 
+Christopher Holmes (PI); Charles Fite (FI) 
+Florida State University 
+Forecasting and Impacts of Prescribed Fires on Air Quality Using Satellites, Models, and 
+FIREX-AQ 
+19-EARTH19-0351 
+ 
+John Holt (PI); Brandon Tober (FI) 
+University of Arizona 
+A New Regional View of Alaskan Glaciers:  Bed Elevation, Ice Thickness, and Flux 
+19-EARTH19-0262 
+ 
+William Holt (PI); Jeonghyeop Kim (FI) 
+State University of New York, Stony Brook 
+Analysis of Climate-Related Stress Changes in the Western U.S. Inferred from Satellite-
+Based Data and Its Correlation with Seismicity 
+19-EARTH19-0335 
+ 
+Chuanmin Hu (PI); Yingjun Zhang (FI) 
+University of South Florida, Tampa 
+Sub-Mesoscale Eddies Derived from Novel Ocean Color Imagery and ICESat Missions in 
+Support of the SWOT Mission 
+19-EARTH19-0277 
+ 
+Xianglei Huang (PI); Colten Peterson (FI) 
+University of Michigan, Ann Arbor 
+Improving Arctic Cloud Phase Retrievals Using Far-Infrared Radiances 
+19-EARTH19-0094 
+ 
+Peter Huybers (PI); Ted Amdur (FI)
+Harvard College 
+Using Linear Mixed Effects Modeling to Improve Stability of Total Solar Irradiance Reconstructions 
+19-EARTH19-0060 
+ 
+Alexandra Jahn (PI); Abigail Smith (FI) 
+University of Colorado, Boulder 
+Using a Satellite Simulator to Better Evaluate and Understand Arctic Sea Ice Melt 
+19-EARTH19-0027 
+ 
+David Johnston (PI); Patrick Gray (FI)
+Duke University 
+Monitoring Hurricane Impacts and Understanding Coastal Ecosystem Resilience Using 
+Deep Learning and a Tip-and-Cue Approach to Integrate Satellites and Drones 
+19-EARTH19-0322 
+ 
+Andrew Juhl (PI); Elise Myers (FI) 
+Columbia University 
+Modeling Fecal Indicator Bacteria Persistence in Turbid Rivers Using Satellite Data 
+19-EARTH19-0371 
+ 
+Christina Karamperidou (PI); Madeline McKenna (FI)
+University of Hawaii, Honolulu 
+The Impact of ENSO Flavors on Atmospheric Blocking Occurrence and Interhemispheric 
+Atmospheric Pathways 
+19-EARTH19-0189 
+ 
+Jasper Kok (PI); Yue Huang (FI) 
+University of California, Los Angeles 
+Improving Optical Properties of Aspherical Dust for NASA Satellite and Ground-Based 
+Instrument Applications 
+19-EARTH19-0179 
+ 
+Steven Krueger (PI); Xia Li (FI) 
+University of Utah, Salt Lake City 
+Modulation of Low Clouds by Arctic Wintertime Leads 
+19-EARTH19-0240 
+ 
+Christian Kummerow (PI); Richard Schulte (FI) 
+Colorado State University 
+Improving Satellite Retrievals of High Latitude Precipitation with Better Constraints on 
+Drop Size Distributions 
+19-EARTH19-0033 
+ 
+Venkat Lakshmi (PI); Hyunglok Kim (FI) 
+University of Virginia, Charlottesville 
+Diurnal Soil Moisture Using Satellite Observations and Data Assimilation 19-EARTH19-0131 
+ 
+Laurel Larsen (PI); Rosanna Neuhausler (FI) 
+University of California, Berkeley 
+Spatiotemporal Investigation of Reef Resilience in the Pacific Ocean in the 2014 - 2017 
+Bleaching Event and Its Significance For Pacific Fisheries 
+19-EARTH19-0439 
+ 
+Jan Lenaerts (PI); Devon Dunmire (FI) 
+University of Colorado, Boulder 
+Subsurface Lake Formation, Drainage, and Impacts on Antarctic Ice Sheet Stability 
+19-EARTH19-0070 
+ 
+Jeremy Lichstein (PI); Elizabeth Webb (FI) 
+University of Florida, Gainsville 
+Vegetation Dynamics as Drivers of Albedo Change in Northern High Latitude Ecosystems 19-EARTH19-0157 
+ 
+David Long (PI); Michael Walton (FI) 
+Brigham Young University 
+Designing a Constellation of Nanosatellite Scatterometers to Globally Measure Near 
+Hourly Ocean Vector Winds 
+19-EARTH19-0369 
+ 
+Zhengzhao Luo (PI); Sofia Chelpon (FI) 
+City College of New York 
+A Tropospheric Transport Diagnostic for Chemistry-Climate Models 
+19-EARTH19-0239 
+ 
+Katherine Mackey (PI); Joana Tavares-Reager (FI) 
+University of California, Irvine 
+Quantifying Global and Regional Impacts of Ship Emissions on Marine Phytoplankton Using Merra-2 and Other NASA Products 
+19-EARTH19-0151 
+ 
+Amala Mahadevan (PI); Jing He (FI) 
+Woods Hole Oceanographic Institution 
+Predicting Source Depth and Primary Productivity in Coastal Upwelling Regions 
+19-EARTH19-0192 
+ 
+Venkatesh Merwade (PI); Alka Tiwari (FI)
+Purdue University 
+Improving Post-Hurricane Flood Modeling Utilizing Recent Satellite Products 
+19-EARTH19-0287 
+ 
+Peter Minnett (PI); Bingkun Luo (FI) 
+University of Miami, Key Biscayne 
+Aerosol Information from CALIPSO and MERRA-2 to Improve Infrared SST 
+19-EARTH19-0052 
+ 
+Larry O'Neill (PI); Robert Jacobs (FI) 
+Oregon State University 
+Latitudinal Circulation Analysis through Ocean Wind Vector Derivative Fields 
+19-EARTH19-0388 
+ 
+Tamlin Pavelsky (PI); Wayana Dolan (FI) 
+University of North Carolina, Chapel Hill 
+Optical Remote Sensing of Deltaic Floodplain Lake Connectivity and Resulting Impacts on 
+Lake Ice Duration and Methane Storage in a Changing Arctic 
+19-EARTH19-0166 
+ 
+Eric Post (PI); Christian John (FI) 
+University of California, Davis 
+High-Resolution Landscape Phenology and Implications for Ungulate Movement and 
+Migration 
+19-EARTH19-0281 
+ 
+Matthew Pritchard (PI); Patricia MacQueen (FI)
+Cornell University 
+Integrating Satellite InSAR and Ground Observations into Self-Consistent Thermo Mechanical Models of an Evolving Trans-Crustal Magma System 
+19-EARTH19-0145 
+ 
+Yahya Rahmat-Samii (PI); Anastasios Papathanasopoulos (FI) 
+University of California, Los Angeles 
+Novel Metamaterial Inhomogeneous Lens Antennas for Next-Generation Spaceborne Wind Scatterometer Weather Radar Satellites 
+19-EARTH19-0186 
+ 
+Scott Saleska (PI); Shuli Chen (FI) 
+University of Arizona 
+The Other Side of Drought: Why Do Some Amazon Forests Green-Up During Droughts While Others Do Not? Integrating Multi-Satellite Remote Sensing with Field Observations to Reveal the Mechanistic Controls on Tropical Evergreen Forest Photosynthesis 
+19-EARTH19-0431 
+ 
+David Shean (PI); Shashank Bhushan (FI) 
+University of Washington, Seattle 
+Using High-Resolution Satellite Observations to Understand Glacier Mass Balance and 
+Dynamics in High-Mountain Asia 19-EARTH19-0132 
+ 
+Eric Small (PI); Eric Smyth (FI) 
+University of Colorado, Boulder 
+Improving Estimates of Snow Density and Water Equivalent by Assimilating Remotely 
+Sensed Snow Depth Data 
+19-EARTH19-0393 
+ 
+Laurence Smith (PI); Jessica Fayne (FI) 
+University of California, Los Angeles 
+Analysis of Ka-Band Radar for SWOT Hydrology 
+19-EARTH19-0433 
+ 
+Laurence Smith (PI); Ethan Kyzivat (FI) 
+Brown University 
+Hidden Lakes: High Resolution Water Mapping and Methane Emissions Over the ABoVE 
+Domain 
+19-EARTH19-0299 
+ 
+William Smith (PI); Xian Wang (FI) 
+University of Arizona 
+Advancing Understanding of Dryland Carbon Uptake Using Novel Remote Sensing Techniques 
+19-EARTH19-0119 
+ 
+Jeffrey Thayer (PI); Benjamin Wise (FI)
+University of Colorado 
+Advancing LiDAR Bathymetry Through ICESAT-2 Analysis and Airborne 
+Experimentation 
+19-EARTH19-212 
+ 
+Aaron Wirsing (PI); Lauren Satterfield (FI) 
+University of Washington, Seattle 
+Fighting Fire with Four Hooves: Effects of Carnivore-Herbivore Interactions on Fuel 
+Characteristics and Fire Severity 
+19-EARTH19-0117 
+ 
+Ping Yang (PI); Jeffrey Mast (FI) 
+Texas A & M, College Station 
+Remote Sensing of Ice Cloud Properties Using CLARREO-Like Spectrally Resolved 
+Reflected Solar and Infrared Radiances 
+19-EARTH19-0003 
+ 
+Christopher Zappa (PI); Una Miller (FI) 
+Columbia University 
+Integration of Satellite and In-Situ Observations to Investigate the Evolution of High Salinity Shelf Water in the Terra Nova Bay Polynya, Antarctica 
+19-EARTH19-0188 
+ 
+Phoebe Zarnetske (PI); Beth Gerstner (FI) 
+Michigan State University 
+Using Geodiversity and Community Ecology to Improve Species Conservation Assessments in Biodiversity Hotspots 
+19-EARTH19-0096 
+ 
+Zhibo Zhang (PI); Qianqian Song (FI) 
+University of Maryland Baltimore County 
+Investigate the Radiative and Microphysical Effects of Above-Cloud Dust Aerosols in 
+North-East Atlantic 
+19-EARTH19-0171 
+ 
+Yuyu Zhou (PI); Lin Meng (FI) 
+Iowa State University, Ames 
+Disentangling the Effects of Nighttime Lights and Temperature on Urban Phenology Using 
+Remote Sensing Data 
+19-EARTH19-0252 
+ 

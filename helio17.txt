@@ -1,0 +1,47 @@
+The names of the students and their faculty advisors, institutions, and proposal titles of
+the 2017 NESSF selections are listed below by one of the four SMD science divisions.
+The announcement for 2018 NESSF is anticipated in November 2017. The release will be
+posted at http://nspires.nasaprs.com/external/, and the deadline for submission of new
+applications to NASA will be February 1, 2018.
+Inquiries about the program may be directed to:
+Program Manager for NESSF Earth Science Research – Claire Macaulay at 202/358-
+0151 or by E-mail at claire.i.macaulay@nasa.gov.
+Program Manager for NESSF Heliophysics Research, Planetary Science Research, and
+Astrophysics Research – Marian Norris at (202) 358-4452 or by E-mail at
+mnorris@nasa.gov
+Heliophysics NESSF17 Selections
+NASA received a total of 41 applications for the Heliophysics Research Program and
+selected 9 for award. Pending acceptance of the fellowship offer by each applicant and
+their respective institution, the selections are:
+Juno, James (Student); Jason TenBarge (Advisor)
+University of Maryland, College Park
+Continuum kinetic studies of turbulence in the heliosphere
+Molina, Ivana (Student); Ludger Scherliess (Advisor)
+Utah State University
+Stormtime thermospheric neutral winds obtained from a data assimilation model
+Shi, Tong (Student); Ward Manchester (Advisor)
+University Of Michigan, Ann Arbor
+Simulating the Initiation and Liftoff Phases of CMEs with Comparisons to
+Spectroscopic Observations
+Shi, Xueling (Student); John Ruohoniemi (Advisor)
+Virginia Polytechnic Institute & State University
+A Survey of Ionospheric ULF Wave Signatures: Occurrence Statistics and Driving
+Mechanisms
+Sivadas, Nithin (Student); Joshua Semeter (Advisor)
+Boston University
+Simultaneous measurements of substorm electron energization in the ionosphere
+and the plasma sheet
+Smart, Roy (Student); Charles Kankelborg (Advisor)
+Montana State University, Bozeman
+Neural Networks for Computed Tomography Imaging Spectroscopy of the Solar
+Atmosphere
+Tang, Bofeng (Student); Gary Zank (Advisor)
+University Of Alabama, Huntsville
+The Transport of Electrons and Electron Heat Flux in the Solar Wind
+Vievering, Juliana (Student); Lindsay Glesener (Advisor)
+University Of Minnesota
+High-Sensitivity Hard X-ray Observations of Solar and Stellar Flares with FOXSI
+and NuSTAR
+Zhang, Kun (Student); Xinlin Li (Advisor)
+University Of Colorado, Boulder
+Quantifying the Precipitation Loss of Energetic Electrons in the Radiation Belt

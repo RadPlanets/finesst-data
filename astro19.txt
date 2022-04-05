@@ -1,0 +1,86 @@
+Jacob Bean (PI); Megan Mansfield (FI) 
+University Of Chicago 
+A Complete Census of Spitzer's Exoplanet Phase Curve Observations 19-ASTRO19-0064 
+ 
+Judd Bowman (PI); Nivedita Mahesh (FI) 
+Arizona State University 
+Lunar Radio Prototype array for Exoplanet and Cosmology Studies. 
+19-ASTRO19-0089 
+Michael Briggs (PI); Jared Fuchs (FI) 
+University Of Alabama, Huntsville 
+Development of a Gamma-Ray Burst Detector 19-ASTRO19-0059 
+ 
+Nickolay Gnedin (PI); Huanqing Chen (FI) 
+University Of Chicago 
+Galaxies around Quasars in Cosmic Reionization 19-ASTRO19-0007 
+ 
+Sylvain Guiriec (PI); Alyson Barker (FI) 
+George Washington University 
+The Characterization and Calibration of BurstCube: a CubeSat for GravitationalWave Counterparts 19-ASTRO19-0136 
+ 
+Jay Howk (PI); Michelle Berg (FI) 
+University Of Notre Dame 
+The Role of Dense Circumgalactic Gas in Shaping Galaxies 19-ASTRO19-0012 
+ 
+Daniel Huber (PI); Travis Berger (FI) 
+University of Hawaii, Honolulu 
+Revealing the Radius, Metallicity and Age Demographics of Kepler Exoplanets in the Gaia Era 19-ASTRO19-0186 
+ 
+Dong Lai (PI); Yubo Su (FI) 
+Cornell University 
+Nonlinear Tidal Dissipation in Binary White Dwarfs 19-ASTRO19-0041 
+ 
+Davide Lazzati (PI); Tyler Parsotan (FI) 
+Oregon State University 
+Demystifying the Interplay between Explosion Dynamics and Electromagnetic Radiation in Gamma Ray Bursts 19-ASTRO19-0006 
+ 
+Bret Lehmer (PI); Lacey West (FI) 
+University of Arkansas, Fayetteville 
+The Evolution of X-ray Binaries and their Accretion States 19-ASTRO19-0120 
+ 
+ 
+ 
+Michael Line (PI); Joseph Zalesky (FI) 
+Arizona State University 
+Characterizing the Atmospheres of Brown Dwarfs in the Era of JWST with Spectral Retrieval 19-ASTRO19-0149 
+ 
+Raffaella Margutti (PI); Aprajita Hajela (FI) 
+Northwestern University, Evanston 
+Exploring and Investigating the Physics of Time-Domain Multi-Messenger Astronomy across the Electromagnetic Spectrum and Beyond 19-ASTRO19-0158 
+ 
+Dimitri Mawet (PI); Daniel Echeverri (FI) 
+California Institute of Technology 
+Enabling Exoplanet Characterization Within the Diffraction Limit with Vortex Fiber Nulling 19-ASTRO19-0171 
+ 
+Benjamin Oppenheimer (PI); Ryan Horton (FI) 
+University Of Colorado, Boulder 
+Revealing the Gas Dynamics of Galaxy Assembly and Evolution 19-ASTRO19-0154 
+ 
+Casey Papovich (PI); Vicente Estrada-Carpenter (FI) 
+Texas A & M, College Station 
+Examining the Assembly History of the Universe Using Large Grism Datasets 19-ASTRO19-0122 
+ 
+Steven Rodney (PI); Justin Roberts-Pierel (FI) 
+University of South Carolina 
+Optimizing WFIRST Surveys: Precision Cosmology with Gravitationally Lensed Supernovae 19-ASTRO19-0102 
+ 
+Roger Romani (PI); Abel Peirson V (FI) 
+Stanford University 
+Improving X-ray Polarization Sensitivity and an IXPE Application to the physics of Blazar Jets 19-ASTRO19-0010 
+ 
+David Schiminovich (PI); Barbara Cruvinel Santiago (FI) 
+Columbia University 
+From Intergalactic Filaments to Quantum Lattices: Advancement of UV Technologies to Study Cosmic Structure 19-ASTRO19-0145 
+Philip von Doetinchem (PI); Cory Gerrity (FI) 
+University of Hawaii, Honolulu 
+Dark matter search with the GAPS experiment 19-ASTRO19-0190 
+ 
+Jessica Werk (PI); Natalie Sanchez (FI) 
+University Of Washington, Seattle 
+Tracing Metal Flows in Cosmological Simulations 19-ASTRO19-0021 
+ 
+Katherine Whitaker (PI); Mohammad Akhshik (FI) 
+University of Connecticut, Storrs 
+REQUIEM2D: REsolving QUIEscent Magnified Galaxies with 2D Grism Spectroscopy 19-ASTRO19-0139 
+ 
+ 

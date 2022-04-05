@@ -1,0 +1,335 @@
+Charles Abolt (Student); Michael Young (Advisor)
+University of Texas at Austin
+Feedbacks Between Topography and Three-Dimensional Fluxes of Energy, Water
+and Carbon in Ice Wedge Polygons
+17-EARTH17F-0077
+Elizabeth Agee (Student); Valeriy Ivanov (Advisor)
+University of Michigan
+Drought Resilience and Interannual Variability of Evapotranspiration of Amazon
+Rainforest
+17-EARTH17F-0084
+Karen An (Student); Yongwei Sheng (Advisor)
+University of California, Los Angeles
+Improving Understanding and Monitoring of Levee Seepage and Subsidence Using
+PolSAR and InSAR for Disaster Risk Management in the Sacramento-San Joaquin
+Delta
+17-EARTH17F-0151
+Andre Antunes de Sa (Student); Robert Marshall (Advisor)
+University of Colorado, Boulder
+Prevalence of Distinct Energetic Intra-Cloud Lightning Events and Their
+Connection to Terrestrial Gamma Ray Flashes
+17-EARTH17F-0060
+Arachaporn Anutaliya (Student); Janet Sprintall (Advisor)
+University of California, San Diego
+The Circulation in the Low Latitude Western Boundary Current in the Solomon
+Sea of the South Pacific
+17-EARTH17F-0021
+Adam Bell (Student); Ping Yang (Advisor)
+Texas A&M University, College Station
+Remote Sensing of Ice Cloud Properties Using High Frequency Sub-Millimeter and
+Thermal Infrared Wave Radiometry
+17-EARTH17F-0079
+Daniel Bishop (Student); Park Williams (Advisor)
+Columbia University
+Attributing the Causes of a Century of Wetting in the Eastern United States Using
+Observations, Models, and Tree Rings
+17-EARTH17F-0038
+Matthew Bonnema (Student); Faisal Hossain (Advisor)
+University of Washington
+Combining Future SWOT Observations with Current Array of Earth Observing
+Satellites to Better Understand Global Reservoir Dynamics
+17-EARTH17F-0017
+Victoria Buford (Student); Nadine McQuarrie (Advisor)
+University of Pittsburgh
+Determining Earthquake Hazards from Structural and Geomorphologic Forward
+Modelling in Southern Peru and Northern Bolivia
+17-EARTH17F-0075
+Paula Burgi (Student); Rowena Lohman (Advisor)
+Cornell University
+Quantifying Bias Introduced by Vegetation in InSAR Studies of Ground
+Deformation and Surface Processes
+17-EARTH17F-0284
+Kamal Chandrakar (Student); Raymond Shaw (Advisor)
+Michigan Technological University
+Aerosol Indirect Effects on Optical Properties of Turbulent Clouds
+17-EARTH17F-0024
+Kai-Wei Chang (Student); Tristan L'Ecuyer (Advisor)
+University of Wisconsin-Madison
+The Role of Cirrus Radiative Heating in Stratosphere-Troposphere Water Vapor
+Exchange
+17-EARTH17F-0330
+Randy Chase (Student); Stephen Nesbitt (Advisor)
+University of Illinois at Urbana-Champaign
+Use of GPM Field Campaign In-Situ Cloud Measurements to Evaluate Precipitation
+Retrieval Assumptions
+17-EARTH17F-0189
+Randall Chiu (Student); Rainer Volkamer (Advisor)
+University of Colorado, Boulder
+Measurements of Weak Visible Absorption Lines of Water and O2-O2:
+Improvements to DOAS Reference Spectra and HITRAN
+17-EARTH17F-0208
+Youngmin Choi (Student); Mathieu Morlighem (Advisor)
+University of California, Irvine
+Improving the Northeast Greenland Ice Loss Projection by Assimilation of Remote
+Sensing Data
+17-EARTH17F-0059
+Matthew Cooper (Student); Laurence Smith (Advisor)
+University of California, Los Angeles
+Near Surface Ice Permeability and Meltwater Retention in the Greenland Ice Sheet
+Ablation Zone
+17-EARTH17F-0135
+Jie Dai (Student); Li An (Advisor)
+San Diego State University
+Mapping and Modeling the Invasion of Mikania Micrantha in Chitwan Community
+Forests, Nepal: A Coupled Human and Natural Systems Approach
+17-EARTH17F-0337
+Byron Davis (Student); Brian Gunter (Advisor)
+Georgia Tech Research Corporation
+Expanding the Use of Small-Satellite Constellations for Remote Sensing Through
+Improved Orbit Determination
+17-EARTH17F-0232
+Ana de Figueiredo Melo Villas Boas (Student); Sarah Gille (Advisor)
+University of California, San Diego
+The Impact of Surface Gravity Waves on the Upper Ocean Dynamics
+17-EARTH17F-0020
+Fanghui Deng (Student); Timothy Dixon (Advisor)
+University of South Florida, Tampa
+Links Between Induced Earthquakes and Fluid Injection: Quantifying Volumetric
+Strain and Pore Pressure Due to Fluid Injection with Time Series InSAR
+Observations
+17-EARTH17F-0323
+Courtney Di Vittorio (Student); Aris Georgakakos (Advisor)
+Georgia Tech Research Corporation
+Using Satellite Information to Improve Hydrologic Modeling and Water Resources
+Management
+17-EARTH17F-0227
+Michael Diamond (Student); Robert Wood (Advisor)
+University of Washington, Seattle
+Transport Pathways for Biomass Burning Aerosol into the Namibian Stratocumulus
+Deck
+17-EARTH17F-0027
+Nicholas Elmer (Student); John Mecikalski (Advisor)
+University of Alabama, Huntsville
+Assimilation of SWOT Observations into the Operational National Water Model
+17-EARTH17F-0181
+Zachary Fair (Student); Xianglei Huang (Advisor)
+University of Michigan, Ann Arbor
+Response of Modeled Far-IR Flux and Emissivity to Greenland Clouds and Ice
+Sheet Melt
+17-EARTH17F-0101
+Chloe Gao (Student); Konstantinos Tsigaridis (Advisor)
+Columbia University
+The Impact of Organic Aerosol Volatility on Aerosol Microphysics for Global
+Climate Modeling Applications
+17-EARTH17F-0085
+Kelly Graham (Student); Christopher Holmes (Advisor)
+Florida State University
+Arctic CO2 in a Changing Climate: Constraints on Fluxes and Transport from
+Remote Sensing, In Situ Measurements, and Modeling
+17-EARTH17F-0239
+Xuehui Guo (Student); Mark Zondlo (Advisor)
+Princeton University
+Understanding Tropospheric Ammonia Through Remote Sensing Measurements
+17-EARTH17F-0180
+Kangning Huang (Student); Karen Seto (Advisor)
+Yale University
+Modeling the Water Requirement for Urban Heat Island Mitigation with Multi-
+Sensor and Multi-Temporal Remote Sensing Data
+17-EARTH17F-0197
+Ginikanda Ilangakoon (Student); Nancy Glenn (Advisor)
+Boise State University
+Evaluation of Spatial Trends in Biomass and LAI in Heterogeneous Tree-Shrub
+Ecotones
+17-EARTH17F-0209
+Mylene Jacquemart (Student); Kristy Tiampo (Advisor)
+University of Colorado, Boulder
+Geodetic Analysis of Landslide Hazards: Improving our Understanding and
+Assessment of Landslide Hazards in the Face of Climate Change
+17-EARTH17F-0023
+Julie Jakoboski (Student); W. Owens (Advisor)
+Woods Hole Oceanographic Institution
+Local and Regional Dynamics Influencing Upwelling at the Galápagos Archipelago
+17-EARTH17F-0169
+Kat Jensen (Student); Kyle McDonald (Advisor)
+The City College of New York
+Monitoring Tropical Wetlands with GNSS Reflectometry: Integrating CYGNSS
+with Imaging Radar and Coarse Resolution Microwave Remote Sensing
+17-EARTH17F-0237
+Tong Jiao (Student); Christopher Williams (Advisor)
+Clark University
+Vegetation Decline and Recovery from the Millennium Drought in Australia:
+Novel Quantitative Analysis with Multi-Sensor and Higher Resolution Data
+17-EARTH17F-0236
+Mostafa Khoshmanesh (Student); Manoochehr Shirzaei (Advisor)
+Arizona State University
+Mechanism of Slow Slip Events on San Andreas Fault: Constraints from Geodesy
+and Seismology
+17-EARTH17F-0216
+Christopher Krapu (Student); Mukesh Kumar (Advisor)
+Duke University
+Mapping Spatio-Temporal Variability of Prairie Wetlands
+17-EARTH17F-0218
+Brian Lamb (Student); Maria Tzortziou (Advisor)
+City University of New York
+Tidal Wetland Inundation and Vegetation Phenology from Space - A Novel
+Approach for Characterizing Ecological Health and Carbon Exchanges in Coastal
+Wetlands
+17-EARTH17F-0347
+Shirley Leung (Student); LuAnne Thompson (Advisor)
+University of Washington, Seattle
+Combining Satellite and In Situ Data with CMIP5 to Illuminate Present and Uture
+Drivers of Tropical Pacific Dissolved Oxygen Variability
+17-EARTH17F-0032
+Sam Levang (Student); Raymond Schmitt (Advisor)
+Woods Hole Oceanographic Institution
+Improving the Ocean Rain Gauge: A Quantification of Global Mixed-Layer Salt
+Transports
+17-EARTH17F-0057
+Nathaniel Levitan (Student); Barry Gross (Advisor)
+City College of New York
+Improving Retrievals of Plant Canopy Variables from Remote Sensing Data
+17-EARTH17F-0094
+Brianna Lind (Student); Niall Hanan (Advisor)
+New Mexico State University
+Quantifying Ecosystem Effects of Termite Mounds Using Moderate and High
+Resolution Satellite Imagery
+17-EARTH17F-0366
+Elodie Macorps (Student); Sylvain Charbonnier (Advisor)
+University of South Florida, Tampa
+Enhancing Digital Elevation Models and Mitigation of Mass Flow Hazards at Active
+Volcanoes
+17-EARTH17F-0279
+Suzanne Marselis (Student); Ralph Dubayah (Advisor)
+University of Maryland
+Characterizing Tropical Ecotones with GEDI: A Case-Study in Gabon Using Data
+from the AfriSAR Experiment
+17-EARTH17F-0206
+Hunter McClelland (Student); Craig Woolsey (Advisor)
+Virginia Polytechnic Institute & State University
+Mapping Atmospheric Coherent Structures with Unmanned Aircraft Systems
+17-EARTH17F-0393
+Katie McMenamin (Student); Robert Nerem (Advisor)
+University of Colorado, Boulder
+Determining the Acceleration of Global Mean Sea Level from 25 Years of Satellite
+Altimetry
+17-EARTH17F-0290
+Lynn Montgomery (Student); Lora Koenig (Advisor)
+University of Colorado, Boulder
+Hidden Water: Investigating the Greenland Firn Aquifer and Implications for Sea
+Level
+17-EARTH17F-0095
+Lipi Mukherjee (Student); Pengwang Zhai (Advisor)
+University of Maryland, Baltimore County
+Development of a Consummate Semi-Analytical Model for Polarized Ocean
+Reflectance
+17-EARTH17F-0196
+Arnaldo Negron Marty (Student); Athanasios Nenes (Advisor)
+Georgia Tech Research Corporation
+Understanding the Link Between Atmospheric Stressors and Speciated Bioaerosols
+Abundance and Lifecycle
+17-EARTH17F-0307
+Robert Nystrom (Student); Fuqing Zhang (Advisor)
+Pennsylvania State University
+Improving the Predictability and Understanding of Tropical Cyclones: Ensemble
+Assimilation of All-Sky Satellite Observations
+17-EARTH17F-0184
+Youmi Oh (Student); Qianlai Zhuang (Advisor)
+Purdue University
+High Affinity Methanotrophs Are an Important Overlooked Methane Sink
+in the Pan-Arctic Methane Budget
+17-EARTH17F-0318
+Eric Palm (Student); Mark Hebblewhite (Advisor)
+University of Montana, Missoula
+From Animal Movement to Ecosystem Services: Scaling-up to Ecosystem-Scale
+Spatially-Explicit Demographic Models for Caribou
+17-EARTH17F-0265
+Ryan Peabody (Student); M. Susan Lozier (Advisor)
+Duke University
+High Primary Productivity in the Absence of Ekman Upwelling: A New Paradigm
+for Nutrient Supply in the Intergyre North Atlantic
+17-EARTH17F-0117
+Alexa Putnam (Student); Robert Nerem (Advisor)
+University of Colorado, Boulder
+Overcoming Challenges in SAR Altimetry to Maintain Climate Record Continuity
+17-EARTH17F-0289
+Allison Rhea (Student); Tim Covino (Advisor)
+Colorado State University
+Using Landsat Imagery to Monitor the Effects of Landscape Recovery on Nutrient
+Export in Fire-Affected Watersheds
+17-EARTH17F-0121
+Ajda Savarin (Student); Shuyi Chen (Advisor)
+University of Miami, Key Biscayne
+Diurnal Variability of Precipitation over the Maritime Continent and Its
+Relationship to the MJO
+17-EARTH17F-0238
+Neesha Schnepf (Student); Anne Sheehan (Advisor)
+University of Colorado, Boulder
+Estimating Temporal Variations in Ocean Circulation Using Magnetic Satellite
+Data
+17-EARTH17F-0039
+Karl Seltzer (Student); Drew Shindell (Advisor)
+Duke University
+Quantifying and Minimizing Dis-Benefits to Air Quality in Climate Policy Using the
+NASA GISS ModelE2
+17-EARTH17F-0107
+Apoorva Shastry (Student); Michael Durand (Advisor)
+Ohio State University
+Utilizing Flood Inundation Observations to Obtain Floodplain Topography in Data-
+Scarce Regions for Use in a Hydrodynamic Model
+17-EARTH17F-0273
+Anamika Shreevastava (Student); Dev Niyogi (Advisor)
+Purdue University
+Analysis of the Spatio-Temporal Dynamics of Intra-Urban High Heat Stress Zones
+During a Heat Wave
+17-EARTH17F-0352
+Radost Stanimirova (Student); Mark Friedl (Advisor)
+Boston University
+Dynamics of Global Rangelands: Modeling Vulnerabilities and Monitoring Impacts
+from Humans and Climate Change
+17-EARTH17F-0052
+Emanuel Storey (Student); Douglas Stow (Advisor)
+San Diego State University
+Uncoupling Fire and Drought Impacts on Chaparral
+17-EARTH17F-0342
+Ana Thome Sena (Student); Gudrun Magnusdottir (Advisor)
+University of California, Irvine
+The South American Monsoon System, Its Interannual and Intraseasonal
+Variability, Its Forcings and Relation to the ITCZ
+17-EARTH17F-0071
+James Thompson (Student); Michael Ramsey (Advisor)
+University of Pittsburgh
+Improving Thermal Modeling of Effusive Volcanism: Quantifying the Variability in
+Radiant Emission from Active Lava Flows and Lakes
+17-EARTH17F-0035
+Anthony Torres (Student); Gretchen Keppel-Aleks (Advisor)
+University of Michigan, Ann Arbor
+Quantifying Drivers of Sub-Seasonal Variations in Total Carbon Column Dioxide
+for Improved Flux Estimation
+17-EARTH17F-0132
+Laura Twardochleb (Student); Phoebe Zarnetske (Advisor)
+Michigan State University
+Predicting Freshwater Biodiversity Across Scales Using Measures of Land Use,
+Climate, and Primary Productivity
+17-EARTH17F-0054
+Emily Ury (Student); Justin Wright (Advisor)
+Duke University
+Birds-Eye View on Canopy Stress from Saltwater Intrusion: Integrating Drone
+Imagery and Satellite Remote Sensing to Aid Coastal Wetland Restoration
+17-EARTH17F-0257
+Aravind Venkitasubramony (Student); Albin Gasiewski (Advisor)
+University of Colorado, Boulder
+Enabling Technology for a Climate Monitoring Microwave Radiometer (CliMMR)
+17-EARTH17F-0252
+Jamie Ward (Student); Mark Flanner (Advisor)
+University of Michigan, Ann Arbor
+Quantifying the Relative Contributions of Aerosols, Blocking Events, and Low
+Level Liquid Clouds to Greenland Snow Melt
+17-EARTH17F-0106
+Gang Zhao (Student); Huilin Gao (Advisor)
+Texas A&M Engineering Experiment Station
+Estimating Reservoir Evaporation Losses for the Contiguous United States
+17-EARTH17F-0297
+Enrico Zorzetto (Student); Marco Marani (Advisor)
+Duke University
+Optimal Satellite-Based Estimation of Extreme Rainfall at the Global Scale
+17-EARTH17F-0270
