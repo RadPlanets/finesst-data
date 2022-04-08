@@ -1,0 +1,114 @@
+Stephen Elardo (Student); Charles Shearer (Advisor)
+University of New Mexico
+Exploring the Interior of the Moon: A Perspective from Lunar Meteorites
+Kun Wang (Student); Frederic Moynier (Advisor)
+Washington University
+The Nickel Isotopic Composition of the Sun Inferred from the Solar Wind Recorded
+in the Lunar Regolith
+Pierre Haenecour (Student); Christine Floss (Advisor)
+Washington University
+Isotopic Anomalies in Primitive Extraterrestrial Materials in the Early Solar
+System: Origins and Relationships
+Reto Trappitsch (Student); Andrew Davis (Advisor)
+University of Chicago
+Isotopic Compositions of Transition Elements in Presolar Grains from Meteorites
+Jamie Molaro (Student); Shane Byrne (Advisor)
+University of Arizona
+Thermal Stress Weathering in the Inner Solar System
+Laerhoven Van (Student); Richard Greenberg (Advisor)
+University of Arizona
+Secular Dynamics of Multi-Planet Systems:
+Implications for the History, Physical Characteristics, and Habitability of Planets
+Nathan Williams (Student); James Bell (Advisor)
+Arizona State University
+Reconstructing the Tectonic Evolution of the Moon
+Morgan Nunn (Student); Mark Thiemens (Advisor)
+University of California, San Diego
+High Precision Measurements of Oxygen Isotopes in Extraterrestrial Water
+William McDoniel (Student); Philip Varghese (Advisor)
+University of Texas at Austin
+Coupled 3-D Simulations of Io's Plumes and Sublimation Atmosphere
+Karen Smith (Student); Christopher House (Advisor)
+Pennsylvania State University
+Investigating the Precursor Molecule of Meteoritic Amino Acids and Nucleobases:
+Measuring HCN in Carbonaceous Chondrites
+Juan Lora (Student); Joellen Russell (Advisor)
+University of Arizona
+Modeling Titan's Atmospheric Dynamics and their Interaction with Methane
+Daniel Eldridge (Student); James Farquhar (Advisor)
+University of Maryland
+Isotope Effects During the Oxidation of Sulfur Compounds
+Carolyn Crow (Student); Kevin McKeegan (Advisor)
+University of California, Los Angeles
+U-Xe Degassing Ages of Lunar Zircons: A Probe of Lunar Bombardment History
+Zachary Girazian (Student); Paul Withers (Advisor)
+Boston University
+The Vertical Structure of the Venus Ionosphere and its Implications for Terrestrial
+Planet Ionospheres
+Kathryn Fallows (Student); Paul Withers (Advisor)
+Boston University
+Modeling Day-to-Day Variability in the Ionosphere of Venus
+Syal Bruck (Student); Peter Schultz (Advisor)
+Brown University
+Spectroscopic Evaluation of Impact-Generated Vaporization
+Candace Gray (Student); Nancy Chanover (Advisor)
+New Mexico State University
+Upper Atmosphere Chemistry and Nightglow Variability on Venus and its
+Connection to Solar Flares
+Roberto Livi (Student); Jerry Goldstein (Advisor)
+Southwest Research Institute
+Plasma Convection in Saturn's Magnetosphere
+Robert Edmonds (Student); James Murphy (Advisor)
+New Mexico State University
+Investigating the Effects of Gravity (Buoyancy) Waves Upon the Martian
+Atmosphere, with Emphasis Upon Dust Storm Interactions
+Karen Rieck (Student); Richard Hervig (Advisor)
+Arizona State University
+Elemental Fluence Analysis in Genesis Collector Wafers by SIMS
+Cameron Mercer (Student); Kip Hodges (Advisor)
+Arizona State University
+In-situ Laser Microprobe 40Ar/39Ar Geochronology of Apollo 16 Impact Melts
+Curtis Williams (Student); Meenakshi (Mini) Wadhwa (Advisor)
+Arizona State University
+In situ Analyses of the Ti and Mg Isotopic Compositions of Refractory Inclusions:
+Characterization of Nebular Heterogeneity and Search for FUN Inclusions
+Mathieu Lapotre (Student); Michael Lamb (Advisor)
+California Institute of Technology
+Linking Bedrock Canyon Morphology to Martian Flood Hydraulics
+Nicholas Levitt (Student); Christopher Romanek (Advisor)
+University of Kentucky
+Clumped Isotopes in Carbonates as a Potential Biosignature
+Jamey Szalay (Student); Mihaly Horanyi (Advisor)
+University of Colorado
+The Dusty Plasma Environment of Airless Bodies in the Solar System
+Sona Hosseini (Student); Walter Harris (Advisor)
+University of California, Davis
+Temporal Monitoring of Volatile Production Rates and Isotopic Ratios in Comets
+Using a High Resolving Power Tunable Spatial Heterodyne Spectrometer.
+Jonathan Bapst (Student); Stephen Wood (Advisor)
+University of Washington
+Laboratory and Theoretical Investigations into the Long-term Behavior of Martian
+Ground Ice
+Steven Pifko (Student); Sigrid Close (Advisor)
+Stanford University
+An Investigation of Meteoroids in the Upper Atmosphere and the Impact on the
+Orbital Environment
+Megan Smith (Student); David Catling (Advisor)
+University of Washington
+Understanding the Second Rise of Oxygen through Biogeochemical Modeling
+Emily Kramer (Student); Yanga Fernandez (Advisor)
+University of Central Florida
+Active and Inactive Comets in the WISE Archive
+Hao Cao (Student); Christopher Russell (Advisor)
+University of California Los Angeles
+Does Saturn have a solid core? Evidence from Its Magnetic Field
+Jessica Watkins (Student); An Yin (Advisor)
+University of California, Los Angeles
+Investigating the Spatial and Temporal Relationships Between Magmatism and
+Tectonism Across the Claritas Rise
+Julia Fang (Student); Jean-Luc Margot (Advisor)
+University of California, Los Angeles
+Main Belt and Trans-Neptunian Triples(NESSF12-Astro to Planet)
+Jasmina Blecic (Student); Joseph Harrington (Advisor)
+University of Central Florida
+Bayesian Radiative Transfer Model for Exoplanet Spectra

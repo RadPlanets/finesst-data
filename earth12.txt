@@ -1,0 +1,193 @@
+Shahab Arabshahi (Student); Joseph Dwyer (Advisor)
+Florida Institute of Technology
+Investigation of the Radio Signatures Produced by Cosmic-Ray Air Showers Traversing
+Thunderclouds and the Association with Lightning Initiation and Narrow Bipolar Events
+Emily Arnold (Student); Richard Hale (Advisor)
+University of Kansas
+Enhancing Airborne Remote Sensing Radar to Provide Higher Quality Ice Sheet
+Measurements Used for Predicting Sea-Level Rise
+Hamed Ashouri Talouki (Student); Soroosh Sorooshian (Advisor)
+University of California, Irvine
+Spatio-Temporal Modeling of Extreme Precipitation Events Using Satellite-Based
+Observations
+Katherine Barnhart (Student); Robert Anderson (Advisor)
+University of Colorado, Boulder
+Flexible Heat Flow Models of the Active Layer and Conductive Permafrost: Thermal State
+from Field Measurements and Satellite-Derived Skin Temperature
+Matthew Beals (Student); Raymond Shaw (Advisor)
+Michigan Technological University
+Improved Mixed Phase Cloud Microstructure Measurements: The Holographic Detector
+for Clouds II (HOLODEC II)
+Tom Bell (Student); David Siegel (Advisor)
+University of California, Santa Barbara
+Hyperspectral Remote Sensing of Kelp Condition in the Santa Barbara Channel
+Sarah Brody (Student); M. Susan Lozier (Advisor)
+Duke University
+Examining Physical Drivers of Phytoplankton Bloom Phenology in Subpolar Regions
+Thinh Bui (Student); Mitchio Okumura (Advisor)
+California Institute of Technology
+High Precision Laboratory Spectroscopy of Oxygen and CO2 in Support of Remote
+Sensing
+Mattias Cape (Student); Maria Vernet (Advisor)
+Scripps Institution of Oceanography
+Phytoplankton and Sea Ice Dynamics Following Climate-Driven Ice Shelf Collapse in the
+Northwest Weddell Sea, Antarctica
+Magdalena Carranza (Student); Sarah Gille (Advisor)
+University of California, San Diego
+Effect of High Frequency Winds on the Mixed Layer Depth of the Southern Ocean
+Swarup China (Student); Claudio Mazzoleni (Advisor)
+Michigan Technological University
+Contact Ice Nucleation Studies in an Environmentally Controlled Acoustic Levitation Trap
+Nicholas Cuba (Student); John Rogan (Advisor)
+Clark University
+Interannual Variability in Seasonally Dry Tropical Forest Deciduousness and Implications
+for Soil Carbon Storage and Aerosol Emissions in the Mexican Southern Yucatán
+Chunli Dai (Student); C. K. Shum (Advisor)
+Ohio State University
+Earthquake Seismic Deformations from Spaceborne Gravimetry
+Natasha DeLeon-Rodriguez (Student); Konstantinos Konstantinidis (Advisor)
+Georgia Institute of Technology
+Quantifying the Role of Airborne Bacteria in Cloud Formation and Climate Modeling
+Mohammad Ebtehaj (Student); Efi Foufoula-Georgiou (Advisor)
+University of Minnesota
+Towards the Next Generation of Multi-sensor Multiscale Precipitation Fusion
+Emily Foshee (Student); Udaysankar Nair (Advisor)
+University of Alabama in Huntsville
+Gap Wind Analysis and Prediction (GAP): Development of Techniques for Forecasting
+Mountain Gap Winds Using Satellite-Derived Wind Fields and MERRA
+Nicholas Foukal (Student); Andrew Thomas (Advisor)
+University of Maine
+Satellite-Measured Phytoplankton Phenology in the California Current
+Jing Gao (Student); James Burt (Advisor)
+University of Wisconsin-Madison
+Bias-Variance Error Decomposition for Data-Driven Geospatial Modeling
+Abebe Gebregiorgis (Student); Faisal Hossain (Advisor)
+Tennessee Technological University
+Satellite Rainfall Uncertainty Estimation across the Globe for Diverse Hydrologic
+Applications Using Readily Accessible Geophysical Features
+Colin Gleason (Student); Laurence Smith (Advisor)
+University of California, Los Angeles
+Automated Tracking of Greenland Meltwater Runoff Integrating Surface and Satellite
+Observations of the Proglacial Zone
+Kaiyu Guan (Student); Eric Wood (Advisor)
+Princeton University
+Predicting Vegetation Phenology of African Savanna Ecosystems in a Changing Climate
+Yanghui Kang (Student); Mutlu Ozdogan (Advisor)
+University of Wisconsin
+Yield Estimation Through Assimilation of Remotely Sensed Data into Crop Growth
+Models
+Alexandra Konings (Student); Dara Entekhabi (Advisor)
+Massachusetts Institute of Technology
+Algorithms for P-band SAR Root-Zone Soil Moisture Retrieval
+Yang Lei (Student); Paul Siqueira (Advisor)
+University of Massachusetts
+Determination of Vegetation Vertical Structural Profile and Changes for DESDynI-Like
+missions Utilizing InSAR and PolInSAR Techniques
+Zhao Liu (Student); James Famiglietti (Advisor)
+University of California, Irvine
+An Explicit Representation of River Networks in a Catchment-Based Land Surface Model
+Framework for SWOT Assimilation
+David Marvin (Student); Robyn Burnham (Advisor)
+University of Michigan
+Are Tropical Lianas Increasing in Abundance? An Integrated Satellite-Aerial-Ground
+Approach for Liana Detection at the Landscape Scale
+Eric McIntyre (Student); Albin Gasiewski (Advisor)
+University of Colorado at Boulder
+L-band Spectrometry for SMAP Spatial Validation and RFI Mitigation
+Diego Melgar (Student); Yehuda Bock (Advisor)
+Scripps Institution of Oceanography, UCSD
+Rapid Source Imaging of Large Earthquakes for Early Response
+Samiah Moustafa (Student); Asa Rennermalm (Advisor)
+Rutgers, The State University of New Jersey
+Assessing Greenland Ice Sheet Meltwater Losses Through Braided Rivers Using ASTER,
+Landsat, Airborne NASA IceBridge, and In Situ Data
+Ivan Ortega (Student); Rainer Volkamer (Advisor)
+University of Colorado at Boulder
+Improving Trace Gas and Aerosol Vertical Information: Application to Satellite Validation
+Fernando Paolo (Student); Helen Fricker (Advisor)
+Scripps Institution of Oceanography
+Interannual and Decadal Variations of Antarctic Ice Shelves Using Multi-Mission Satellite
+Radar Altimetry, and Links with Oceanic and Atmospheric Forcings
+Sam Rabin (Student); Stephen Pacala (Advisor)
+Princeton University
+Understanding Land Use and Fire at a Global Scale
+Carlos Ramirez Reyes (Student); Volker Radeloff (Advisor)
+University of Wisconsin-Madison
+Monitoring Deforestation to Evaluate Mexico's Payments for Ecosystem Services and
+Assess Land Use Change Effects on Jaguar Habitat
+Anthony Reisinger (Student); James Gibeaut (Advisor)
+Texas A&M University, Corpus Christi
+Suspended Sediment Dynamics of Shallow Wind-Driven Estuaries: A Remote Sensing
+Approach
+Bryan Riel (Student); Mark Simons (Advisor)
+California Institute of Technology
+Sparse Inversion of Geodetic Data for Detecting Transient Signals
+Paul Schmid (Student); Dev Niyogi (Advisor)
+Purdue University
+Investigating the Impacts of Land-Surface Heterogeneity and Urban Aerosols on
+Thunderstorms Using Numerical Models and Multiplatform Satellite Observations
+Rachel Schwartz (Student); Alexander Gershunov (Advisor)
+Scripps Institution of Oceanography
+Marine Layer Clouds and California Coastal Climate: Behavior, Evolution and
+Consequences
+David Shean (Student); Ian Joughin (Advisor)
+University of Washington
+Quantifying Ice-Sheet Dynamics and Variability with Meter-Scale DEM and Velocity Data
+Xiaopeng Song (Student); John Townshend (Advisor)
+University of Maryland
+An integrated Assessment of Deforestation on Terrestrial Carbon Storage and Value of
+Ecosystem Services
+Kang Sun (Student); Mark Zondlo (Advisor)
+Princeton University
+Validation of TES Ammonia Using an Open-Path Quantum Cascade Laser Based
+Spectrometer
+Hao Tang (Student); Ralph Dubayah (Advisor)
+University of Maryland
+Determining Tropical Rain Forest Successional States Using Vertical Leaf Area Index
+(LAI) Profiles from Lidar Remote Sensing
+Holly Taylor (Student); Matthew Pritchard (Advisor)
+Cornell University
+A Search for Active Deformation in the Basin & Range Province and Rio Grande Rift of
+the Western U.S. and Northern Mexico
+Luke Trusel (Student); Karen Frey (Advisor)
+Clark University
+Antarctic Surface Melting: Intensity, Climatology, and Driving Mechanisms
+Pouya Vahmani (Student); Terri Hogue (Advisor)
+University of California, Los Angeles
+Urban Canopy Modeling (UCM) of the Los Angeles Metropolitan Area: Improving UCM
+Parameterization and Validation Using MODIS and Landsat Products
+Maria Vega-Rodriguez (Student); Frank Muller-Karger (Advisor)
+University of South Florida
+Influence of Temperature and Water Quality Variability on Oral Reef Diversity
+Zhiyu Wang (Student); Timothy Garrett (Advisor)
+University of Utah
+How will Future Arctic Sea Ice Decline Impact Atmospheric Stability and Cloudiness?
+Nic Wayand (Student); Jessica Lundquist (Advisor)
+University of Washington
+Here Today, Gone Tomorrow: Using Remote Sensing to Improve Modeling of Intermittent Snow
+Emma Wear (Student); Craig Carlson (Advisor)
+University of California
+Exploring the Role of Photobleached Dissolved Organic Matter on Bacterial Community
+Activity and Carbon Export Potential in Upwelling-Driven Case II Waters
+David Whittleston (Student); Dara Entekhabi (Advisor)
+Massachusetts Institute of Technology
+Delineating the Role of Arctic Forcing in Extratropical Extreme Weather
+Alana Wilson (Student); Mark Williams (Advisor)
+University of Colorado
+Using Remote Sensing and Physically-Based Hydrologic Models to Assess the Contribution
+of Snow and Ice Melt to the Major Rivers of High Asia
+Abel Woldemichael (Student); Faisal Hossain (Advisor)
+Tennessee Technological University
+Understanding Atmospheric Rivers, Terrain and Anthropogenic Land Cover Changes on
+Storm Modification Around Large Dams Using Multi-Sensor Satellite Data, Cloud
+Tracking and Numerical Modeling
+Xiaoguang Xu (Student); Jun Wang (Advisor)
+University of Nebraska-Lincoln
+Constraining Global Sources of Atmospheric Mineral Dust with Multi-Sensor Satellite
+Observations and the GEOS-Chem Adjoint Model
+Noah Yavit (Student); Miles Silman (Advisor)
+Wake Forest University
+Ecosystem Effects and Carbon Content of Amazonian Bamboo-Dominated Forests
+Chen Zhou (Student); Andrew Dessler (Advisor)
+Texas A&M University
+Improvements in our Understanding of the Cloud Feedback
